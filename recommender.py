@@ -1,8 +1,6 @@
 import sys, os, math, operator, datetime
 from datetime import datetime
 
-# timeSlot = day time, preference = list of genres, data = json whole tv list for that day
-
 class User:
 	def __init__(self, likes, dislikes, location, provider, calendar, ratings):
 		self.likes = likes
@@ -24,12 +22,10 @@ class Show:
 class Database:
 	def __init__(self, shows):
 		self.shows = shows
-		
-# def filter(location, date, startTime, userDuration, database):
+
 def filter(date, startTime, userDuration, database):
 	tvList = []
-	for show in database.shows:
-		# if(item.location == location and item.startTime >= startTime):
+	for show in database.shows:	
 		if(show.startTime >= startTime):
 			if ((show.startTime == startTime) and (show.duration <= userDuration)): #if show starts at the same time that the user is free, then the show can run the entire length that the user is free or less
 				tvList.append(show)
@@ -39,74 +35,80 @@ def filter(date, startTime, userDuration, database):
 				dur = userDuration #created temp variable so i wouldn't alter userDuration
 				if ((dur - (time)) >= show.duration): #check if the item runs and finishes in good time even after including the shows delayed start 
 					tvList.append(show)
-	
+	# for i in tvList:
+		# print i.title + " " + str(i.rating)
 	return tvList
 		
 def recommender(user, database):
-	# tvList = []
 	count = 0
-	# for show in data:
-		# if(airtime < timeSlot and showduration < duration):
-			# del show
 	tvRecommend = {}
+	
 	for show in database:
 		showTitle = show.title
 		tvRecommend[showTitle] = 0
 		
 		rated = False
-
+		
+		last = len(user.likes) - 1
 		for userGenre in user.likes:
+			# print "hello"
 			if userGenre in show.genre:
 				tvRecommend[showTitle] = tvRecommend[showTitle] + 1
-				
 				if(rated == False):
 					tvRecommend[showTitle] = tvRecommend[showTitle] + show.rating*2
 					rated = True
-			else: 
+			elif(userGenre == user.likes[-1]):
 				if(rated == False):
 					tvRecommend[showTitle] = tvRecommend[showTitle] + show.rating
 					rated = True
-		# if user dislikes genre, get rid of it in results
-		for bad in user.dislikes:
-			if bad in show.genre:
+			else:
+				continue;
+		
+		for genre in user.dislikes: # if user dislikes genre, get rid of it in results
+			if genre in show.genre:
 				del tvRecommend[showTitle]
-		
-		
-	sorted(tvRecommend.items(), key=operator.itemgetter(1), reverse = True)
-	# tvRecommend.sort(key= itemgetter(1), reverse = True)
-	 
+	
+	
+	
+	# sorted(tvRecommend.items(), key=operator.itemgetter(1), reverse = True)
+	
+	# for keys in tvRecommend:
+		# print keys + " : " + str(tvRecommend[keys])
+	
 	return tvRecommend
 
 def printTopShows(dShows):
-	print max(dShows, key=dShows.get)
 	print dShows
+	for i in range(3):
+		topShow = max(dShows, key=dShows.get)
+		print topShow + " :: " + str(dShows[topShow])
+		del dShows[topShow]
 		
 def parseFile(fileName):
 	list = []
 	with open(fileName) as f:
 		for line in f:
-			 
 			data = line.split(";")
-			#year-mon-day hh:mm:ss
 			startTime = datetime.strptime(data[3], "%Y-%m-%d %H:%M:%S")
 			s = Show(data[0], data[1], int(data[2]), startTime, int(data[4]), data[5].rstrip())
+			
 			list.append(s)
 			
 	db = Database(list)
 	return db
 
+def deleteMovies(fileName):
+	with open(fileName) as oldfile, open('removedMovies.txt', 'w') as newfile:
+		for line in oldfile:
+			if not line.startswith("Movie"):
+				newfile.write(line)
+
 def main():
-	# parseFile("test2.txt")
+	# deleteMovies("app/data.txt")
+	bobDate = datetime(2016, 4, 10, 19, 0, 0)
+	Bob = User(["Comedy", "Sci-Fi", "Fantasy"], ["Mystery"], 77840, "suddenlink", "calendar", {"Doctor Who": 4, "Big Bang Theory": 3})
 	
-	
-	bobDate = datetime(2016, 4, 9, 19, 0, 0)
-	Bob = User(["comedy", "romance"], ["fantasy"], 77840, "suddenlink", "calendar", {"Doctor Who": 4, "Big Bang Theory": 3})
-	
-	# dw = Show("Doctor Who", "fantasy", 4, bobDate, 90, "cable")
-	# bbt = Show("Big Bang Theory", "comedy", 2, bobDate, 30, "cable")
-	# sh = Show("Sherlock", "mystery", 4, bobDate, 90, "cable")
-	# got = Show("Game of Thrones", "fantasy", 2, bobDate, 30, "cable")
-	# db = Database([dw, bbt, sh, got])
+	# db = parseFile("removedMovies.txt")
 	db = parseFile("test2.txt")
 	
 	validShows = filter("4-5-2016", bobDate, 180, db)
@@ -116,5 +118,3 @@ def main():
 		
 if __name__ == '__main__':
 	main()
-	
-# used hw0_part2 as reference
