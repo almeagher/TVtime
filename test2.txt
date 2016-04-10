@@ -1,2 +1,4 @@
-Sherlock;mystery;4;19:00;90
-Game of Thrones, fantasy, 2, 19:00, 30
+Doctor Who;fantasy;4;2016-04-09 19:00:00;90;cable
+Big Bang Theory;comedy;2;2016-04-09 19:00:00;30;cable
+Sherlock;mystery;4;2016-04-09 19:00:00;90;cable
+Game of Thrones;fantasy;2;2016-04-09 19:00:00;30;cable

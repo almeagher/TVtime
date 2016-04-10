@@ -1,4 +1,5 @@
 import sys, os, math, operator, datetime
+from datetime import datetime
 
 # timeSlot = day time, preference = list of genres, data = json whole tv list for that day
 
@@ -33,11 +34,12 @@ def filter(date, startTime, userDuration, database):
 			if ((show.startTime == startTime) and (show.duration <= userDuration)): #if show starts at the same time that the user is free, then the show can run the entire length that the user is free or less
 				tvList.append(show)
 			if (show.startTime > startTime): #if the show starts at a later time than the beginning of the users free time then check if it can be watched within the duration the user is free 
-				diff = math.ceil(show.startTime - startTime) #find out how long the shows starts after the beginnning of the user's free time (measured in hours so using ceiling)
+				diff = show.startTime - startTime #find out how long the shows starts after the beginnning of the user's free time (measured in hours so using ceiling)
+				time = (diff.seconds//60)%60
 				dur = userDuration #created temp variable so i wouldn't alter userDuration
-				if ((dur - (diff * 60)) >= show.duration): #check if the item runs and finishes in good time even after including the shows delayed start 
+				if ((dur - (time)) >= show.duration): #check if the item runs and finishes in good time even after including the shows delayed start 
 					tvList.append(show)
-			
+	
 	return tvList
 		
 def recommender(user, database):
@@ -79,18 +81,33 @@ def printTopShows(dShows):
 	print max(dShows, key=dShows.get)
 	print dShows
 		
+def parseFile(fileName):
+	list = []
+	with open(fileName) as f:
+		for line in f:
+			 
+			data = line.split(";")
+			#year-mon-day hh:mm:ss
+			startTime = datetime.strptime(data[3], "%Y-%m-%d %H:%M:%S")
+			s = Show(data[0], data[1], int(data[2]), startTime, int(data[4]), data[5].rstrip())
+			list.append(s)
+			
+	db = Database(list)
+	return db
+
 def main():
-	file = open("test.txt", "r")
+	# parseFile("test2.txt")
 	
 	
-	bobDate = datetime.time(19, 0)
+	bobDate = datetime(2016, 4, 9, 19, 0, 0)
 	Bob = User(["comedy", "romance"], ["fantasy"], 77840, "suddenlink", "calendar", {"Doctor Who": 4, "Big Bang Theory": 3})
 	
-	dw = Show("Doctor Who", "fantasy", 4, bobDate, 90)
-	bbt = Show("Big Bang Theory", "comedy", 2, bobDate, 30)
-	sh = Show("Sherlock", "mystery", 4, bobDate, 90)
-	got = Show("Game of Thrones", "fantasy", 2, bobDate, 30)
-	db = Database([dw, bbt, sh, got])
+	# dw = Show("Doctor Who", "fantasy", 4, bobDate, 90, "cable")
+	# bbt = Show("Big Bang Theory", "comedy", 2, bobDate, 30, "cable")
+	# sh = Show("Sherlock", "mystery", 4, bobDate, 90, "cable")
+	# got = Show("Game of Thrones", "fantasy", 2, bobDate, 30, "cable")
+	# db = Database([dw, bbt, sh, got])
+	db = parseFile("test2.txt")
 	
 	validShows = filter("4-5-2016", bobDate, 180, db)
 	recommendedShows = recommender(Bob, validShows)
