@@ -1,6 +1,12 @@
 import sys, os, math, operator, datetime, urllib, urllib2, json, io
 from decimal import Decimal
 from datetime import datetime
+from flask import Flask
+from flask import render_template
+from flask import request
+
+#app = Flask(__name__)
+app = Flask(__name__)
 
 class User:
 	def __init__(self, likes, dislikes, location, provider, calendar, ratings):
@@ -125,6 +131,7 @@ def deleteMovies(fileName):
 			if not line.startswith("Movie"):
 				newfile.write(line)
 
+@app.route('/test')
 def main():
 	# deleteMovies("app/data.txt")
 	bobDate = datetime(2016, 4, 10, 19, 0, 0)
@@ -136,7 +143,38 @@ def main():
 	validShows = filter("4-5-2016", bobDate, 180, db)
 	recommendedShows = recommender(Bob, validShows)
 	printTopShows(recommendedShows)
+
+	return render_template('questionaire.html')
+
+@app.route('/')
+def index():
+
+	return render_template('index.html')
+
+@app.route('/login')
+def login():
+
+	return render_template('login.html')
+
+@app.route('/calendar')
+def calendar():
+
+	return render_template('calendar.html')
+
+@app.route('/questionaire')
+def questionaire():
+
+	return render_template('questionaire.html')
+
+@app.route('/importcalendar')
+def importcalender():
+
+	return render_template('importcalendar.html')
 	
+@app.route('/signup')
+def signup():
+
+	return render_template('signup.html')
 		
 if __name__ == '__main__':
-	main()
+	app.run(debug=True)
