@@ -1,4 +1,5 @@
-import sys, os, math, operator, datetime
+import sys, os, math, operator, datetime, urllib, urllib2, json, io
+from decimal import Decimal
 from datetime import datetime
 
 class User:
@@ -22,6 +23,27 @@ class Show:
 class Database:
 	def __init__(self, shows):
 		self.shows = shows
+
+#Given a list of tv show titles, it returns a list of ratings on a 
+#scale of 1-10 from IMDb
+#Example Input: ["Supernatural", "NCIS", "7th Heaven"] 
+#Output: [8.6, 7.9, 5.1] 
+def showRatings(show_list):
+	rating_list = []
+
+	for show in show_list:
+		show = urllib.quote(show)
+		url = 'http://www.omdbapi.com/?t='+show+'&y=&plot=short&r=json'
+		request = urllib2.Request(url)
+		request_opener = urllib2.build_opener()
+		response = request_opener.open(request) 
+		response_data = response.read()
+		json_result = json.loads(response_data)
+		rating_list.append(Decimal(json_result['imdbRating']))
+
+	return rating_list
+		
+# def filter(location, date, startTime, userDuration, database):
 
 def filter(date, startTime, userDuration, database):
 	tvList = []
