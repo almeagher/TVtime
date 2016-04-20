@@ -25,24 +25,58 @@
 	text-align: center;
 }
 </style>
+
+<!-- Latest compiled and minified CSS -->
+<link rel="stylesheet" href="http://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css">
+
+<!-- jQuery library -->
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.0/jquery.min.js"></script>
+
+<!-- Latest compiled JavaScript -->
+<script src="http://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/js/bootstrap.min.js"></script>
 </head>
 
 <body>
+<div class="container">
+	<nav class="navbar navbar-inverse">
+		<div class="container-fluid">
+			<span class="navbar-header"><a class="navbar-brand" href="#">TV Time</a></span>
+			<!--<span class="navbar-header"><a class="navbar-brand" href="#"><img src="../images/logo.png" alt="TV Time logo" style="width:40px;height:45px;"></a></span>-->
+			<div class="navbar-header">
+			<button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar1">
+			  <span class="sr-only">Toggle navigation</span>
+			  <span class="icon-bar"></span>
+			  <span class="icon-bar"></span>
+			  <span class="icon-bar"></span>
+			</button>
+			</div>
+		  	<div id="navbar1" class="navbar-collapse collapse">
+				<ul class="nav navbar-nav">
+					<li><a href="index.html">Home</a></li>
+					<li class="active"><a href="login.html">Login</a></li>
+					<li><a href="signup.html">Sign Up</a></li>
+					<li><a href="calendar.html">Calendar</a></li>
+					<li><a href="questionaire.html">Questionaire</a></li>
+					<li><a href="importcalendar.html">Import Calendar</a></li>
+				</ul>
+			</div>
+		</div>
+	</nav>
+	<div align="center">
+		<p class="auto-style5">Login to your TVtime account</p>
+		<p class="auto-style4">Username:&nbsp;&nbsp;&nbsp;
+		<input class="auto-style1" name="Username1" style="width: 178px" type="text"></p>
+		<p class="auto-style4">Password:&nbsp;&nbsp;&nbsp;
+		<input class="auto-style2" name="Password1" style="width: 182px" type="password">
+		</p>
+		<form method="post">
+			<div class="auto-style4">
+			<input name="button" type="button" value="Enter"></div>
+		</form>
 
-<p class="auto-style3">
-<img alt="logo tv time" height="44" src="../images/logo.png" style="float: left" width="50">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="index.html">Home</a></p>
-<p>&nbsp;</p>
-<p class="auto-style5">Login to your TVtime account</p>
-<p class="auto-style4">Username:&nbsp;&nbsp;&nbsp;
-<input class="auto-style1" name="Text1" style="width: 178px" type="text"></p>
-<p class="auto-style4">Password:&nbsp;&nbsp;&nbsp;
-<input class="auto-style2" name="Password1" style="width: 182px" type="password">
-</p>
-<form method="post">
-	<div class="auto-style4">
-	<input name="button" type="button" value="Enter"></div>
-</form>
-
+	</div>
+	
+</div>
 </body>
 
 </html>

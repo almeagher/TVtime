@@ -12,52 +12,87 @@
 	text-align: center;
 }
 </style>
+
+<!-- Latest compiled and minified CSS -->
+<link rel="stylesheet" href="http://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css">
+
+<!-- jQuery library -->
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.0/jquery.min.js"></script>
+
+<!-- Latest compiled JavaScript -->
+<script src="http://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/js/bootstrap.min.js"></script>
 </head>
 
 <body>
-
-<p class="auto-style1">
-<img alt="logo tv time" height="44" src="../images/logo.png" style="float: left" width="50">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="index.html">Home</a></p>
-<p>&nbsp;</p>
-<p class="auto-style2">When are you busy?</p>
-<p class="auto-style2">Monday&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<input name="Text1" type="text">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<input name="Text8" type="text">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<input name="Text15" type="text">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<input name="Text16" type="text">&nbsp; </p>
-<p class="auto-style2">Tuesday&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<input name="Text2" type="text">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<input name="Text9" type="text">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<input name="Text17" type="text">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<input name="Text18" type="text">&nbsp; </p>
-<p class="auto-style2">Wednesday&nbsp;&nbsp;&nbsp;&nbsp; <input name="Text3" type="text">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<input name="Text10" type="text">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<input name="Text19" type="text">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<input name="Text20" type="text"> </p>
-<p class="auto-style2">Thursday&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<input name="Text4" type="text">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<input name="Text11" type="text">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<input name="Text21" type="text">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<input name="Text22" type="text">&nbsp; </p>
-<p class="auto-style2">Friday&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<input name="Text5" type="text">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<input name="Text12" type="text">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<input name="Text23" type="text">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<input name="Text24" type="text">&nbsp; </p>
-<p class="auto-style2">Saturday&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<input name="Text6" type="text">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<input name="Text13" type="text">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<input name="Text25" type="text">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<input name="Text26" type="text"> </p>
-<p class="auto-style2">Sunday&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<input name="Text7" type="text">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<input name="Text14" type="text">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<input name="Text27" type="text">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<input name="Text28" type="text"> </p>
-<form method="post">
-	<div class="auto-style2">
-	<input name="Button1" type="button" value="Enter"></div>
-</form>
+<div class="container">
+	<nav class="navbar navbar-inverse">
+		<div class="container-fluid">
+			<span class="navbar-header"><a class="navbar-brand" href="#">TV Time</a></span>
+			<!--<span class="navbar-header"><a class="navbar-brand" href="#"><img src="../images/logo.png" alt="TV Time logo" style="width:40px;height:45px;"></a></span>-->
+			<div class="navbar-header">
+			<button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar1">
+			  <span class="sr-only">Toggle navigation</span>
+			  <span class="icon-bar"></span>
+			  <span class="icon-bar"></span>
+			  <span class="icon-bar"></span>
+			</button>
+			</div>
+		  	<div id="navbar1" class="navbar-collapse collapse">
+				<ul class="nav navbar-nav">
+					<li><a href="index.html">Home</a></li>
+					<li><a href="login.html">Login</a></li>
+					<li><a href="signup.html">Sign Up</a></li>
+					<li><a href="calendar.html">Calendar</a></li>
+					<li><a href="questionaire.html">Questionaire</a></li>
+					<li class="active"><a href="importcalendar.html">Import Calendar</a></li>
+				</ul>
+			</div>
+		</div>
+	</nav>
+	<div align="center">
+		
+		<p class="auto-style2">When are you busy?</p>
+		<p class="auto-style2">Monday&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+		<input name="Text1" type="text">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+		<input name="Text8" type="text">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+		<input name="Text15" type="text">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+		<input name="Text16" type="text">&nbsp; </p>
+		<p class="auto-style2">Tuesday&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+		<input name="Text2" type="text">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+		<input name="Text9" type="text">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+		<input name="Text17" type="text">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+		<input name="Text18" type="text">&nbsp; </p>
+		<p class="auto-style2">Wednesday&nbsp;&nbsp;&nbsp;&nbsp; <input name="Text3" type="text">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+		<input name="Text10" type="text">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+		<input name="Text19" type="text">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+		<input name="Text20" type="text"> </p>
+		<p class="auto-style2">Thursday&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+		<input name="Text4" type="text">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+		<input name="Text11" type="text">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+		<input name="Text21" type="text">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+		<input name="Text22" type="text">&nbsp; </p>
+		<p class="auto-style2">Friday&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+		<input name="Text5" type="text">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+		<input name="Text12" type="text">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+		<input name="Text23" type="text">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+		<input name="Text24" type="text">&nbsp; </p>
+		<p class="auto-style2">Saturday&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+		<input name="Text6" type="text">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+		<input name="Text13" type="text">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+		<input name="Text25" type="text">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+		<input name="Text26" type="text"> </p>
+		<p class="auto-style2">Sunday&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+		<input name="Text7" type="text">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+		<input name="Text14" type="text">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+		<input name="Text27" type="text">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+		<input name="Text28" type="text"> </p>
+		<form method="post">
+			<div class="auto-style2">
+			<input name="Button1" type="button" value="Enter"></div>
+		</form>
+	
+	</div>
+</div>
 
 </body>
 
