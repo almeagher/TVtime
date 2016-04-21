@@ -242,10 +242,24 @@ def index():
 
 	return render_template('index.html')
 
-@app.route('/login')
+@app.route('/login' , methods=['POST', 'GET'])
 def login():
+	error = ""
+	mockeddatafilename = ""
+	if request.method == 'GET':
 
-	return render_template('login.html')
+		return render_template('login.html')
+
+	if request.method == 'POST'
+		if str(request.form["Username1"]) is not None: 
+			with open("users.txt") as usersfile
+				for line in usersfile
+					if str(request.form["Username1"]) in line
+						return render_template('calendar.html', mockeddatafilename=str(request.form["Username1"]).txt)
+				error = "user not found"
+		else:
+			error = "invalid username"
+		return render_template('login.html', error=error)
 
 @app.route('/calendar')
 def calendar():
