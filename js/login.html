@@ -6,23 +6,48 @@
 <meta content="text/html; charset=utf-8" http-equiv="Content-Type">
 <title>Login</title>
 <style type="text/css">
-.auto-style1 {
-	margin-top: 0px;
+
+table {
+   padding:10px;
 }
-.auto-style2 {
-	margin-left: 0px;
-	margin-top: 0px;
+table td {
+   font-size:20px;
+   color:#000;
+	padding: 5px;
+
 }
-.auto-style3 {
-	margin-top: 0px;
-	text-align: right;
+
+table th {
+   visibility:hidden;
+   display:none;
 }
-.auto-style4 {
-	text-align: center;
+input[type="text"] {
+   width:200px;
+   height:35px;
+   border:1px solid silver;
+   border-radius:3px;
+   font-size:17px;
+   padding:5px;
 }
-.auto-style5 {
-	margin-top: 0px;
-	text-align: center;
+
+@media only screen and (min-width:180px) and (max-width:679px){
+	table {
+		width:100%;
+	}
+	table .column1 {
+		visibility:hidden;
+		display:none;
+	}
+	table th {
+		visibility:visible;
+		display:block;
+		font-size:20px;
+		color:#E6E6E6;
+	}
+	input[type="text"] {
+		width:80%;
+		margin-left:10%;
+	}
 }
 </style>
 
@@ -63,15 +88,30 @@
 		</div>
 	</nav>
 	<div align="center">
-		<p class="auto-style5">Login to your TVtime account</p>
+		
+		<!-- <p class="auto-style5">Login to your TVtime account</p>
 		<p class="auto-style4">Username:&nbsp;&nbsp;&nbsp;
 		<input class="auto-style1" name="Username1" style="width: 178px" type="text"></p>
 		<p class="auto-style4">Password:&nbsp;&nbsp;&nbsp;
 		<input class="auto-style2" name="Password1" style="width: 182px" type="password">
-		</p>
+		</p> -->
+		<table align=center cellspacing=10>
+			<th class="hidden_th">Email:</th>
+			<tr>
+			    <td class="column1">Email:</td>
+			    <td><input type="text" placeholder="Email address"></td>
+			</tr>
+
+			<th class="hidden_th">Password:</th>
+			<tr>
+			    <td class="column1">Password:</td>
+			    <td><input type="text" placeholder="Password"></td>
+			</tr>
+		</table>
+		<br />
+		<a href="signup.html">New User</a>
 		<form method="post">
-			<div class="auto-style4">
-			<input name="button" type="button" value="Enter"></div>
+			<input name="Enter" type="button" value="Login" onclick="window.location='calendar.html';">
 		</form>
 
 	</div>
