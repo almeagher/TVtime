@@ -237,7 +237,7 @@ def main():
 	return render_template('questionaire.html', message=message)
 
 
-@app.route('/')
+@app.route('/', methods=['POST', 'GET'])
 def index():
 
 	return render_template('index.html')
@@ -248,35 +248,112 @@ def login():
 	mockeddatafilename = ""
 	if request.method == 'GET':
 
-		return render_template('login.html')
+		return render_template('login2.html')
 
-	if request.method == 'POST'
+	if request.method == 'POST':
 		if str(request.form["Username1"]) is not None: 
-			with open("users.txt") as usersfile
-				for line in usersfile
-					if str(request.form["Username1"]) in line
+			with open("users.txt") as usersfile:
+				for line in usersfile:
+					if str(request.form["Username1"]) in line:
 						return render_template('calendar.html', mockeddatafilename=str(request.form["Username1"]).txt)
 				error = "user not found"
 		else:
 			error = "invalid username"
-		return render_template('login.html', error=error)
+		return render_template('login2.html', error=error)
 
-@app.route('/calendar')
+@app.route('/calendar', methods=['POST', 'GET'])
 def calendar():
 
 	return render_template('calendar.html')
 
-@app.route('/questionaire')
+@app.route('/questionaire', methods=['POST', 'GET'])
 def questionaire():
+	message = ""
+	if request.method == 'GET':
+		return render_template('questionaire.html')
+	if request.method == 'POST':
+		try:
+			message += str(request.form['Checkbox1'])
+		except KeyError:
+			message += "off"
+		message += ","
+		try:
+			message += str(request.form['Checkbox2'])
+		except KeyError:
+			message += "off"
+		message += ","
+		try:
+			message += str(request.form['Checkbox3'])
+		except KeyError:
+			message += "off"
+		message += ","
+		try:
+			message += str(request.form['Checkbox4'])
+		except KeyError:
+			message += "off"
+		message += ","
+		try:
+			message += str(request.form['Checkbox5'])
+		except KeyError:
+			message += "off"
+		message += ","
+		try:
+			message += str(request.form['Checkbox6'])
+		except KeyError:
+			message += "off"
+		message += ","
+		try:
+			message += str(request.form['Checkbox7'])
+		except KeyError:
+			message += "off"
+		message += ","
+		try:
+			message += str(request.form['Checkbox8'])
+		except KeyError:
+			message += "off"
+		message += ","
+		try:
+			message += str(request.form['Checkbox9'])
+		except KeyError:
+			message += "off"
+		message += ","
+		try:
+			message += str(request.form['Checkbox10'])
+		except KeyError:
+			message += "off"
+		message += ","
+		try:
+			message += str(request.form['Checkbox11'])
+		except KeyError:
+			message += "off"
+		message += ","
+		try:
+			message += str(request.form['Checkbox12'])
+		except KeyError:
+			message += "off"
+		message += ","
+		try:
+			message += str(request.form['Checkbox13'])
+		except KeyError:
+			message += "off"
+		message += ","
+		try:
+			message += str(request.form['Checkbox14'])
+		except KeyError:
+			message += "off"
+		message += ","
+		try:
+			message += str(request.form['Checkbox15'])
+		except KeyError:
+			message += "off"
+		return render_template('calendar.html')
 
-	return render_template('questionaire.html')
-
-@app.route('/importcalendar')
+@app.route('/importcalendar', methods=['POST', 'GET'])
 def importcalender():
 
 	return render_template('importcalendar.html')
 	
-@app.route('/signup')
+@app.route('/signup', methods=['POST', 'GET'])
 def signup():
 
 	return render_template('signup.html')
