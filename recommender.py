@@ -131,8 +131,25 @@ def deleteMovies(fileName):
 			if not line.startswith("Movie"):
 				newfile.write(line)
 
-@app.route('/test')
+@app.route('/test', methods=['POST', 'GET'])
 def main():
+	message = ""
+	if request.method == 'GET':
+
+		# deleteMovies("app/data.txt")
+		bobDate = datetime(2016, 4, 10, 19, 0, 0)
+		Bob = User(["Comedy", "Sci-Fi", "Fantasy"], ["Mystery"], 77840, "suddenlink", "calendar", {"Doctor Who": 4, "Big Bang Theory": 3})
+		
+		# db = parseFile("removedMovies.txt")
+		db = parseFile("test2.txt")
+		
+		validShows = filter("4-5-2016", bobDate, 180, db)
+		recommendedShows = recommender(Bob, validShows)
+		printTopShows(recommendedShows)
+		return render_template('questionaire.html', message=message)
+
+	#request.form['questionaire']
+	
 	# deleteMovies("app/data.txt")
 	bobDate = datetime(2016, 4, 10, 19, 0, 0)
 	Bob = User(["Comedy", "Sci-Fi", "Fantasy"], ["Mystery"], 77840, "suddenlink", "calendar", {"Doctor Who": 4, "Big Bang Theory": 3})
@@ -143,8 +160,82 @@ def main():
 	validShows = filter("4-5-2016", bobDate, 180, db)
 	recommendedShows = recommender(Bob, validShows)
 	printTopShows(recommendedShows)
+	try:
+		message += str(request.form['Checkbox1'])
+	except KeyError:
+		message += "off"
+	message += ","
+	try:
+		message += str(request.form['Checkbox2'])
+	except KeyError:
+		message += "off"
+	message += ","
+	try:
+		message += str(request.form['Checkbox3'])
+	except KeyError:
+		message += "off"
+	message += ","
+	try:
+		message += str(request.form['Checkbox4'])
+	except KeyError:
+		message += "off"
+	message += ","
+	try:
+		message += str(request.form['Checkbox5'])
+	except KeyError:
+		message += "off"
+	message += ","
+	try:
+		message += str(request.form['Checkbox6'])
+	except KeyError:
+		message += "off"
+	message += ","
+	try:
+		message += str(request.form['Checkbox7'])
+	except KeyError:
+		message += "off"
+	message += ","
+	try:
+		message += str(request.form['Checkbox8'])
+	except KeyError:
+		message += "off"
+	message += ","
+	try:
+		message += str(request.form['Checkbox9'])
+	except KeyError:
+		message += "off"
+	message += ","
+	try:
+		message += str(request.form['Checkbox10'])
+	except KeyError:
+		message += "off"
+	message += ","
+	try:
+		message += str(request.form['Checkbox11'])
+	except KeyError:
+		message += "off"
+	message += ","
+	try:
+		message += str(request.form['Checkbox12'])
+	except KeyError:
+		message += "off"
+	message += ","
+	try:
+		message += str(request.form['Checkbox13'])
+	except KeyError:
+		message += "off"
+	message += ","
+	try:
+		message += str(request.form['Checkbox14'])
+	except KeyError:
+		message += "off"
+	message += ","
+	try:
+		message += str(request.form['Checkbox15'])
+	except KeyError:
+		message += "off"
+	return render_template('questionaire.html', message=message)
 
-	return render_template('questionaire.html')
 
 @app.route('/')
 def index():
