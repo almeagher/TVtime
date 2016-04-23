@@ -4,9 +4,13 @@ from datetime import datetime
 from flask import Flask
 from flask import render_template
 from flask import request
+from flask import session
+from flask import redirect
+from flask import url_for
 
 #app = Flask(__name__)
 app = Flask(__name__)
+app.secret_key = 'A0Zr98j/3yX R~XHH!jmN]LWX/,?RT'
 
 class User:
 	def __init__(self, likes, dislikes, location, provider, calendar, ratings):
@@ -251,14 +255,26 @@ def login():
 		return render_template('login2.html')
 
 	if request.method == 'POST':
-		if str(request.form["Username1"]) is not None: 
-			with open("users.txt") as usersfile:
-				for line in usersfile:
-					if str(request.form["Username1"]) in line:
-						return render_template('calendar.html', mockeddatafilename=str(request.form["Username1"]).txt)
-				error = "user not found"
+		if (str(request.form["username"]) is not None and str(request.form["submit-btn"]) is not None and str(request.form["password"]) is not None):
+			if(request.form["submit-btn"] == "Login"): 
+				with open("users.txt") as usersfile:
+					for line in usersfile:
+						if str(request.form["username"]) in line:
+							if str(request.form["password"]) in line.split(';')[1]:
+								session['username'] = request.form['username']
+								return redirect(url_for('calendar'))
+				error = "user/password pair not found"
+			if(request.form["submit-btn"] == "Register"):
+				#add user
+				users = open("users.txt", 'a')
+				users.write("\n" + request.form["username"] + ";" + request.form["password"])
+				#add users info file
+				userfile = open(request.form["username"], 'w')
+				#zipcode, tv provider, likes(in questionair)
+				userfile.write(request.form["zipcode"] + ";" + request.form["provider"] + ";");
+				return redirect(url_for("questionaire"))
 		else:
-			error = "invalid username"
+			error = "invalid data entry"
 		return render_template('login2.html', error=error)
 
 @app.route('/calendar', methods=['POST', 'GET'])
@@ -268,95 +284,97 @@ def calendar():
 
 @app.route('/questionaire', methods=['POST', 'GET'])
 def questionaire():
-	message = ""
+	likes = ""
 	if request.method == 'GET':
 		return render_template('questionaire.html')
 	if request.method == 'POST':
 		try:
-			message += str(request.form['Checkbox1'])
+			likes += "action"
 		except KeyError:
-			message += "off"
-		message += ","
+			likes += "off"
+		likes += ","
 		try:
-			message += str(request.form['Checkbox2'])
+			likes += "adultanimation"
 		except KeyError:
-			message += "off"
-		message += ","
+			likes += "off"
+		likes += ","
 		try:
-			message += str(request.form['Checkbox3'])
+			likes += "business"
 		except KeyError:
-			message += "off"
-		message += ","
+			likes += "off"
+		likes += ","
 		try:
-			message += str(request.form['Checkbox4'])
+			likes += "comedy"
 		except KeyError:
-			message += "off"
-		message += ","
+			likes += "off"
+		likes += ","
 		try:
-			message += str(request.form['Checkbox5'])
+			likes += "crime"
 		except KeyError:
-			message += "off"
-		message += ","
+			likes += "off"
+		likes += ","
 		try:
-			message += str(request.form['Checkbox6'])
+			likes += "drama"
 		except KeyError:
-			message += "off"
-		message += ","
+			likes += "off"
+		likes += ","
 		try:
-			message += str(request.form['Checkbox7'])
+			likes += "family"
 		except KeyError:
-			message += "off"
-		message += ","
+			likes += "off"
+		likes += ","
 		try:
-			message += str(request.form['Checkbox8'])
+			likes += "fantasy"
 		except KeyError:
-			message += "off"
-		message += ","
+			likes += "off"
+		likes += ","
 		try:
-			message += str(request.form['Checkbox9'])
+			likes += "horror"
 		except KeyError:
-			message += "off"
-		message += ","
+			likes += "off"
+		likes += ","
 		try:
-			message += str(request.form['Checkbox10'])
+			likes += "kidsanimation"
 		except KeyError:
-			message += "off"
-		message += ","
+			likes += "off"
+		likes += ","
 		try:
-			message += str(request.form['Checkbox11'])
+			likes += "news"
 		except KeyError:
-			message += "off"
-		message += ","
+			likes += "off"
+		likes += ","
 		try:
-			message += str(request.form['Checkbox12'])
+			likes += "reality"
 		except KeyError:
-			message += "off"
-		message += ","
+			likes += "off"
+		likes += ","
 		try:
-			message += str(request.form['Checkbox13'])
+			likes += "romance"
 		except KeyError:
-			message += "off"
-		message += ","
+			likes += "off"
+		likes += ","
 		try:
-			message += str(request.form['Checkbox14'])
+			likes += "scifi"
 		except KeyError:
-			message += "off"
-		message += ","
+			likes += "off"
+		likes += ","
 		try:
-			message += str(request.form['Checkbox15'])
+			likes += "sports"
 		except KeyError:
-			message += "off"
-		return render_template('calendar.html')
+			likes += "off"
+		user = open(session['username'], 'a')
+		user.write(likes + ';')
+		return redirect(url_for('calendar'))
 
 @app.route('/importcalendar', methods=['POST', 'GET'])
 def importcalender():
 
 	return render_template('importcalendar.html')
 	
-@app.route('/signup', methods=['POST', 'GET'])
-def signup():
-
-	return render_template('signup.html')
+@app.route('/logout', methods=['POST', 'GET'])
+def logout():
+	session.pop('username', None)
+	return redirect(url_for('login'))
 		
 if __name__ == '__main__':
 	app.run(debug=True)
