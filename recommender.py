@@ -269,9 +269,10 @@ def login():
 				users = open("users.txt", 'a')
 				users.write("\n" + request.form["username"] + ";" + request.form["password"])
 				#add users info file
-				userfile = open(request.form["username"], 'w')
+				userfile = open(request.form["username"] + ".txt", 'w')
 				#zipcode, tv provider, likes(in questionair)
 				userfile.write(request.form["zipcode"] + ";" + request.form["provider"] + ";");
+				session["username"] = request.form["username"]
 				return redirect(url_for("questionaire"))
 		else:
 			error = "invalid data entry"
@@ -361,19 +362,25 @@ def questionaire():
 		try:
 			likes += "sports"
 		except KeyError:
-			likes += "off"
-		user = open(session['username'], 'a')
+			likes += "off" 
+		user = open(session["username"] + ".txt", 'a')
 		user.write(likes + ';')
 		return redirect(url_for('calendar'))
 
 @app.route('/importcalendar', methods=['POST', 'GET'])
 def importcalender():
 
-	return render_template('importcalendar.html')
+	if request.method == 'GET':
+
+		return render_template('importcalendar.html')
+
+	if request.method == 'POST':
+
+		return redirect(url_for('calendar'))
 	
 @app.route('/logout', methods=['POST', 'GET'])
 def logout():
-	session.pop('username', None)
+	session.pop("username", None)
 	return redirect(url_for('login'))
 		
 if __name__ == '__main__':
