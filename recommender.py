@@ -13,12 +13,13 @@ app = Flask(__name__)
 app.secret_key = 'A0Zr98j/3yX R~XHH!jmN]LWX/,?RT'
 
 class User:
-	def __init__(self, likes, dislikes, location, provider, calendar, ratings):
+	def __init__(self, likes, dislikes, location, provider, startTime, endTime, ratings):
 		self.likes = likes
 		self.dislikes = dislikes
 		self.location = location
 		self.provider = provider
-		self.calendar = calendar
+		self.startTime = startTime
+		self.endTime = endTime
 		self.ratings = ratings
 
 class Show:
@@ -42,14 +43,20 @@ def showRatings(show_list):
 	rating_list = []
 
 	for show in show_list:
-		show = urllib.quote(show)
-		url = 'http://www.omdbapi.com/?t='+show+'&y=&plot=short&r=json'
+		showTitle = urllib.quote(show.title)
+		url = 'http://www.omdbapi.com/?t='+showTitle+'&y=&plot=short&r=json'
 		request = urllib2.Request(url)
 		request_opener = urllib2.build_opener()
 		response = request_opener.open(request) 
 		response_data = response.read()
 		json_result = json.loads(response_data)
-		rating_list.append(Decimal(json_result['imdbRating']))
+		if 'imdbRating' in json_result.keys():
+			if json_result['imdbRating'] != 'N/A':
+				rating_list.append(int(float(json_result['imdbRating'])))
+			else:
+				rating_list.append(0)	
+		else:
+			rating_list.append(0)
 
 	return rating_list
 		
@@ -74,8 +81,13 @@ def filter(date, startTime, userDuration, database):
 def recommender(user, database):
 	count = 0
 	tvRecommend = {}
-	
+
+	ratings = showRatings(database)
+	i=0
 	for show in database:
+		if ratings[i] != 0:
+			show.rating = ratings[i]
+		i = i + 1
 		showTitle = show.title
 		tvRecommend[showTitle] = 0
 		
@@ -109,12 +121,28 @@ def recommender(user, database):
 	
 	return tvRecommend
 
-def printTopShows(dShows):
-	print dShows
-	for i in range(3):
+def printTopShows(dShows, fileName):
+	#print dShows
+	showsList = []
+	finalShowsList = []
+	for i in range(min(len(dShows),10)):
 		topShow = max(dShows, key=dShows.get)
-		print topShow + " :: " + str(dShows[topShow])
-		del dShows[topShow]
+		showsList.append(topShow)
+		#print topShow + " :: " + str(dShows[topShow])
+		del dShows[topShow] 
+	#print showsList
+	for show in showsList:
+		#print show
+		datafile = open(fileName, 'r')
+		for line in datafile:
+			#print line
+			if show in line:
+				#print line
+				data = line.split(";")
+				finalShowsList.append(show + " " + str(datetime.strptime(data[3], "%Y-%m-%d %H:%M:%S").time()))
+		datafile.close()
+	#print  finalShowsList
+	return finalShowsList
 		
 def parseFile(fileName):
 	list = []
@@ -135,9 +163,34 @@ def deleteMovies(fileName):
 			if not line.startswith("Movie"):
 				newfile.write(line)
 
+def parseUser(username):
+	#User = likes, dislikes, location, provider, startTime, endTime, ratings
+	#User file = zip,provider,likes,stime,etime,
+	userFile = open(username + ".txt",'r')
+	#rawUserRatings = open(username + "ratings.txt",'r')
+	#userRatings = rawUserRatings.readline().split(';')
+	userRatings = ""
+	rawUserData = userFile.readline().split(';')
+	likes = rawUserData[2].split(',')
+	user = User(likes, "", rawUserData[0], rawUserData[1], datetime.strptime(rawUserData[3], "%Y-%m-%d %H:%M:%S"), datetime.strptime(rawUserData[4], "%Y-%m-%d %H:%M:%S"), userRatings)
+	return user
+	
+
+
+def recommend(username):
+	user = parseUser(username)
+	time = datetime.now()
+	today = datetime.today()
+	fileName = "data.txt"
+	db = parseFile(fileName)
+	validShows = filter(today, user.startTime, ((user.endTime - user.startTime).seconds//60)%60, db)
+	recommendedShows = recommender(user, validShows)
+	outputedShows = printTopShows(recommendedShows, fileName)
+	return outputedShows
+
 @app.route('/test', methods=['POST', 'GET'])
 def main():
-	message = ""
+	message = []
 	if request.method == 'GET':
 
 		# deleteMovies("app/data.txt")
@@ -149,7 +202,7 @@ def main():
 		
 		validShows = filter("4-5-2016", bobDate, 180, db)
 		recommendedShows = recommender(Bob, validShows)
-		printTopShows(recommendedShows)
+		message = printTopShows(recommendedShows, "test2.txt")
 		return render_template('questionaire.html', message=message)
 
 	#request.form['questionaire']
@@ -164,80 +217,6 @@ def main():
 	validShows = filter("4-5-2016", bobDate, 180, db)
 	recommendedShows = recommender(Bob, validShows)
 	printTopShows(recommendedShows)
-	try:
-		message += str(request.form['Checkbox1'])
-	except KeyError:
-		message += "off"
-	message += ","
-	try:
-		message += str(request.form['Checkbox2'])
-	except KeyError:
-		message += "off"
-	message += ","
-	try:
-		message += str(request.form['Checkbox3'])
-	except KeyError:
-		message += "off"
-	message += ","
-	try:
-		message += str(request.form['Checkbox4'])
-	except KeyError:
-		message += "off"
-	message += ","
-	try:
-		message += str(request.form['Checkbox5'])
-	except KeyError:
-		message += "off"
-	message += ","
-	try:
-		message += str(request.form['Checkbox6'])
-	except KeyError:
-		message += "off"
-	message += ","
-	try:
-		message += str(request.form['Checkbox7'])
-	except KeyError:
-		message += "off"
-	message += ","
-	try:
-		message += str(request.form['Checkbox8'])
-	except KeyError:
-		message += "off"
-	message += ","
-	try:
-		message += str(request.form['Checkbox9'])
-	except KeyError:
-		message += "off"
-	message += ","
-	try:
-		message += str(request.form['Checkbox10'])
-	except KeyError:
-		message += "off"
-	message += ","
-	try:
-		message += str(request.form['Checkbox11'])
-	except KeyError:
-		message += "off"
-	message += ","
-	try:
-		message += str(request.form['Checkbox12'])
-	except KeyError:
-		message += "off"
-	message += ","
-	try:
-		message += str(request.form['Checkbox13'])
-	except KeyError:
-		message += "off"
-	message += ","
-	try:
-		message += str(request.form['Checkbox14'])
-	except KeyError:
-		message += "off"
-	message += ","
-	try:
-		message += str(request.form['Checkbox15'])
-	except KeyError:
-		message += "off"
 	return render_template('questionaire.html', message=message)
 
 
@@ -280,8 +259,10 @@ def login():
 
 @app.route('/calendar', methods=['POST', 'GET'])
 def calendar():
+	username = session["username"]
+	shows = recommend(username)
 
-	return render_template('calendar.html')
+	return render_template('calendar.html', shows = shows)
 
 @app.route('/questionaire', methods=['POST', 'GET'])
 def questionaire():
@@ -290,77 +271,77 @@ def questionaire():
 		return render_template('questionaire.html')
 	if request.method == 'POST':
 		try:
-			likes += "action"
+			likes += "Action"
 		except KeyError:
 			likes += "off"
 		likes += ","
 		try:
-			likes += "adultanimation"
+			likes += "Animated"
 		except KeyError:
 			likes += "off"
 		likes += ","
 		try:
-			likes += "business"
+			likes += "Business"
 		except KeyError:
 			likes += "off"
 		likes += ","
 		try:
-			likes += "comedy"
+			likes += "Comedy,Sitcom"
 		except KeyError:
 			likes += "off"
 		likes += ","
 		try:
-			likes += "crime"
+			likes += "Crime"
 		except KeyError:
 			likes += "off"
 		likes += ","
 		try:
-			likes += "drama"
+			likes += "Drama"
 		except KeyError:
 			likes += "off"
 		likes += ","
 		try:
-			likes += "family"
+			likes += "Family"
 		except KeyError:
 			likes += "off"
 		likes += ","
 		try:
-			likes += "fantasy"
+			likes += "Fantasy"
 		except KeyError:
 			likes += "off"
 		likes += ","
 		try:
-			likes += "horror"
+			likes += "Horror"
 		except KeyError:
 			likes += "off"
 		likes += ","
 		try:
-			likes += "kidsanimation"
+			likes += "Children"
 		except KeyError:
 			likes += "off"
 		likes += ","
 		try:
-			likes += "news"
+			likes += "News"
 		except KeyError:
 			likes += "off"
 		likes += ","
 		try:
-			likes += "reality"
+			likes += "Reality TV"
 		except KeyError:
 			likes += "off"
 		likes += ","
 		try:
-			likes += "romance"
+			likes += "Romance"
 		except KeyError:
 			likes += "off"
 		likes += ","
 		try:
-			likes += "scifi"
+			likes += "Sci-Fi, Science"
 		except KeyError:
 			likes += "off"
 		likes += ","
 		try:
-			likes += "sports"
+			likes += "Sports"
 		except KeyError:
 			likes += "off" 
 		user = open(session["username"] + ".txt", 'a')
@@ -381,7 +362,7 @@ def importcalender():
 @app.route('/logout', methods=['POST', 'GET'])
 def logout():
 	session.pop("username", None)
-	return redirect(url_for('login'))
+	return redirect(url_for('login'), testme= "hello")
 		
 if __name__ == '__main__':
 	app.run(debug=True)
