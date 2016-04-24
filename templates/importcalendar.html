@@ -5,20 +5,30 @@
 <meta content="text/html; charset=utf-8" http-equiv="Content-Type">
 <title>Import Calendar</title>
 <style type="text/css">
-.auto-style1 {
-	text-align: right;
+
+#tableWrapper{
+	margin-left: auto;
+	text-align: left;
+	margin: 0;
+	display: inline-block;
+	<!-- background-color: #888888; -->
 }
-.auto-style2 {
-	text-align: center;
+#tableWrapper input {
+	float: right;
+}
+#tableWrapper h4 {
+	margin: 0
 }
 
 table {
    padding:10px;
+   width: 100%;
+   
 }
 table td {
    <!-- font-size:20px; -->
    color:#000;
-	padding: 5px;
+   padding: 5px;
 
 }
 
@@ -26,33 +36,25 @@ table th {
    visibility:hidden;
    display:none;
 }
-input[type="text"] {
-   width:100px;
-   height:35px;
-   border:1px solid silver;
-   border-radius:3px;
-   font-size:14px;
-   padding:5px;
-}
 
 @media only screen and (min-width:180px) and (max-width:679px){
-	table {
+	<!-- table {
 		width:100%;
-	}
-	table .column1 {
+	} -->
+	<!-- table .column1 {
 		visibility:hidden;
 		display:none;
-	}
-	table th {
+	} -->
+	<!-- table th {
 		visibility:visible;
 		display:block;
 		font-size:20px;
 		color:#E6E6E6;
-	}
-	input[type="text"] {
+	} -->
+	<!-- input[type=text] {
 		width:40%;
 		margin-left:10%;
-	}
+	} -->
 }
 </style>
 
@@ -82,90 +84,542 @@ input[type="text"] {
 			</div>
 		  	<div id="navbar1" class="navbar-collapse collapse">
 				<ul class="nav navbar-nav">
-					<!-- <li><a href="/">Home</a></li>-->
-					<li><a href="logout">Logout</a></li>
-					<!-- <li><a href="login">Login</a></li> -->
+					<li><a href="index.html">Home</a></li>
+					<li><a href="login2.html">Login</a></li>
 					<!-- <li><a href="signup.html">Sign Up</a></li> -->
-					<li><a href="calendar">Calendar</a></li>
+					<li><a href="calendar.html">Calendar</a></li>
 					<!-- <li><a href="questionaire.html">Questionaire</a></li> -->
-					<li class="active"><a href="importcalendar">Import Calendar</a></li>
+					<!-- <li class="active"><a href="importcalendar.html">Import Calendar</a></li> -->
 				</ul>
 			</div>
 		</div>
 	</nav>
 	<div align="center">
+		<h2>When are you free?</h2>
+		<p></p>
+		<div id="tableWrapper">
+			<h4>Monday  <input type="image" src="../static/add.png"  onclick="addRow('monTable')"/><input type="image" src="../static/delete.png"  onclick="deleteRow('monTable')"/></h4>
+			 <table id="monTable">
+				<tr>
+					<td><input type="checkbox" name="chk"/></td>
+					
+					<td>
+						<select name="timeFrom">
+							<option>00:00</option>
+								<option>01:00</option>
+								<option>02:00</option>
+								<option>03:00</option>
+								<option>04:00</option>
+								<option>05:00</option>
+								<option>06:00</option>
+								<option>07:00</option>
+								<option>08:00</option>
+								<option>09:00</option>
+								<option>10:00</option>
+								<option>11:00</option>
+								<option>12:00</option>
+								<option>13:00</option>
+								<option>14:00</option>
+								<option>15:00</option>
+								<option>16:00</option>
+								<option>17:00</option>
+								<option>18:00</option>
+								<option>19:00</option>
+								<option>20:00</option>
+								<option>21:00</option>
+								<option>22:00</option>
+								<option>23:00</option>
+						</select>
+					</td>
+					<td>to</td>
+					<td>
+						<select name="timeTo" style="width: 100px; height: 26px">
+							<option>00:00</option>
+							<option>01:00</option>
+							<option>02:00</option>
+							<option>03:00</option>
+							<option>04:00</option>
+							<option>05:00</option>
+							<option>06:00</option>
+							<option>07:00</option>
+							<option>08:00</option>
+							<option>09:00</option>
+							<option>10:00</option>
+							<option>11:00</option>
+							<option>12:00</option>
+							<option>13:00</option>
+							<option>14:00</option>
+							<option>15:00</option>
+							<option>16:00</option>
+							<option>17:00</option>
+							<option>18:00</option>
+							<option>19:00</option>
+							<option>20:00</option>
+							<option>21:00</option>
+							<option>22:00</option>
+							<option>23:00</option>
+						</select>
+					</td>
+				</tr>
+			</table>
+			
+			<h4>Tuesday  <input type="image" src="../static/add.png"  onclick="addRow('tuesTable')"/><input type="image" src="../static/delete.png"  onclick="deleteRow('tuesTable')"/></h4>
+			 <table id="tuesTable">
+				<tr>
+					<td><input type="checkbox" name="chk"/></td>
+					
+					<td>
+						<select name="timeFrom">
+							<option>00:00</option>
+								<option>01:00</option>
+								<option>02:00</option>
+								<option>03:00</option>
+								<option>04:00</option>
+								<option>05:00</option>
+								<option>06:00</option>
+								<option>07:00</option>
+								<option>08:00</option>
+								<option>09:00</option>
+								<option>10:00</option>
+								<option>11:00</option>
+								<option>12:00</option>
+								<option>13:00</option>
+								<option>14:00</option>
+								<option>15:00</option>
+								<option>16:00</option>
+								<option>17:00</option>
+								<option>18:00</option>
+								<option>19:00</option>
+								<option>20:00</option>
+								<option>21:00</option>
+								<option>22:00</option>
+								<option>23:00</option>
+						</select>
+					</td>
+					<td>to</td>
+						<td>
+							<select name="timeTo" style="width: 100px; height: 26px">
+								<option>00:00</option>
+								<option>01:00</option>
+								<option>02:00</option>
+								<option>03:00</option>
+								<option>04:00</option>
+								<option>05:00</option>
+								<option>06:00</option>
+								<option>07:00</option>
+								<option>08:00</option>
+								<option>09:00</option>
+								<option>10:00</option>
+								<option>11:00</option>
+								<option>12:00</option>
+								<option>13:00</option>
+								<option>14:00</option>
+								<option>15:00</option>
+								<option>16:00</option>
+								<option>17:00</option>
+								<option>18:00</option>
+								<option>19:00</option>
+								<option>20:00</option>
+								<option>21:00</option>
+								<option>22:00</option>
+								<option>23:00</option>
+							</select>
+						</td>
+				</tr>
+			</table>
+			
+			<h4>Wednesday  <input type="image" src="../static/add.png"  onclick="addRow('wedTable')"/><input type="image" src="../static/delete.png"  onclick="deleteRow('wedTable')"/></h4>
+			 <table id="wedTable">
+				<tr>
+					<td><input type="checkbox" name="chk"/></td>
+					
+					<td>
+						<select name="timeFrom">
+							<option>00:00</option>
+								<option>01:00</option>
+								<option>02:00</option>
+								<option>03:00</option>
+								<option>04:00</option>
+								<option>05:00</option>
+								<option>06:00</option>
+								<option>07:00</option>
+								<option>08:00</option>
+								<option>09:00</option>
+								<option>10:00</option>
+								<option>11:00</option>
+								<option>12:00</option>
+								<option>13:00</option>
+								<option>14:00</option>
+								<option>15:00</option>
+								<option>16:00</option>
+								<option>17:00</option>
+								<option>18:00</option>
+								<option>19:00</option>
+								<option>20:00</option>
+								<option>21:00</option>
+								<option>22:00</option>
+								<option>23:00</option>
+						</select>
+					</td>
+					<td>to</td>
+						<td>
+							<select name="timeTo" style="width: 100px; height: 26px">
+								<option>00:00</option>
+								<option>01:00</option>
+								<option>02:00</option>
+								<option>03:00</option>
+								<option>04:00</option>
+								<option>05:00</option>
+								<option>06:00</option>
+								<option>07:00</option>
+								<option>08:00</option>
+								<option>09:00</option>
+								<option>10:00</option>
+								<option>11:00</option>
+								<option>12:00</option>
+								<option>13:00</option>
+								<option>14:00</option>
+								<option>15:00</option>
+								<option>16:00</option>
+								<option>17:00</option>
+								<option>18:00</option>
+								<option>19:00</option>
+								<option>20:00</option>
+								<option>21:00</option>
+								<option>22:00</option>
+								<option>23:00</option>
+							</select>
+						</td>
+				</tr>
+			</table>
+			
+			<h4>Thursday  <input type="image" src="../static/add.png"  onclick="addRow('thursTable')"/><input type="image" src="../static/delete.png"  onclick="deleteRow('thursTable')"/></h4>
+			 <table id="thursTable">
+				<tr>
+					<td><input type="checkbox" name="chk"/></td>
+					
+					<td>
+						<select name="timeFrom">
+							<option>00:00</option>
+								<option>01:00</option>
+								<option>02:00</option>
+								<option>03:00</option>
+								<option>04:00</option>
+								<option>05:00</option>
+								<option>06:00</option>
+								<option>07:00</option>
+								<option>08:00</option>
+								<option>09:00</option>
+								<option>10:00</option>
+								<option>11:00</option>
+								<option>12:00</option>
+								<option>13:00</option>
+								<option>14:00</option>
+								<option>15:00</option>
+								<option>16:00</option>
+								<option>17:00</option>
+								<option>18:00</option>
+								<option>19:00</option>
+								<option>20:00</option>
+								<option>21:00</option>
+								<option>22:00</option>
+								<option>23:00</option>
+						</select>
+					</td>
+					<td>to</td>
+						<td>
+							<select name="timeTo" style="width: 100px; height: 26px">
+								<option>00:00</option>
+								<option>01:00</option>
+								<option>02:00</option>
+								<option>03:00</option>
+								<option>04:00</option>
+								<option>05:00</option>
+								<option>06:00</option>
+								<option>07:00</option>
+								<option>08:00</option>
+								<option>09:00</option>
+								<option>10:00</option>
+								<option>11:00</option>
+								<option>12:00</option>
+								<option>13:00</option>
+								<option>14:00</option>
+								<option>15:00</option>
+								<option>16:00</option>
+								<option>17:00</option>
+								<option>18:00</option>
+								<option>19:00</option>
+								<option>20:00</option>
+								<option>21:00</option>
+								<option>22:00</option>
+								<option>23:00</option>
+							</select>
+						</td>
+				</tr>
+			</table>
+			
+			<h4>Friday  <input type="image" src="../static/add.png"  onclick="addRow('friTable')"/><input type="image" src="../static/delete.png"  onclick="deleteRow('friTable')"/></h4>
+			 <table id="friTable">
+				<tr>
+					<td><input type="checkbox" name="chk"/></td>
+					
+					<td>
+						<select name="timeFrom">
+							<option>00:00</option>
+								<option>01:00</option>
+								<option>02:00</option>
+								<option>03:00</option>
+								<option>04:00</option>
+								<option>05:00</option>
+								<option>06:00</option>
+								<option>07:00</option>
+								<option>08:00</option>
+								<option>09:00</option>
+								<option>10:00</option>
+								<option>11:00</option>
+								<option>12:00</option>
+								<option>13:00</option>
+								<option>14:00</option>
+								<option>15:00</option>
+								<option>16:00</option>
+								<option>17:00</option>
+								<option>18:00</option>
+								<option>19:00</option>
+								<option>20:00</option>
+								<option>21:00</option>
+								<option>22:00</option>
+								<option>23:00</option>
+						</select>
+					</td>
+					<td>to</td>
+						<td>
+							<select name="timeTo" style="width: 100px; height: 26px">
+								<option>00:00</option>
+								<option>01:00</option>
+								<option>02:00</option>
+								<option>03:00</option>
+								<option>04:00</option>
+								<option>05:00</option>
+								<option>06:00</option>
+								<option>07:00</option>
+								<option>08:00</option>
+								<option>09:00</option>
+								<option>10:00</option>
+								<option>11:00</option>
+								<option>12:00</option>
+								<option>13:00</option>
+								<option>14:00</option>
+								<option>15:00</option>
+								<option>16:00</option>
+								<option>17:00</option>
+								<option>18:00</option>
+								<option>19:00</option>
+								<option>20:00</option>
+								<option>21:00</option>
+								<option>22:00</option>
+								<option>23:00</option>
+							</select>
+						</td>
+				</tr>
+			</table>
+			
+			<h4>Saturday  <input type="image" src="../static/add.png"  onclick="addRow('satTable')"/><input type="image" src="../static/delete.png"  onclick="deleteRow('satTable')"/></h4>
+			 <table id="satTable">
+				<tr>
+					<td><input type="checkbox" name="chk"/></td>
+					
+					<td>
+						<select name="timeFrom">
+							<option>00:00</option>
+								<option>01:00</option>
+								<option>02:00</option>
+								<option>03:00</option>
+								<option>04:00</option>
+								<option>05:00</option>
+								<option>06:00</option>
+								<option>07:00</option>
+								<option>08:00</option>
+								<option>09:00</option>
+								<option>10:00</option>
+								<option>11:00</option>
+								<option>12:00</option>
+								<option>13:00</option>
+								<option>14:00</option>
+								<option>15:00</option>
+								<option>16:00</option>
+								<option>17:00</option>
+								<option>18:00</option>
+								<option>19:00</option>
+								<option>20:00</option>
+								<option>21:00</option>
+								<option>22:00</option>
+								<option>23:00</option>
+						</select>
+					</td>
+					<td>to</td>
+						<td>
+							<select name="timeTo" style="width: 100px; height: 26px">
+								<option>00:00</option>
+								<option>01:00</option>
+								<option>02:00</option>
+								<option>03:00</option>
+								<option>04:00</option>
+								<option>05:00</option>
+								<option>06:00</option>
+								<option>07:00</option>
+								<option>08:00</option>
+								<option>09:00</option>
+								<option>10:00</option>
+								<option>11:00</option>
+								<option>12:00</option>
+								<option>13:00</option>
+								<option>14:00</option>
+								<option>15:00</option>
+								<option>16:00</option>
+								<option>17:00</option>
+								<option>18:00</option>
+								<option>19:00</option>
+								<option>20:00</option>
+								<option>21:00</option>
+								<option>22:00</option>
+								<option>23:00</option>
+							</select>
+						</td>
+				</tr>
+			</table>
+			
+			<h4>Sunday  <input type="image" src="../static/add.png"  onclick="addRow('sunTable')"/><input type="image" src="../static/delete.png"  onclick="deleteRow('sunTable')"/></h4>
+			 <table id="sunTable">
+				<tr>
+					<td><input type="checkbox" name="chk"/></td>
+					
+					<td>
+						<select name="timeFrom">
+							<option>00:00</option>
+								<option>01:00</option>
+								<option>02:00</option>
+								<option>03:00</option>
+								<option>04:00</option>
+								<option>05:00</option>
+								<option>06:00</option>
+								<option>07:00</option>
+								<option>08:00</option>
+								<option>09:00</option>
+								<option>10:00</option>
+								<option>11:00</option>
+								<option>12:00</option>
+								<option>13:00</option>
+								<option>14:00</option>
+								<option>15:00</option>
+								<option>16:00</option>
+								<option>17:00</option>
+								<option>18:00</option>
+								<option>19:00</option>
+								<option>20:00</option>
+								<option>21:00</option>
+								<option>22:00</option>
+								<option>23:00</option>
+						</select>
+					</td>
+					<td>to</td>
+						<td>
+							<select name="timeTo" style="width: 100px; height: 26px">
+								<option>00:00</option>
+								<option>01:00</option>
+								<option>02:00</option>
+								<option>03:00</option>
+								<option>04:00</option>
+								<option>05:00</option>
+								<option>06:00</option>
+								<option>07:00</option>
+								<option>08:00</option>
+								<option>09:00</option>
+								<option>10:00</option>
+								<option>11:00</option>
+								<option>12:00</option>
+								<option>13:00</option>
+								<option>14:00</option>
+								<option>15:00</option>
+								<option>16:00</option>
+								<option>17:00</option>
+								<option>18:00</option>
+								<option>19:00</option>
+								<option>20:00</option>
+								<option>21:00</option>
+								<option>22:00</option>
+								<option>23:00</option>
+							</select>
+						</td>
+				</tr>
+			</table>
+		</div>
 		
-		<h2>When are you busy?</h2>
-		<table align=center cellspacing=10>
-			<th class="hidden_th">Monday:</th>
-			<tr>
-			    <td class="column1">Monday:</td>
-			    <td><input type="text" placeholder="Monday"></td>
-			    <td><input type="text" placeholder="Monday"></td>
-			    <td><input type="text" placeholder="Monday"></td>
-			    <td><input type="text" placeholder="Monday"></td>
-			</tr>
-
-			<th class="hidden_th">Tuesday:</th>
-			<tr>
-			    <td class="column1">Tuesday:</td>
-			    <td><input type="text" placeholder="Tuesday"></td>
-			    <td><input type="text" placeholder="Tuesday"></td>
-			    <td><input type="text" placeholder="Tuesday"></td>
-			    <td><input type="text" placeholder="Tuesday"></td>
-			</tr>
-
-			<th class="hidden_th">Wednesday:</th>
-			<tr>
-			    <td class="column1">Wednesday:</td>
-			    <td><input type="text" placeholder="Wednesday"></td>
-			    <td><input type="text" placeholder="Wednesday"></td>
-			    <td><input type="text" placeholder="Wednesday"></td>
-			    <td><input type="text" placeholder="Wednesday"></td>
-			</tr>
-
-			<th class="hidden_th">Thursday:</th>
-			<tr>
-			    <td class="column1">Thursday:</td>
-			    <td><input type="text" placeholder="Thursday"></td>
-			    <td><input type="text" placeholder="Thursday"></td>
-			    <td><input type="text" placeholder="Thursday"></td>
-			    <td><input type="text" placeholder="Thursday"></td>
-			</tr>
-
-			<th class="hidden_th">Friday:</th>
-			<tr>
-			    <td class="column1">Friday:</td>
-			    <td><input type="text" placeholder="Friday"></td>
-			    <td><input type="text" placeholder="Friday"></td>
-			    <td><input type="text" placeholder="Friday"></td>
-			    <td><input type="text" placeholder="Friday"></td>
-			</tr>
-
-			<th class="hidden_th">Saturday:</th>
-			<tr>
-			    <td class="column1">Saturday:</td>
-			    <td><input type="text" placeholder="Saturday"></td>
-			    <td><input type="text" placeholder="Saturday"></td>
-			    <td><input type="text" placeholder="Saturday"></td>
-			    <td><input type="text" placeholder="Saturday"></td>
-			</tr>
-			<th class="hidden_th">Sunday:</th>
-			<tr>
-			    <td class="column1">Sunday:</td>
-			    <td><input type="text" placeholder="Sunday"></td>
-			    <td><input type="text" placeholder="Sunday"></td>
-			    <td><input type="text" placeholder="Sunday"></td>
-			    <td><input type="text" placeholder="Sunday"></td>
-			</tr>
-		</table>
 		<br />
+		<br />
+
 		<form method="post">
-			<input name="Enter" type="submit" value="Enter">
+			<input name="Enter" type="button" value="Enter" onclick="window.location='calendar.html';">
 		</form>
 	
 	</div>
 </div>
+
+<script language="javascript">
+	function addRow(tableID) {
+
+		var table = document.getElementById(tableID);
+
+		var rowCount = table.rows.length;
+		var row = table.insertRow(rowCount);
+
+		var colCount = table.rows[0].cells.length;
+
+		for(var i=0; i<colCount; i++) {
+
+			var newcell = row.insertCell(i);
+
+			newcell.innerHTML = table.rows[0].cells[i].innerHTML;
+			//alert(newcell.childNodes);
+			switch(newcell.childNodes[0].type) {
+				case "text":
+						newcell.childNodes[0].value = "";
+						break;
+				case "checkbox":
+						newcell.childNodes[0].checked = false;
+						break;
+				case "select-one":
+						newcell.childNodes[0].selectedIndex = 0;
+						break;
+			}
+		}
+	}
+
+	function deleteRow(tableID) {
+		try {
+		var table = document.getElementById(tableID);
+		var rowCount = table.rows.length;
+
+		for(var i=0; i<rowCount; i++) {
+			var row = table.rows[i];
+			var chkbox = row.cells[0].childNodes[0];
+			if(null != chkbox && true == chkbox.checked) {
+				if(rowCount <= 1) {
+					alert("Cannot delete all the rows.");
+					break;
+				}
+				table.deleteRow(i);
+				rowCount--;
+				i--;
+			}
+
+
+		}
+		}catch(e) {
+			alert(e);
+		}
+	}
+
+</script>
 
 </body>
 
