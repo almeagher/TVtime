@@ -84,7 +84,15 @@
 	<div align="center">
 	
 		<p>What shows would you tune in to?</p>
-		<p>{{ message }}</p>
+		<p>{% block content %}
+<ul class="list">       
+  {% for item in message %}
+    <li>
+        {{ item }}
+    </li>
+  {% endfor %}
+</ul>
+{% endblock content %}</p>
 		<form method="POST" name="questionaire">
 			<div class="gallery">
 				<div class="item">
