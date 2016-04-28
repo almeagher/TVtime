@@ -161,7 +161,6 @@
 		  {% for item in shows %}
 			<img alt="fantasy game of thrones" height="150" src="{{item.split(';')[0]}}" width="150">
 			<li>
-				{{item.split(';')[0] }}
 				{{ item.split(';')[1] }}
 			</li>
 		  {% endfor %}
@@ -169,6 +168,7 @@
 		{% endblock content %}</p>
 		<br>
 		<br>
+
 </body>
 
 </html>

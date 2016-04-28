@@ -299,6 +299,7 @@ def calendar():
 		
 	return render_template('calendar.html', shows = shows)
 
+
 @app.route('/questionaire', methods=['POST', 'GET'])
 def questionaire():
 	likes = ""
@@ -306,82 +307,97 @@ def questionaire():
 		return render_template('questionaire.html')
 	if request.method == 'POST':
 		try:
+			str(request.form['Checkbox1'])
 			likes += "Action"
 		except KeyError:
 			likes += "off"
 		likes += ","
 		try:
+			str(request.form['Checkbox2'])
 			likes += "Animated"
 		except KeyError:
 			likes += "off"
 		likes += ","
 		try:
+			str(request.form['Checkbox3'])
 			likes += "Business"
 		except KeyError:
 			likes += "off"
 		likes += ","
 		try:
+			str(request.form['Checkbox4'])
 			likes += "Comedy,Sitcom"
 		except KeyError:
 			likes += "off"
 		likes += ","
 		try:
+			str(request.form['Checkbox5'])
 			likes += "Crime"
 		except KeyError:
 			likes += "off"
 		likes += ","
 		try:
+			str(request.form['Checkbox6'])
 			likes += "Drama"
 		except KeyError:
 			likes += "off"
 		likes += ","
 		try:
+			str(request.form['Checkbox7'])
 			likes += "Family"
 		except KeyError:
 			likes += "off"
 		likes += ","
 		try:
+			str(request.form['Checkbox8'])
 			likes += "Fantasy"
 		except KeyError:
 			likes += "off"
 		likes += ","
 		try:
+			str(request.form['Checkbox9'])
 			likes += "Horror"
 		except KeyError:
 			likes += "off"
 		likes += ","
 		try:
+			str(request.form['Checkbox10'])
 			likes += "Children"
 		except KeyError:
 			likes += "off"
 		likes += ","
 		try:
+			str(request.form['Checkbox11'])
 			likes += "News"
 		except KeyError:
 			likes += "off"
 		likes += ","
 		try:
+			str(request.form['Checkbox12'])
 			likes += "Reality TV"
 		except KeyError:
 			likes += "off"
 		likes += ","
 		try:
+			str(request.form['Checkbox13'])
 			likes += "Romance"
 		except KeyError:
 			likes += "off"
 		likes += ","
 		try:
+			str(request.form['Checkbox14'])
 			likes += "Sci-Fi,Science"
 		except KeyError:
 			likes += "off"
 		likes += ","
 		try:
+			str(request.form['Checkbox15'])
 			likes += "Sports"
 		except KeyError:
 			likes += "off" 
 		user = open(session["username"] + ".txt", 'a')
 		user.write(likes + ';')
-		return redirect(url_for('importcalender'))
+		return redirect(url_for('calendar'))
 
 @app.route('/importcalendar', methods=['POST', 'GET'])
 def importcalender():
