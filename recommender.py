@@ -1,12 +1,13 @@
-import sys, os, math, operator, datetime, urllib, urllib2, json, io
+import sys, os, math, operator, urllib, urllib2, json, io
 from decimal import Decimal
-from datetime import datetime
+from datetime import datetime, timedelta
 from flask import Flask
 from flask import render_template
 from flask import request
 from flask import session
 from flask import redirect
 from flask import url_for
+from operator import attrgetter
 
 #app = Flask(__name__)
 app = Flask(__name__)
@@ -23,13 +24,14 @@ class User:
 		self.ratings = ratings
 
 class Show:
-	def __init__(self, title, genre, rating, startTime, duration, provider):
+	def __init__(self, title, genre, rating, startTime, duration, provider, image):
 		self.title = title
 		self.genre = genre
 		self.rating = rating
 		self.startTime = startTime
 		self.duration = duration
 		self.provider = provider
+		self.image = image
 		
 class Database:
 	def __init__(self, shows):
@@ -62,15 +64,38 @@ def showRatings(show_list):
 		
 # def filter(location, date, startTime, userDuration, database):
 
+def showPoster(show_list):
+	posterlist =[]
+
+	for show in show_list:
+		showTitle = urllib.quote(show.title)
+		url = 'http://www.omdbapi.com/?t='+showTitle+'&y=&plot=short&r=json'
+		request = urllib2.Request(url)
+		request_opener = urllib2.build_opener()
+		response = request_opener.open(request) 
+		response_data = response.read()
+		json_result = json.loads(response_data)
+		if 'Poster' in json_result.keys():
+			if json_result['Poster'] != 'N/A':
+				posterlist.append(str(json_result['Poster']))
+			else:
+				posterlist.append('http://www.makeupstudio.lu/html/images/poster/no_poster_available.jpg')
+		else:
+			posterlist.append('http://www.makeupstudio.lu/html/images/poster/no_poster_available.jpg')
+
+	return posterlist
+
+
 def filter(date, startTime, userDuration, database):
 	tvList = []
 	for show in database.shows:	
 		if(show.startTime >= startTime):
 			if ((show.startTime == startTime) and (show.duration <= userDuration)): #if show starts at the same time that the user is free, then the show can run the entire length that the user is free or less
 				tvList.append(show)
-			if (show.startTime > startTime): #if the show starts at a later time than the beginning of the users free time then check if it can be watched within the duration the user is free 
+			if (show.startTime > startTime): #if the show starts at a later time than the beginning of the users free time then check if it can be watched within the duration the user is free
+				#print "start of time for show" + show.title + ":showstarttime - start time" + str(show.startTime) + " " + str(startTime) + " " + str(show.startTime - startTime) + " time= " + str(((show.startTime - startTime).seconds/60)) + " User duration= " + str(userDuration)
 				diff = show.startTime - startTime #find out how long the shows starts after the beginnning of the user's free time (measured in hours so using ceiling)
-				time = (diff.seconds//60)%60
+				time = (diff.seconds/60)
 				dur = userDuration #created temp variable so i wouldn't alter userDuration
 				if ((dur - (time)) >= show.duration): #check if the item runs and finishes in good time even after including the shows delayed start 
 					tvList.append(show)
@@ -80,37 +105,37 @@ def filter(date, startTime, userDuration, database):
 		
 def recommender(user, database):
 	count = 0
-	tvRecommend = {}
+	tvRecommend = []
 
 	ratings = showRatings(database)
 	i=0
 	for show in database:
 		if ratings[i] != 0:
 			show.rating = ratings[i]
-		i = i + 1
-		showTitle = show.title
-		tvRecommend[showTitle] = 0
+		
+		tvRecommend.append(show)
+		tvRecommend[i].rating = 0
 		
 		rated = False
 		
 		last = len(user.likes) - 1
 		for userGenre in user.likes:
-			# print "hello"
 			if userGenre in show.genre:
-				tvRecommend[showTitle] = tvRecommend[showTitle] + 1
+				tvRecommend[i].rating = tvRecommend[i].rating + 1
 				if(rated == False):
-					tvRecommend[showTitle] = tvRecommend[showTitle] + show.rating*2
+					tvRecommend[i].rating = tvRecommend[i].rating + show.rating*2
 					rated = True
 			elif(userGenre == user.likes[-1]):
 				if(rated == False):
-					tvRecommend[showTitle] = tvRecommend[showTitle] + show.rating
+					tvRecommend[i].rating = tvRecommend[i].rating + show.rating
 					rated = True
 			else:
 				continue;
 		
 		for genre in user.dislikes: # if user dislikes genre, get rid of it in results
 			if genre in show.genre:
-				del tvRecommend[showTitle]
+				del tvRecommend[i]
+		i = i + 1
 	
 	
 	
@@ -122,26 +147,23 @@ def recommender(user, database):
 	return tvRecommend
 
 def printTopShows(dShows, fileName):
-	#print dShows
 	showsList = []
 	finalShowsList = []
-	for i in range(min(len(dShows),10)):
-		topShow = max(dShows, key=dShows.get)
-		showsList.append(topShow)
-		#print topShow + " :: " + str(dShows[topShow])
-		del dShows[topShow] 
-	#print showsList
+	print len(dShows)
+	i = 0
+	while i < min(len(dShows),10):
+		topShow = max(dShows, key=attrgetter('rating'))
+		if not any(show.title == topShow.title for show in showsList):
+			showsList.append(topShow)
+		else:
+			i = i - 1
+		i = i + 1
+		dShows.remove(topShow) 
+	posterList = showPoster(showsList)
+	j=0
 	for show in showsList:
-		#print show
-		datafile = open(fileName, 'r')
-		for line in datafile:
-			#print line
-			if show in line:
-				#print line
-				data = line.split(";")
-				finalShowsList.append(show + " " + str(datetime.strptime(data[3], "%Y-%m-%d %H:%M:%S").time()))
-		datafile.close()
-	#print  finalShowsList
+		finalShowsList.append(posterList[j] + ";" + show.title + " " + str(show.startTime.time()))
+		j = j + 1
 	return finalShowsList
 		
 def parseFile(fileName):
@@ -150,7 +172,7 @@ def parseFile(fileName):
 		for line in f:
 			data = line.split(";")
 			startTime = datetime.strptime(data[3], "%Y-%m-%d %H:%M:%S")
-			s = Show(data[0], data[1], int(data[2]), startTime, int(data[4]), data[5].rstrip())
+			s = Show(data[0], data[1], int(data[2]), startTime, int(data[4]), data[5].rstrip(), "")
 			
 			list.append(s)
 			
@@ -172,18 +194,25 @@ def parseUser(username):
 	userRatings = ""
 	rawUserData = userFile.readline().split(';')
 	likes = rawUserData[2].split(',')
-	user = User(likes, "", rawUserData[0], rawUserData[1], datetime.strptime(rawUserData[3], "%Y-%m-%d %H:%M:%S"), datetime.strptime(rawUserData[4], "%Y-%m-%d %H:%M:%S"), userRatings)
+	print len(rawUserData)
+	if(len(rawUserData) <= 4):
+		#rawUserData[3] = datetime.now.strftime("%Y-%m-%d %H:%M:%S")
+		#rawUserData[4] = (datetime.now + 1).strftime("%Y-%m-%d %H:%M:%S")
+		user = User(likes, "", rawUserData[0], rawUserData[1], datetime.now(), (datetime.now() + timedelta(days=1)), userRatings)
+	else:
+		user = User(likes, "", rawUserData[0], rawUserData[1], datetime.strptime(rawUserData[3], "%Y-%m-%d %H:%M:%S"), datetime.strptime(rawUserData[4], "%Y-%m-%d %H:%M:%S"), userRatings)
 	return user
 	
 
 
 def recommend(username):
 	user = parseUser(username)
-	time = datetime.now()
+	#time = datetime.now()
 	today = datetime.today()
 	fileName = "data.txt"
 	db = parseFile(fileName)
-	validShows = filter(today, user.startTime, ((user.endTime - user.startTime).seconds//60)%60, db)
+	validShows = filter(today, user.startTime, ((user.endTime - user.startTime).seconds/60), db)
+	#print validShows
 	recommendedShows = recommender(user, validShows)
 	outputedShows = printTopShows(recommendedShows, fileName)
 	return outputedShows
@@ -203,7 +232,7 @@ def main():
 		validShows = filter("4-5-2016", bobDate, 180, db)
 		recommendedShows = recommender(Bob, validShows)
 		message = printTopShows(recommendedShows, "test2.txt")
-		return render_template('questionaire.html', message=message)
+		return render_template('questionaire.html')
 
 	#request.form['questionaire']
 	
@@ -217,7 +246,7 @@ def main():
 	validShows = filter("4-5-2016", bobDate, 180, db)
 	recommendedShows = recommender(Bob, validShows)
 	printTopShows(recommendedShows)
-	return render_template('questionaire.html', message=message)
+	return render_template('questionaire.html')
 
 
 @app.route('/', methods=['POST', 'GET'])
@@ -336,7 +365,7 @@ def questionaire():
 			likes += "off"
 		likes += ","
 		try:
-			likes += "Sci-Fi, Science"
+			likes += "Sci-Fi,Science"
 		except KeyError:
 			likes += "off"
 		likes += ","
@@ -346,7 +375,7 @@ def questionaire():
 			likes += "off" 
 		user = open(session["username"] + ".txt", 'a')
 		user.write(likes + ';')
-		return redirect(url_for('calendar'))
+		return redirect(url_for('importcalender'))
 
 @app.route('/importcalendar', methods=['POST', 'GET'])
 def importcalender():
@@ -362,7 +391,7 @@ def importcalender():
 @app.route('/logout', methods=['POST', 'GET'])
 def logout():
 	session.pop("username", None)
-	return redirect(url_for('login'), testme= "hello")
+	return redirect(url_for('login'))
 		
 if __name__ == '__main__':
 	app.run(debug=True)
