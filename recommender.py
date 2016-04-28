@@ -288,16 +288,29 @@ def login():
 
 @app.route('/calendar', methods=['POST', 'GET'])
 def calendar():
-	username = session["username"]
-	shows = recommend(username)
+
 	
 	if request.method == 'GET':
+		username = session["username"]
+		shows = recommend(username)
+
 		return render_template('calendar.html')
+
 	if request.method == 'POST':
-		print request.form['timeFrom']
-		print request.form['timeTo']
-		
-	return render_template('calendar.html', shows = shows)
+		username = session["username"]
+		user = parseUser(username)
+		# print str(datetime.today().date()) + request.form['timeFrom']
+		# print str(datetime.today().date()) + request.form['timeTo']
+		userLikes = ""
+		for like in user.likes:
+			userLikes = userLikes + like + ','
+		userLikes = userLikes.strip(',')
+		userFile = open(username + ".txt",'w')
+		userFile.write(user.location + ';' + user.provider + ';' + userLikes + ';' +
+			str(datetime.today().date()) + " " + request.form['timeFrom'] + ":00" +
+			';' + str(datetime.today().date()) + " " + request.form['timeTo'] +
+			":00" + ';' + "test")		
+		return redirect(url_for('calendar'))
 
 
 @app.route('/questionaire', methods=['POST', 'GET'])
