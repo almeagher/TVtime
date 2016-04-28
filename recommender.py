@@ -290,7 +290,13 @@ def login():
 def calendar():
 	username = session["username"]
 	shows = recommend(username)
-
+	
+	if request.method == 'GET':
+		return render_template('calendar.html')
+	if request.method == 'POST':
+		print request.form['timeFrom']
+		print request.form['timeTo']
+		
 	return render_template('calendar.html', shows = shows)
 
 @app.route('/questionaire', methods=['POST', 'GET'])
