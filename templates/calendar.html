@@ -59,113 +59,118 @@
 	</nav>
 	<div align="center"><h2>Recomendations</h2></div>
 		<form method="POST" name="recommendTime" align="center">
-			When are you free today? 
-			<select name="timeFrom" style="width: 100px; height: 26px">
-				<option>00:00</option>
-				<option>00:30</option>
-				<option>01:00</option>
-				<option>01:30</option>
-				<option>02:00</option>
-				<option>02:30</option>
-				<option>03:00</option>
-				<option>03:30</option>
-				<option>04:00</option>
-				<option>04:30</option>
-				<option>05:00</option>
-				<option>05:30</option>
-				<option>06:00</option>
-				<option>06:30</option>
-				<option>07:00</option>
-				<option>07:30</option>
-				<option>08:00</option>
-				<option>08:30</option>
-				<option>09:00</option>
-				<option>09:30</option>
-				<option>10:00</option>
-				<option>10:30</option>
-				<option>11:00</option>
-				<option>11:30</option>
-				<option>12:00</option>
-				<option>12:30</option>
-				<option>13:00</option>
-				<option>13:30</option>
-				<option>14:00</option>
-				<option>14:30</option>
-				<option>15:00</option>
-				<option>15:30</option>
-				<option>16:00</option>
-				<option>16:30</option>
-				<option>17:00</option>
-				<option>17:30</option>
-				<option>18:00</option>
-				<option>18:30</option>
-				<option>19:00</option>
-				<option>19:30</option>
-				<option>20:00</option>
-				<option>20:30</option>
-				<option>21:00</option>
-				<option>21:30</option>
-				<option>22:00</option>
-				<option>22:30</option>
-				<option>23:00</option>
-				<option>23:30</option>
-			</select>
-			to 
-			<select name="timeTo" style="width: 100px; height: 26px">
-				<option>00:00</option>
-				<option>00:30</option>
-				<option>01:00</option>
-				<option>01:30</option>
-				<option>02:00</option>
-				<option>02:30</option>
-				<option>03:00</option>
-				<option>03:30</option>
-				<option>04:00</option>
-				<option>04:30</option>
-				<option>05:00</option>
-				<option>05:30</option>
-				<option>06:00</option>
-				<option>06:30</option>
-				<option>07:00</option>
-				<option>07:30</option>
-				<option>08:00</option>
-				<option>08:30</option>
-				<option>09:00</option>
-				<option>09:30</option>
-				<option>10:00</option>
-				<option>10:30</option>
-				<option>11:00</option>
-				<option>11:30</option>
-				<option>12:00</option>
-				<option>12:30</option>
-				<option>13:00</option>
-				<option>13:30</option>
-				<option>14:00</option>
-				<option>14:30</option>
-				<option>15:00</option>
-				<option>15:30</option>
-				<option>16:00</option>
-				<option>16:30</option>
-				<option>17:00</option>
-				<option>17:30</option>
-				<option>18:00</option>
-				<option>18:30</option>
-				<option>19:00</option>
-				<option>19:30</option>
-				<option>20:00</option>
-				<option>20:30</option>
-				<option>21:00</option>
-				<option>21:30</option>
-				<option>22:00</option>
-				<option>22:30</option>
-				<option>23:00</option>
-				<option>23:30</option>
-			</select>
-			<input name="Enter" type="submit" value="Enter"> </input>
+			<table align="center" id="freeTable">
+				<tr>
+					<td><h4>When are you free today?</h4></td>
+					<td>
+						<select name="timeFrom" style="width: 100px; height: 26px">
+							<option>00:00</option>
+							<option>00:30</option>
+							<option>01:00</option>
+							<option>01:30</option>
+							<option>02:00</option>
+							<option>02:30</option>
+							<option>03:00</option>
+							<option>03:30</option>
+							<option>04:00</option>
+							<option>04:30</option>
+							<option>05:00</option>
+							<option>05:30</option>
+							<option>06:00</option>
+							<option>06:30</option>
+							<option>07:00</option>
+							<option>07:30</option>
+							<option>08:00</option>
+							<option>08:30</option>
+							<option>09:00</option>
+							<option>09:30</option>
+							<option>10:00</option>
+							<option>10:30</option>
+							<option>11:00</option>
+							<option>11:30</option>
+							<option>12:00</option>
+							<option>12:30</option>
+							<option>13:00</option>
+							<option>13:30</option>
+							<option>14:00</option>
+							<option>14:30</option>
+							<option>15:00</option>
+							<option>15:30</option>
+							<option>16:00</option>
+							<option>16:30</option>
+							<option>17:00</option>
+							<option>17:30</option>
+							<option>18:00</option>
+							<option>18:30</option>
+							<option>19:00</option>
+							<option>19:30</option>
+							<option>20:00</option>
+							<option>20:30</option>
+							<option>21:00</option>
+							<option>21:30</option>
+							<option>22:00</option>
+							<option>22:30</option>
+							<option>23:00</option>
+							<option>23:30</option>
+						</select>
+					</td>
+					<td>to</td>
+					<td><select name="timeTo" style="width: 100px; height: 26px">
+						<option>00:00</option>
+						<option>00:30</option>
+						<option>01:00</option>
+						<option>01:30</option>
+						<option>02:00</option>
+						<option>02:30</option>
+						<option>03:00</option>
+						<option>03:30</option>
+						<option>04:00</option>
+						<option>04:30</option>
+						<option>05:00</option>
+						<option>05:30</option>
+						<option>06:00</option>
+						<option>06:30</option>
+						<option>07:00</option>
+						<option>07:30</option>
+						<option>08:00</option>
+						<option>08:30</option>
+						<option>09:00</option>
+						<option>09:30</option>
+						<option>10:00</option>
+						<option>10:30</option>
+						<option>11:00</option>
+						<option>11:30</option>
+						<option>12:00</option>
+						<option>12:30</option>
+						<option>13:00</option>
+						<option>13:30</option>
+						<option>14:00</option>
+						<option>14:30</option>
+						<option>15:00</option>
+						<option>15:30</option>
+						<option>16:00</option>
+						<option>16:30</option>
+						<option>17:00</option>
+						<option>17:30</option>
+						<option>18:00</option>
+						<option>18:30</option>
+						<option>19:00</option>
+						<option>19:30</option>
+						<option>20:00</option>
+						<option>20:30</option>
+						<option>21:00</option>
+						<option>21:30</option>
+						<option>22:00</option>
+						<option>22:30</option>
+						<option>23:00</option>
+						<option>23:30</option>
+					</select></td>
+					<td><input name="Enter" type="submit" value="Enter"> </input></td>
+				</tr>
+			</table>
 		</form>
 		
-		   
-		<p>{% block content %}
+		{% block content %}
 		<table class="list" border="1">  
 			{% for item in shows %}
 			<tr>
@@ -173,29 +178,36 @@
 					<img alt="tv poster" height="150" src="{{item.split(';')[0]}}" width="150">
 				</td>
 				<td class="info">
-					<h3>TV Show Name</h3>
+					<h3>{{ item.split(';')[1] }}</h3>
 					<!-- <h3>{{ item.split(';')[1] }}</h3> -->
 					
 					<!-- <br> -->
 					<p><img alt="tv rating" height="15%" src="../static/1.png">1/10</p>
 					<p>genre 1, genre 2</p>
-					<h4>On Network HBO at 9:00</h4>
+					<h4>On {{ item.split(';')[3] }} at {{ item.split(';')[2] }}</h4>
+					<table>
+						<tr>
+							<td><h5>Your rating:</h5></td>
+							<td><fieldset class="rating">
+								<input type="radio" id="star10" name="rating" value="10" /><label for="star10" title="Perfect">10 stars</label>
+								<input type="radio" id="star9" name="rating" value="9" /><label for="star9" title="Excellent">9 stars</label>
+								<input type="radio" id="star8" name="rating" value="8" /><label for="star8" title="Very Good">8 stars</label>
+								<input type="radio" id="star7" name="rating" value="7" /><label for="star7" title="Good">7 stars</label>
+								<input type="radio" id="star6" name="rating" value="6" /><label for="star6" title="Not bad">6 stars</label>
+								<input type="radio" id="star5" name="rating" value="5" /><label for="star5" title="Meh">5 stars</label>
+								<input type="radio" id="star4" name="rating" value="4" /><label for="star4" title="Still bad, but almost there">4 stars</label>
+								<input type="radio" id="star3" name="rating" value="3" /><label for="star3" title="Bad">3 stars</label>
+								<input type="radio" id="star2" name="rating" value="2" /><label for="star2" title="Awful">2 stars</label>
+								<input type="radio" id="star1" name="rating" value="1" /><label for="star1" title="Sucks big time">1 star</label>
+							</fieldset></td>
+						</tr>
+					</table>					  
 				</td>
 			</tr>
 			{% endfor %}
-		</td>
-		{% endblock content %}</p>
+		</table>
+		{% endblock content %}
 		
-		<!-- <p>{% block content %}
-		<ul class="list">       
-		  {% for item in shows %}
-			<img alt="fantasy game of thrones" height="150" src="{{item.split(';')[0]}}" width="150">
-			<li>
-				{{ item.split(';')[1] }}
-			</li>
-		  {% endfor %}
-		</ul>
-		{% endblock content %}</p> -->
 		<br>
 		<br>
 
