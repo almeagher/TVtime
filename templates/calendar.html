@@ -174,16 +174,14 @@
 		<table class="list" border="1">  
 			{% for item in shows %}
 			<tr>
-				<td>
+				<td class="tvPoster">
 					<img alt="tv poster" height="150" src="{{item.split(';')[0]}}" width="150">
 				</td>
 				<td class="info">
 					<h3>{{ item.split(';')[1] }}</h3>
-					<!-- <h3>{{ item.split(';')[1] }}</h3> -->
-					
-					<!-- <br> -->
-					<p><img alt="tv rating" height="15%" src="../static/1.png">1/10</p>
-					<p>genre 1, genre 2</p>
+
+					<p><img alt="tv rating" height="15%" src="../static/" + {{ item.split(';')[4] }} +".png">{{ item.split(';')[5] }}/10</p>
+					<p>{{ item.split(';')[5] }}</p>
 					<h4>On {{ item.split(';')[3] }} at {{ item.split(';')[2] }}</h4>
 					<table>
 						<tr>

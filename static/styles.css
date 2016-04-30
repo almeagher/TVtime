@@ -179,9 +179,14 @@
 	margin-top: 0px;
 }
 
+.tvPoster {
+	vertical-align: top;
+}
+
 .info {
 	padding-left: 10px;
-	padding-right: 10px;
+	padding-right: 10px;/* 
+	vertical-align: top; */
 }
 .info h4 {
 	margin: 0px;
