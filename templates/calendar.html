@@ -180,8 +180,8 @@
 				<td class="info">
 					<h3>{{ item.split(';')[1] }}</h3>
 
-					<p><img alt="tv rating" height="15%" src="../static/" + {{ item.split(';')[4] }} +".png">{{ item.split(';')[5] }}/10</p>
-					<p>{{ item.split(';')[5] }}</p>
+					<p><img alt="tv rating" height="15%" src="../static/{{ item.split(';')[4] }}.png">{{ item.split(';')[4] }}/10</p>
+					<p>Genre(s): {{ item.split(';')[5] }}</p>
 					<h4>On {{ item.split(';')[3] }} at {{ item.split(';')[2] }}</h4>
 					<table>
 						<tr>

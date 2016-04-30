@@ -97,28 +97,32 @@ def recommender(user, database):
 	ratings = showInfo(database)
 	i=0
 	for show in database:
+		print show.rating
 		if ratings[i].rating != 0:
 			show.rating = ratings[i].rating
+			print "not 0" + str(show.rating)
 		
 		show.image = ratings[i].image
 		tvRecommend.append(show)
-		tvRecommend[i].rating = 0
+		#tvRecommend[i].rating = 0
 		
-		rated = False
+		inGenre = False
 		
-		last = len(user.likes) - 1
-		for userGenre in user.likes:
-			if userGenre in show.genre:
+		for genre in show.genre.split(","):
+			if genre in user.likes:
+				inGenre = True 
 				tvRecommend[i].rating = tvRecommend[i].rating + 1
-				if(rated == False):
-					tvRecommend[i].rating = tvRecommend[i].rating + show.rating*2
-					rated = True
-			elif(userGenre == user.likes[-1]):
-				if(rated == False):
-					tvRecommend[i].rating = tvRecommend[i].rating + show.rating
-					rated = True
-			else:
-				continue;
+				if(tvRecommend[i].rating >= 10):
+					tvRecommend[i].rating = 10
+
+		if inGenre == False:
+			for genre in show.genre.split(","):
+				if genre  not in user.likes:
+					tvRecommend[i].rating = tvRecommend[i].rating - 2
+					if(tvRecommend[i].rating <= 0):
+						tvRecommend[i].rating = 0
+ 
+
 		
 		for genre in user.dislikes: # if user dislikes genre, get rid of it in results
 			if genre in show.genre:
@@ -137,7 +141,8 @@ def recommender(user, database):
 def printTopShows(dShows, fileName):
 	showsList = []
 	finalShowsList = []
-	print len(dShows)
+	#for i in dShows:
+		#print i.rating
 	i = 0
 	while i < min(len(dShows),10):
 		topShow = max(dShows, key=attrgetter('rating'))
@@ -150,8 +155,8 @@ def printTopShows(dShows, fileName):
 	j=0
 	for show in showsList:
 
-		finalShowsList.append(show.image + ";" + show.title + ";" + str(show.startTime.time()) + ";" + show.network)
-		
+		finalShowsList.append(show.image + ";" + show.title + ";" + str(show.startTime.time()) + ";" + show.network + ";" + str(show.rating) + ";" + show.genre)
+		#print show.rating
 		j = j + 1
 	return finalShowsList
 		
