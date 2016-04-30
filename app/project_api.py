@@ -64,7 +64,7 @@ def store_api_searches(json_results, output_file):
 	open_output_file = open(output_file, 'a')
 	count = 0 
 	for result in json_results:
-		open_output_file.write(str(result["showName"].encode("ascii", "ignore")) + ";" + str(result["showType"]) + ";" + str(result["starRating"]) + ";" + result["listDateTime"] + ";" + str(result["duration"]) + ";" +  str(result["stationType"]) + "\n")
+		open_output_file.write(str(result["showName"].encode("ascii", "ignore")) + ";" + str(result["showType"]) + ";" + str(result["starRating"]) + ";" + result["listDateTime"] + ";" + str(result["duration"]) + ";" +  str(result["stationType"]) + ";" + str(result["callsign"]) + "\n")
 		count = count + 1
 	print "api searches stored" + str(count)
 

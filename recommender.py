@@ -24,7 +24,7 @@ class User:
 		self.ratings = ratings
 
 class Show:
-	def __init__(self, title, genre, rating, startTime, duration, provider, image):
+	def __init__(self, title, genre, rating, startTime, duration, provider, image, network, channel):
 		self.title = title
 		self.genre = genre
 		self.rating = rating
@@ -32,18 +32,18 @@ class Show:
 		self.duration = duration
 		self.provider = provider
 		self.image = image
+		self.network = network
+		self.channel = channel
 		
 class Database:
 	def __init__(self, shows):
 		self.shows = shows
-
-poster_list = []		
+	
 		
 #Given a list of show objects, it returns a list of ratings on a 
 #scale of 1-10 from IMDb and also saves the shows poster in a list
 #of dictionary entries {'showTitle':"posterURL"}
 def showInfo(show_list):
-	rating_list = []
 	
 	for show in show_list:
 		show_title = urllib.quote(show.title)
@@ -55,22 +55,23 @@ def showInfo(show_list):
 		json_result = json.loads(response_data)
 		if 'imdbRating' in json_result.keys():
 			if json_result['imdbRating'] != 'N/A':
-				rating_list.append(int(float(json_result['imdbRating'])))
+				show.rating = int(float(json_result['imdbRating']))
 			else:
-				rating_list.append(0)	
+				if show.rating == "N/A":
+					show.rating = 0
 		else:
-			rating_list.append(0)
-		dict = {}		
+			if show.rating == "N/A":
+				show.rating = 0	
 		if 'Poster' in json_result.keys():
 			if json_result['Poster'] != 'N/A':
-				dict[show.title]=str(json_result['Poster'])
+				show.image = str(json_result['Poster'])
 			else:
-				dict[show.title]='http://www.makeupstudio.lu/html/images/poster/no_poster_available.jpg'
+				show.image = 'http://www.makeupstudio.lu/html/images/poster/no_poster_available.jpg'
 		else:
-			dict[show.title]='http://www.makeupstudio.lu/html/images/poster/no_poster_available.jpg'
-		poster_list.append(dict)
+			show.image = 'http://www.makeupstudio.lu/html/images/poster/no_poster_available.jpg'
 
-	return rating_list
+
+	return show_list
 
 def filter(date, startTime, userDuration, database):
 	tvList = []
@@ -96,9 +97,10 @@ def recommender(user, database):
 	ratings = showInfo(database)
 	i=0
 	for show in database:
-		if ratings[i] != 0:
-			show.rating = ratings[i]
+		if ratings[i].rating != 0:
+			show.rating = ratings[i].rating
 		
+		show.image = ratings[i].image
 		tvRecommend.append(show)
 		tvRecommend[i].rating = 0
 		
@@ -147,7 +149,9 @@ def printTopShows(dShows, fileName):
 		dShows.remove(topShow) 
 	j=0
 	for show in showsList:
-		finalShowsList.append(poster_list[show.title] + ";" + show.title + " " + str(show.startTime.time()))
+
+		finalShowsList.append(show.image + ";" + show.title + ";" + str(show.startTime.time()) + ";" + show.network)
+		
 		j = j + 1
 	return finalShowsList
 		
@@ -157,7 +161,7 @@ def parseFile(fileName):
 		for line in f:
 			data = line.split(";")
 			startTime = datetime.strptime(data[3], "%Y-%m-%d %H:%M:%S")
-			s = Show(data[0], data[1], int(data[2]), startTime, int(data[4]), data[5].rstrip(), "")
+			s = Show(data[0], data[1], int(data[2]), startTime, int(data[4]), data[5].rstrip(), "", data[6], "")
 			
 			list.append(s)
 			

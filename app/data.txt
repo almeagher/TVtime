@@ -1,1014 +1,990 @@
-Morning Express With Robin Meade;News;0;2016-04-29 10:00:00;360;Cable
-Local Programming;TBA;0;2016-04-29 10:00:00;360;Broadcast
-Key Capitol Hill Hearings;Political;0;2016-04-29 11:00:00;720;Cable
-Local Programming;TBA;0;2016-04-29 12:00:00;600;Network
-Movie;Movies, Drama;3;2016-04-29 13:00:00;240;Cable
-Football Classics;Sports, Football;0;2016-04-29 13:00:00;180;Cable
-Varney and Company;Discussion;0;2016-04-29 13:00:00;180;Cable
-Movie;Movies, Crime Story;3;2016-04-29 13:00:00;165;Cable
-Jewelry TV;Paid Program;0;2016-04-29 13:00:00;720;Broadcast
-MSNBC Live;News;0;2016-04-29 13:00:00;480;Cable
-The Dan Patrick Show;Sports, Talk Show;0;2016-04-29 13:00:00;180;Cable
-Market Day Report;Discussion;0;2016-04-29 13:00:00;300;Cable
-Weather Center Live;Environmental, News;0;2016-04-29 13:00:00;180;Cable
-Movie;Movies, Thriller;2;2016-04-29 13:10:00;120;Cable
-Movie;Movies, Comedy;3;2016-04-29 13:15:00;110;Cable
-Movie;Movies, Family;2;2016-04-29 13:20:00;110;Cable
-Movie;Movies, Action/Comedy;2;2016-04-29 13:20:00;110;Cable
-Movie;Movies, Action;2;2016-04-29 13:25:00;105;Cable
-Movie;Movies, Adventure;3;2016-04-29 13:30:00;150;Cable
-Movie;Movies, History;2;2016-04-29 13:30:00;155;
-Movie;Movies, Sci-Fi;2;2016-04-29 13:30:00;120;Cable
-Movie;Movies, War;4;2016-04-29 13:35:00;110;Cable
-Movie;Movies, Comedy;2;2016-04-29 13:35:00;100;Cable
-Movie;Movies, Fantasy;2;2016-04-29 13:35:00;115;Cable
-Movie;Movies, Comedy/Drama;0;2016-04-29 13:35:00;90;Cable
-Movie;Movies, Drama;0;2016-04-29 13:40:00;105;Cable
-Movie;Movies, Drama;3;2016-04-29 13:40:00;125;Cable
-Movie;Movies, Action;0;2016-04-29 13:45:00;95;Cable
-Movie;Movies, Adventure;0;2016-04-29 13:50:00;100;Cable
-Movie;Movies, Sci-Fi;0;2016-04-29 13:50:00;125;Cable
-Movie;Movies, Comedy;2;2016-04-29 13:55:00;125;Cable
-Football;Sports, Football;0;2016-04-29 14:00:00;120;Cable
-Local Programming;TBA;0;2016-04-29 14:00:00;120;Network
-Movie;Movies, Comedy;2;2016-04-29 14:00:00;120;Cable
-Movie;Movies;0;2016-04-29 14:00:00;120;Broadcast
-U.S. House of Representatives;Political;0;2016-04-29 14:00:00;240;Cable
-Raza deportiva;Radio, Sports;0;2016-04-29 14:00:00;120;Cable
-Mike & Mike;Sports, Discussion, Miscellaneous;0;2016-04-29 14:00:00;180;Cable
-The Dan Le Batard Show;Sports, Discussion, Miscellaneous;0;2016-04-29 14:00:00;180;Cable
-First Take;Sports, Talk Show;0;2016-04-29 14:00:00;120;Cable
-Soccer;Sports, Soccer;0;2016-04-29 14:00:00;120;Cable
-Morning Drive;Sports, Golf;0;2016-04-29 14:00:00;120;Cable
-Home and Family;Talk Shows;0;2016-04-29 14:00:00;120;Cable
-Movie;Movies, Drama;0;2016-04-29 14:00:00;120;Cable
-MLB Central;Sports, Baseball;0;2016-04-29 14:00:00;180;Cable
-Soccer;Sports, Soccer;0;2016-04-29 14:00:00;120;Cable
-Path to the Draft;Sports, Football;0;2016-04-29 14:00:00;180;Cable
-Movie;Movies, Drama, Horror;1;2016-04-29 14:00:00;120;Cable
-Movie;Movies, Comedy;3;2016-04-29 14:00:00;105;Cable
-Movie;Movies, Drama;3;2016-04-29 14:00:00;120;Cable
-Movie;Movies, Adventure;2;2016-04-29 14:00:00;95;Cable
-Movie;Movies, Drama;4;2016-04-29 14:00:00;135;Cable
-Movie;Movies, Christmas, Comedy;2;2016-04-29 14:00:00;150;Cable
-Million Dollar Listing New York;Reality TV;0;2016-04-29 14:03:00;93;Cable
-Movie;Movies, Musical;3;2016-04-29 14:05:00;90;Cable
-Movie;Movies, Biography;0;2016-04-29 14:05:00;135;Cable
-Movie;Movies, Action;2;2016-04-29 14:05:00;105;Cable
-Movie;Movies, Documentary;0;2016-04-29 14:10:00;80;Cable
-Movie;Movies, Comedy;2;2016-04-29 14:10:00;95;Cable
-Movie;Movies, Action;2;2016-04-29 14:10:00;130;Cable
-Movie;Movies, Biography;3;2016-04-29 14:20:00;140;Cable
-Movie;Movies, Romance;2;2016-04-29 14:20:00;95;Cable
-Movie;Movies;2;2016-04-29 14:25:00;85;Cable
-The Alfred Hitchcock Hour;Drama;0;2016-04-29 14:30:00;60;Broadcast
-#NowPlaying;Music;0;2016-04-29 14:30:00;180;Cable
-Movie;Movies, Sport;2;2016-04-29 14:30:00;130;Cable
-Movie;Movies, Sport;2;2016-04-29 14:30:00;130;Cable
-Universidad Ave Mara;Religious;0;2016-04-29 14:30:00;60;Cable
-Catfish: The TV Show;Reality TV;0;2016-04-29 14:30:00;65;Cable
-Movie;Movies, Drama;3;2016-04-29 14:30:00;150;Cable
-La casa de al lado;Soaps;0;2016-04-29 14:30:00;90;Broadcast
-Tennis;Sports, Tennis;0;2016-04-29 14:30:00;150;Cable
-Movie;Movies, Action;2;2016-04-29 14:35:00;115;Cable
-Movie;Movies, Sci-Fi;3;2016-04-29 14:40:00;145;Cable
-Martin;Sitcom;0;2016-04-29 14:40:00;40;Cable
-The Bernie Mac Show;Sitcom;0;2016-04-29 14:42:00;43;
-Saturday Night Live;Comedy;0;2016-04-29 14:44:00;126;Cable
-Movie;Movies, Western;3;2016-04-29 14:45:00;95;Cable
-Movie;Movies, Action;3;2016-04-29 14:50:00;110;Cable
-Warren Miller's Like There's No Tomorrow;Documentary;0;2016-04-29 14:59:00;99;Cable
-Storage Wars;Reality TV;0;2016-04-29 15:00:00;30;Cable
-The View;Talk Shows;0;2016-04-29 15:00:00;60;Network
-Weaponology;Documentary;0;2016-04-29 15:00:00;60;Cable
-Animal Cops: Houston;Documentary;0;2016-04-29 15:00:00;60;Cable
-Leave It to Beaver;Sitcom;0;2016-04-29 15:00:00;30;Broadcast
-Ramsay's Kitchen Nightmares;Food;0;2016-04-29 15:00:00;60;Cable
-BBC World News;News;0;2016-04-29 15:00:00;30;Cable
-Soccer;Sports, Soccer;0;2016-04-29 15:00:00;120;Cable
-Bloomberg Markets: European Close;Business;0;2016-04-29 15:00:00;60;Cable
-Shaun the Sheep;Children;0;2016-04-29 15:00:00;30;Cable
-Movie;Movies, Animated;0;2016-04-29 15:00:00;90;Cable
-Boomer and Carton;Sports, Miscellaneous;0;2016-04-29 15:00:00;240;Cable
-Movie;Movies, Horror;2;2016-04-29 15:00:00;120;Cable
-NCIS: Los Angeles;Drama;0;2016-04-29 15:00:00;60;Cable
-Squawk Alley;Business;0;2016-04-29 15:00:00;60;Cable
-At This Hour With Berman and Bolduan;News;0;2016-04-29 15:00:00;60;Cable
-Movie;Movies, Drama;0;2016-04-29 15:00:00;150;Cable
-The Lone Ranger;Drama;0;2016-04-29 15:00:00;30;Broadcast
-P. Allen Smith's Garden Home;Home;0;2016-04-29 15:00:00;30;Broadcast
-Jacked: Auto Theft Task Force;Reality TV;0;2016-04-29 15:00:00;30;
-Cheaters;Reality TV;0;2016-04-29 15:00:00;30;Broadcast
-Barry Segal: Vision for Israel;Religious;0;2016-04-29 15:00:00;30;Broadcast
-Buying the Yukon;Home;0;2016-04-29 15:00:00;30;Cable
-I (Almost) Got Away With It;Docu-Series;0;2016-04-29 15:00:00;60;Cable
-My Little Pony Friendship Is Magic;Children;0;2016-04-29 15:00:00;30;Cable
-Trauma: Life in the ER;Documentary, Health;0;2016-04-29 15:00:00;60;Cable
-Mickey Mouse Clubhouse;Children;0;2016-04-29 15:00:00;30;Cable
-Kate and Mim-Mim;Children;0;2016-04-29 15:00:00;30;Cable
-The 7D;Animals;0;2016-04-29 15:00:00;30;Cable
-House Crashers;Hobbies & Crafts;0;2016-04-29 15:00:00;30;Cable
-Keeping Up With the Kardashians;Reality TV;0;2016-04-29 15:00:00;60;Cable
-SportsCenter;Sports, News;0;2016-04-29 15:00:00;60;Cable
-Burn Notice;Drama;0;2016-04-29 15:00:00;60;Cable
-Peace and Love by Jewelry Nancy Davis;Shopping;0;2016-04-29 15:00:00;60;Cable
-Women of Grace;Religious;0;2016-04-29 15:00:00;30;Cable
-Your Health;Health, Discussion;0;2016-04-29 15:00:00;60;Broadcast
-Barney Miller;Sitcom;0;2016-04-29 15:00:00;30;Broadcast
-Movie;Movies, Suspense;3;2016-04-29 15:00:00;105;Cable
-Cupcake Wars;Food;0;2016-04-29 15:00:00;60;Cable
-La Ultima Palabra;Sports, News, Soccer;0;2016-04-29 15:00:00;60;Cable
-Happening Now;News;0;2016-04-29 15:00:00;60;Cable
-NHRA Pro Mod Series;Sports, Auto Racing;0;2016-04-29 15:00:00;30;Cable
-Last Man Standing;Sitcom;0;2016-04-29 15:00:00;30;Cable
-Raising Hope;Sitcom;0;2016-04-29 15:00:00;30;Cable
-Cabin Truckers;Reality TV;0;2016-04-29 15:00:00;30;Cable
-GAC Music Videos;Music;0;2016-04-29 15:00:00;120;Cable
-Tras la Verdad;News Magazine;0;2016-04-29 15:00:00;60;Broadcast
-Whammy!;Game Shows;0;2016-04-29 15:00:00;30;Cable
-The Contenders;Sports, Soccer;0;2016-04-29 15:00:00;30;Cable
-Renegade;Drama;0;2016-04-29 15:00:00;60;Broadcast
-Diagnosis Murder;Drama;0;2016-04-29 15:00:00;60;Cable
-Movie;Movies, Comedy;2;2016-04-29 15:00:00;95;Cable
-Flea Market Flip;Home;0;2016-04-29 15:00:00;30;Cable
-Ancient Aliens;Documentary;0;2016-04-29 15:00:00;120;Cable
-Chef Ming Tsai;Shopping;0;2016-04-29 15:00:00;60;Broadcast
-Daniel Boone;Drama;0;2016-04-29 15:00:00;60;Cable
-Deadly Sins;Documentary;0;2016-04-29 15:00:00;60;Cable
-Numb3rs;Drama;0;2016-04-29 15:00:00;60;Broadcast
-Unsolved Mysteries;Legal;0;2016-04-29 15:00:00;60;Cable
-Cook Yourself Thin;Food;0;2016-04-29 15:00:00;30;Cable
-The Nanny;Sitcom;0;2016-04-29 15:00:00;30;Cable
-Cities of the Underworld;Documentary;0;2016-04-29 15:00:00;60;
-NY Giants 1st & 10;Sports, Football;0;2016-04-29 15:00:00;90;Cable
-Nick Cannon Presents: Wild 'N Out;Comedy;0;2016-04-29 15:00:00;35;Cable
-Pharrell & Friends;Music;0;2016-04-29 15:00:00;60;Cable
-Space Station Live;Science;0;2016-04-29 15:00:00;30;Broadcast
-Big Fish, Texas;Docu-Series;0;2016-04-29 15:00:00;60;Cable
-Animal Dance Battles;Documentary;0;2016-04-29 15:00:00;60;Cable
-Playoff Playback;Sports, Basketball;0;2016-04-29 15:00:00;60;Cable
-Today Show III;Talk Shows;0;2016-04-29 15:00:00;60;Network
-12 corazones;Game Shows;0;2016-04-29 15:00:00;60;Cable
-Wonder Pets;Children;0;2016-04-29 15:00:00;27;Cable
-Bubble Guppies;Children;0;2016-04-29 15:00:00;60;Cable
-Bubble Guppies;Children;0;2016-04-29 15:00:00;60;Cable
-Bella and the Bulldogs;Sitcom;0;2016-04-29 15:00:00;30;Cable
-Dr. Phil;Talk Shows;0;2016-04-29 15:00:00;60;Cable
-Buccaneers and Bones;Sports, Outdoors;0;2016-04-29 15:00:00;30;Cable
-Miss Fisher's Murder Mysteries;Drama;0;2016-04-29 15:00:00;90;Cable
-America's Next Top Model;Reality TV;0;2016-04-29 15:00:00;60;Cable
-Football;Sports, Football;0;2016-04-29 15:00:00;120;Cable
-Dinosaur Train;Children;0;2016-04-29 15:00:00;30;Broadcast
-Local USA;Documentary;0;2016-04-29 15:00:00;30;Broadcast
-Law & Order: Criminal Intent;Drama;0;2016-04-29 15:00:00;60;Broadcast
-Mickey;Children;0;2016-04-29 15:00:00;15;Cable
-Angry Planet;Environmental;0;2016-04-29 15:00:00;30;Cable
-Ghost Whisperer;Drama;0;2016-04-29 15:00:00;60;Cable
-Timothy Goes to School;Children;0;2016-04-29 15:00:00;30;Broadcast
-William and Kate: The Journey;Docu-Series;0;2016-04-29 15:00:00;60;Cable
-Survivorman;Docu-Series;0;2016-04-29 15:00:00;60;Cable
-Movie;Movies, Drama;3;2016-04-29 15:00:00;150;Cable
-Movie;Movies, Action;0;2016-04-29 15:00:00;110;Cable
-Movie;Movies, Documentary;0;2016-04-29 15:00:00;105;Cable
-Movie;Movies, Drama;2;2016-04-29 15:00:00;105;Cable
-Gangland;Documentary;0;2016-04-29 15:00:00;60;Cable
-Ruff-Ruff, Tweet & Dave;Children;0;2016-04-29 15:00:00;19;Broadcast
-Movie;Movies, Documentary, Musical;0;2016-04-29 15:00:00;115;Cable
-Kenneth Copeland Ministries;Religious;0;2016-04-29 15:00:00;30;Broadcast
-The Cleveland Show;Animated, Christmas;0;2016-04-29 15:00:00;30;Cable
-Biology Collection, By the Visual Learning Company;Science;0;2016-04-29 15:00:00;19;Cable
-Ned's Declassified School Survival Guide;Children;0;2016-04-29 15:00:00;30;Cable
-Brunch @ Bobby's;Food;0;2016-04-29 15:00:00;30;Cable
-Lacrosse;Sports, Lacrosse;0;2016-04-29 15:00:00;120;Cable
-48 Hours Mystery;News Magazine;0;2016-04-29 15:00:00;60;Cable
-Supernatural;Sci-Fi;0;2016-04-29 15:00:00;60;Cable
-Ghost Adventures;Documentary;0;2016-04-29 15:00:00;60;Cable
-Top 20 Most Shocking;Reality TV;0;2016-04-29 15:00:00;60;Cable
-The Andy Griffith Show;Sitcom;0;2016-04-29 15:00:00;30;Cable
-Sanford and Son;Sitcom;0;2016-04-29 15:00:00;30;Cable
-Laura;Talk Shows;0;2016-04-29 15:00:00;60;Broadcast
-Como dice el dicho;Drama;0;2016-04-29 15:00:00;60;Broadcast
-Law & Order: Special Victims Unit;Drama;0;2016-04-29 15:00:00;60;Cable
-Graveyard Carz;Hobbies & Crafts;0;2016-04-29 15:00:00;60;Cable
-The Fabulous Life Of...;Biography;0;2016-04-29 15:00:00;60;Cable
-Rock Fest;Music;0;2016-04-29 15:00:00;120;Cable
-B. Deep;Docu-Series;0;2016-04-29 15:00:00;30;Cable
-Plaza Ssamo;Children;0;2016-04-29 15:00:00;30;Broadcast
-CityLife;Sports, Soccer;0;2016-04-29 15:00:00;30;Cable
-Sully's Biz Brew;News Magazine;0;2016-04-29 15:00:00;60;Broadcast
-Movie;Movies, Comedy;2;2016-04-29 15:01:00;84;Cable
-Movie;Movies, Thriller;3;2016-04-29 15:05:00;95;Cable
-Movie;Movies, Drama;3;2016-04-29 15:05:00;130;Cable
-Movie;Movies, Thriller;3;2016-04-29 15:10:00;125;Cable
-Movie;Movies, Adventure;2;2016-04-29 15:10:00;90;Cable
-Movie;Movies, Sci-Fi;2;2016-04-29 15:10:00;115;Cable
-Movie;Movies, Comedy;3;2016-04-29 15:10:00;90;Cable
-Movie;Movies, Action;2;2016-04-29 15:15:00;100;Cable
-Mickey;Children;0;2016-04-29 15:15:00;15;Cable
-Chloe's Closet;Children;0;2016-04-29 15:19:00;18;Broadcast
-Save a Life: CPR/AED Elementary;Instructional;0;2016-04-29 15:19:00;11;Cable
-House of Payne;Sitcom;0;2016-04-29 15:20:00;40;Cable
-Movie;Movies, Sport;3;2016-04-29 15:20:00;115;Cable
-The Bernie Mac Show;Sitcom;0;2016-04-29 15:25:00;43;
-Movie;Movies, Thriller;1;2016-04-29 15:25:00;90;Cable
-Movie;Movies, Drama;3;2016-04-29 15:25:00;95;Cable
-Little Charmers;Children;0;2016-04-29 15:27:00;28;Cable
-Duck Dynasty;Reality TV;0;2016-04-29 15:30:00;30;Cable
-Leave It to Beaver;Sitcom;0;2016-04-29 15:30:00;30;Broadcast
-World Business Report;Business;0;2016-04-29 15:30:00;15;Cable
-Looney Tunes;Children;0;2016-04-29 15:30:00;30;Cable
-The Lone Ranger;Drama;0;2016-04-29 15:30:00;30;Broadcast
-Start Up;Business;0;2016-04-29 15:30:00;30;Broadcast
-Jacked: Auto Theft Task Force;Reality TV;0;2016-04-29 15:30:00;30;
-Cheaters;Reality TV;0;2016-04-29 15:30:00;30;Broadcast
-Enjoying Everyday Life With Joyce Meyer;Religious;0;2016-04-29 15:30:00;30;Broadcast
-The Dick Cavett Show;Talk Shows;0;2016-04-29 15:30:00;90;Broadcast
-Buying the Yukon;Home;0;2016-04-29 15:30:00;30;Cable
-My Little Pony Friendship Is Magic;Children;0;2016-04-29 15:30:00;30;Cable
-Mickey Mouse Clubhouse;Children;0;2016-04-29 15:30:00;30;Cable
-Jake and the Never Land Pirates;Animated;0;2016-04-29 15:30:00;30;Cable
-The 7D;Animals;0;2016-04-29 15:30:00;30;Cable
-House Crashers;Hobbies & Crafts;0;2016-04-29 15:30:00;30;Cable
-The Holy Rosary With Mother Angelica;Religious;0;2016-04-29 15:30:00;30;Cable
-Barney Miller;Sitcom;0;2016-04-29 15:30:00;30;Broadcast
-Auto Racing;Sports, Auto Racing;0;2016-04-29 15:30:00;60;Cable
-Last Man Standing;Sitcom;0;2016-04-29 15:30:00;30;Cable
-Raising Hope;Sitcom;0;2016-04-29 15:30:00;30;Cable
-Cabin Truckers;Reality TV;0;2016-04-29 15:30:00;30;Cable
-Whammy!;Game Shows;0;2016-04-29 15:30:00;30;Cable
-Soccer;Sports, Soccer;0;2016-04-29 15:30:00;180;Cable
-Movie;Movies, Drama;0;2016-04-29 15:30:00;110;Cable
-Flea Market Flip;Home;0;2016-04-29 15:30:00;30;Cable
-Cook Yourself Thin;Food;0;2016-04-29 15:30:00;30;Cable
-The Nanny;Sitcom;0;2016-04-29 15:30:00;30;Cable
-Est de moda, el calzado;Religious;0;2016-04-29 15:30:00;30;Cable
-Movie;Movies, Thriller;3;2016-04-29 15:30:00;110;Cable
-Space Station Live;Science;0;2016-04-29 15:30:00;30;Broadcast
-Bella and the Bulldogs;Sitcom;0;2016-04-29 15:30:00;30;Cable
-Madfin Shark Series;Sports, Fishing;0;2016-04-29 15:30:00;30;Cable
-Dinosaur Train;Children;0;2016-04-29 15:30:00;30;Broadcast
-On Story;Docu-Series;0;2016-04-29 15:30:00;30;Broadcast
-Pet Central;Animals;0;2016-04-29 15:30:00;30;Cable
-Angry Planet;Environmental;0;2016-04-29 15:30:00;30;Cable
-Timothy Goes to School;Children;0;2016-04-29 15:30:00;30;Broadcast
-Movie;Movies, Family;0;2016-04-29 15:30:00;90;Cable
-Movie;Movies, Action;3;2016-04-29 15:30:00;180;Cable
-Kerry Shook;Religious;0;2016-04-29 15:30:00;30;Broadcast
-The Cleveland Show;Animated;0;2016-04-29 15:30:00;30;Cable
-Advocates of Change;Instructional;0;2016-04-29 15:30:00;21;Cable
-Ned's Declassified School Survival Guide;Children;0;2016-04-29 15:30:00;30;Cable
-Mexican Made Easy;Food;0;2016-04-29 15:30:00;30;Cable
-The Andy Griffith Show;Sitcom;0;2016-04-29 15:30:00;30;Cable
-Sanford and Son;Sitcom;0;2016-04-29 15:30:00;30;Cable
-B. Deep;Docu-Series;0;2016-04-29 15:30:00;30;Cable
-Los Pies Mgicos de Franny;Children;0;2016-04-29 15:30:00;30;Broadcast
-Inside City;Sports, Soccer;0;2016-04-29 15:30:00;30;Cable
-Movie;Movies, Comedy;0;2016-04-29 15:35:00;105;Cable
-Nick Cannon Presents: Wild 'N Out;Comedy;0;2016-04-29 15:35:00;35;Cable
-Catfish: The TV Show;Reality TV;0;2016-04-29 15:35:00;70;Cable
-Movie;Movies, Drama;0;2016-04-29 15:35:00;95;Cable
-Million Dollar Listing New York;Reality TV;0;2016-04-29 15:36:00;63;Cable
-The Chica Show;Children;0;2016-04-29 15:37:00;23;Broadcast
-Sport Today;Sports, Miscellaneous;0;2016-04-29 15:45:00;15;Cable
-Movie;Movies, Drama;3;2016-04-29 15:45:00;165;Cable
-Movie;Movies, Action;2;2016-04-29 15:45:00;125;Cable
-Movie;Movies, Horror;3;2016-04-29 15:45:00;110;Cable
-Movie;Movies, Drama;0;2016-04-29 15:45:00;135;Cable
-Movie;Movies;2;2016-04-29 15:50:00;90;Cable
-Movie;Movies, Action;3;2016-04-29 15:50:00;190;Cable
-Japan Video Topics 2010-2011;Instructional;0;2016-04-29 15:51:00;9;Cable
-Movie;Movies, Comedy;2;2016-04-29 15:55:00;100;Cable
-Winx Club;Children;0;2016-04-29 15:55:00;27;Cable
-Movie;Movies, Comedy;3;2016-04-29 15:55:00;120;Cable
-Duck Dynasty;Reality TV;0;2016-04-29 16:00:00;30;Cable
-Local Programming;TBA;0;2016-04-29 16:00:00;60;Network
-Weaponology;Documentary;0;2016-04-29 16:00:00;60;Cable
-Treehouse Masters: Out On a Limb;Hobbies & Crafts;0;2016-04-29 16:00:00;60;Cable
-Bewitched;Sitcom;0;2016-04-29 16:00:00;30;Broadcast
-Kitchen Nightmares;Reality TV;0;2016-04-29 16:00:00;60;Cable
-BBC World News;News;0;2016-04-29 16:00:00;30;Cable
-Movie;Movies, Comedy;2;2016-04-29 16:00:00;180;Cable
-Student U;Sports, Miscellaneous;0;2016-04-29 16:00:00;120;Cable
-Bloomberg Markets;Business, News;0;2016-04-29 16:00:00;120;Cable
-Looney Tunes;Children;0;2016-04-29 16:00:00;30;Cable
-The Price Is Right;Game Shows;0;2016-04-29 16:00:00;60;Network
-NCIS: Los Angeles;Drama;0;2016-04-29 16:00:00;60;Cable
-Steve Austin's Broken Skull Challenge;Reality TV;0;2016-04-29 16:00:00;60;Cable
-Fast Money Halftime Report;Business;0;2016-04-29 16:00:00;60;Cable
-Legal View With Ashleigh Banfield;Legal;0;2016-04-29 16:00:00;60;Cable
-Stargate: SG-1;Sci-Fi;0;2016-04-29 16:00:00;60;Broadcast
-Adam 12;Drama;0;2016-04-29 16:00:00;30;Broadcast
-Fons & Porter's Love of Quilting;Hobbies & Crafts;0;2016-04-29 16:00:00;30;Broadcast
-American Justice;Documentary;0;2016-04-29 16:00:00;60;
-Paid Program;Paid Program;0;2016-04-29 16:00:00;30;Broadcast
-Marcus and Joni Lamb;Religious;0;2016-04-29 16:00:00;60;Broadcast
-A Haunting;New Age;0;2016-04-29 16:00:00;60;Cable
-I (Almost) Got Away With It;Docu-Series;0;2016-04-29 16:00:00;60;Cable
-My Little Pony Friendship Is Magic;Children;0;2016-04-29 16:00:00;30;Cable
-Trauma: Life in the ER;Documentary;0;2016-04-29 16:00:00;60;Cable
-PJ Masks;Animated;0;2016-04-29 16:00:00;30;Cable
-Jake and the Never Land Pirates;Animated;0;2016-04-29 16:00:00;30;Cable
-Marvel's Ultimate Spider-Man vs. The Sinister 6;Children;0;2016-04-29 16:00:00;30;Cable
-House Crashers;Hobbies & Crafts;0;2016-04-29 16:00:00;30;Cable
-Keeping Up With the Kardashians;Reality TV;0;2016-04-29 16:00:00;60;Cable
-SportsCenter;Sports, News;0;2016-04-29 16:00:00;90;Cable
-Football Classics;Sports, Football;0;2016-04-29 16:00:00;180;Cable
-Redes;Regular;0;2016-04-29 16:00:00;60;Cable
-His & Hers;Sports, Talk Show;0;2016-04-29 16:00:00;60;Cable
-CSI: Crime Scene Investigation;Drama;0;2016-04-29 16:00:00;60;Cable
-Gem Week;Shopping;0;2016-04-29 16:00:00;60;Cable
-Daily Mass;Religious;0;2016-04-29 16:00:00;60;Cable
-Crosswords;Game Shows;0;2016-04-29 16:00:00;30;Broadcast
-Charlie's Angels;Drama;0;2016-04-29 16:00:00;60;Broadcast
-Chopped;Food;0;2016-04-29 16:00:00;60;Cable
-Cavuto: Coast to Coast;Business;0;2016-04-29 16:00:00;120;Cable
-Central Fox;Sports, News;0;2016-04-29 16:00:00;60;Cable
-Outnumbered;News Magazine;0;2016-04-29 16:00:00;60;Cable
-Soccer;Sports, Soccer;0;2016-04-29 16:00:00;120;Cable
-Last Man Standing;Sitcom;0;2016-04-29 16:00:00;30;Cable
-Two and a Half Men;Sitcom;0;2016-04-29 16:00:00;30;Cable
-Raising Hope;Sitcom;0;2016-04-29 16:00:00;30;Cable
-Cabin Truckers;Reality TV;0;2016-04-29 16:00:00;30;Cable
-Chespirito;Comedy;0;2016-04-29 16:00:00;60;Broadcast
-Family Feud;Game Shows;0;2016-04-29 16:00:00;30;Cable
-Golf;Sports, Golf;0;2016-04-29 16:00:00;150;Cable
-Renegade;Drama;0;2016-04-29 16:00:00;60;Broadcast
-Home and Family;Talk Shows;0;2016-04-29 16:00:00;120;Cable
-Diagnosis Murder;Drama;0;2016-04-29 16:00:00;60;Cable
-House Hunters;Home;0;2016-04-29 16:00:00;30;Cable
-The Daily Share;News;0;2016-04-29 16:00:00;120;Cable
-Chef Ming Tsai;Shopping;0;2016-04-29 16:00:00;60;Broadcast
-Bonanza;Drama;0;2016-04-29 16:00:00;60;Cable
-Deadly Sins;Documentary;0;2016-04-29 16:00:00;60;Cable
-Numb3rs;Drama;0;2016-04-29 16:00:00;60;Broadcast
-How I Met Your Mother;Sitcom, Thanksgiving;0;2016-04-29 16:00:00;30;Cable
-The Main Ingredient With Bobby Flay;Food;0;2016-04-29 16:00:00;30;Cable
-Movie;Movies, Thriller;0;2016-04-29 16:00:00;120;Cable
-The Nanny;Sitcom;0;2016-04-29 16:00:00;30;Cable
-Cadena de amor;Religious;0;2016-04-29 16:00:00;60;Cable
-Cities of the Underworld;Documentary;0;2016-04-29 16:00:00;60;
-Local Programming;TBA;0;2016-04-29 16:00:00;360;Broadcast
-Soccer;Sports, Soccer;0;2016-04-29 16:00:00;120;Cable
-Disclosure: Live From Bestival 2014;Music;0;2016-04-29 16:00:00;30;Cable
-NASA Television Video File;Discussion;0;2016-04-29 16:00:00;60;Broadcast
-Big Fish, Texas;Docu-Series;0;2016-04-29 16:00:00;60;Cable
-Cougars Undercover;Documentary;0;2016-04-29 16:00:00;60;Cable
-Playoff Playback;Sports, Basketball;0;2016-04-29 16:00:00;60;Cable
-Local Programming;TBA;0;2016-04-29 16:00:00;60;Network
-The Scott Martin Challenge;Sports, Fishing;0;2016-04-29 16:00:00;30;Cable
-12 corazones;Game Shows;0;2016-04-29 16:00:00;60;Cable
-Shimmer and Shine;Children;0;2016-04-29 16:00:00;30;Cable
-Shimmer and Shine;Children;0;2016-04-29 16:00:00;30;Cable
-Max and Shred;Children;0;2016-04-29 16:00:00;30;Cable
-Dr. Phil;Talk Shows;0;2016-04-29 16:00:00;60;Cable
-Fishing Edge;Sports, Fishing;0;2016-04-29 16:00:00;30;Cable
-America's Next Top Model;Reality TV;0;2016-04-29 16:00:00;60;Cable
-Super WHY!;Children;0;2016-04-29 16:00:00;30;Broadcast
-Tavis Smiley;Talk Shows;0;2016-04-29 16:00:00;30;Broadcast
-Hot Bench;Legal;0;2016-04-29 16:00:00;30;Broadcast
-Pet Central;Animals;0;2016-04-29 16:00:00;30;Cable
-Buffy the Vampire Slayer;Sci-Fi, Drama;0;2016-04-29 16:00:00;60;Cable
-Beverly Hills 90210;Drama;0;2016-04-29 16:00:00;60;Cable
-Harry and His Bucket Full of Dinosaurs;Children;0;2016-04-29 16:00:00;30;Broadcast
-Snapped;Biography;0;2016-04-29 16:00:00;60;Cable
-Survivorman;Docu-Series;0;2016-04-29 16:00:00;60;Cable
-Movie;Movies, Documentary;0;2016-04-29 16:00:00;105;Cable
-Gangbusters;Drama;0;2016-04-29 16:00:00;30;Cable
-Gangland;Documentary;0;2016-04-29 16:00:00;60;Cable
-Caillou;Children, Animated;0;2016-04-29 16:00:00;30;Broadcast
-Movie;Movies, Comedy;3;2016-04-29 16:00:00;115;Cable
-Steven Furtick;Religious;0;2016-04-29 16:00:00;30;Broadcast
-American Dad;Animated;0;2016-04-29 16:00:00;30;Cable
-Hawaii Student Digital Showcase;Computers & Technologies;0;2016-04-29 16:00:00;60;Cable
-Ned's Declassified School Survival Guide;Children;0;2016-04-29 16:00:00;30;Cable
-Secretos peligrosos;Regular;0;2016-04-29 16:00:00;60;Broadcast
-Junk Food Flip;Food;0;2016-04-29 16:00:00;30;Cable
-Weather Center Live;Environmental, News;0;2016-04-29 16:00:00;180;Cable
-48 Hours: Hard Evidence;Docu-Series;0;2016-04-29 16:00:00;60;Cable
-Supernatural;Sci-Fi;0;2016-04-29 16:00:00;60;Cable
-Ghost Adventures;Documentary;0;2016-04-29 16:00:00;60;Cable
-Top 20 Most Shocking;Reality TV;0;2016-04-29 16:00:00;60;Cable
-Bonanza;Drama;0;2016-04-29 16:00:00;60;Cable
-Sanford and Son;Sitcom;0;2016-04-29 16:00:00;30;Cable
-Laura;Talk Shows;0;2016-04-29 16:00:00;60;Broadcast
-Amores Verdaderos;Drama;0;2016-04-29 16:00:00;60;Broadcast
-Law & Order: Special Victims Unit;Drama;0;2016-04-29 16:00:00;60;Cable
-Wheeler Dealers;Automotive;0;2016-04-29 16:00:00;60;Cable
-Movie;Movies, Comedy;2;2016-04-29 16:00:00;150;Cable
-Huang's World;Food;0;2016-04-29 16:00:00;60;Cable
-Exploradores Espaciales;Regular;0;2016-04-29 16:00:00;15;Broadcast
-Soccer;Sports, Soccer;0;2016-04-29 16:00:00;150;Cable
-The Balancing Act;Talk Shows;0;2016-04-29 16:00:00;60;Broadcast
-Movie;Movies, Drama;2;2016-04-29 16:05:00;120;
-The Bernie Mac Show;Sitcom;0;2016-04-29 16:08:00;43;
-Nick Cannon Presents: Wild 'N Out;Comedy;0;2016-04-29 16:10:00;35;Cable
-Movie;Movies, Drama;0;2016-04-29 16:15:00;105;Cable
-Kambu;Regular;0;2016-04-29 16:15:00;15;Broadcast
-Outlander;Drama;0;2016-04-29 16:20:00;60;Cable
-Movie;Movies, Western;3;2016-04-29 16:20:00;100;Cable
-Movie;Movies, Crime Story;3;2016-04-29 16:20:00;110;Cable
-Zack and Quack;Children;0;2016-04-29 16:22:00;27;Cable
-Movie;Movies, Adventure;2;2016-04-29 16:25:00;132;Cable
-Duck Dynasty;Reality TV;0;2016-04-29 16:30:00;30;Cable
-Bewitched;Sitcom;0;2016-04-29 16:30:00;30;Broadcast
-BBC World News;News;0;2016-04-29 16:30:00;10;Cable
-Looney Tunes;Children;0;2016-04-29 16:30:00;30;Cable
-Teen Titans Go!;Animated;0;2016-04-29 16:30:00;30;Cable
-Adam 12;Drama;0;2016-04-29 16:30:00;30;Broadcast
-Paint This With Jerry Yarnell;Hobbies & Crafts;0;2016-04-29 16:30:00;30;Broadcast
-Paid Program;Paid Program;0;2016-04-29 16:30:00;30;Broadcast
-My Little Pony Friendship Is Magic;Children;0;2016-04-29 16:30:00;30;Cable
-Miles From Tomorrowland;Children;0;2016-04-29 16:30:00;30;Cable
-Doc McStuffins;Animated;0;2016-04-29 16:30:00;30;Cable
-Marvel's Ultimate Spider-Man vs. The Sinister 6;Children;0;2016-04-29 16:30:00;30;Cable
-House Crashers;Hobbies & Crafts;0;2016-04-29 16:30:00;30;Cable
-Eye for An Eye;Reality TV;0;2016-04-29 16:30:00;30;Broadcast
-Drag Racing;Sports, Auto Racing;0;2016-04-29 16:30:00;60;Cable
-Last Man Standing;Sitcom;0;2016-04-29 16:30:00;30;Cable
-Two and a Half Men;Sitcom;0;2016-04-29 16:30:00;30;Cable
-Raising Hope;Sitcom;0;2016-04-29 16:30:00;30;Cable
-Cabin Truckers;Reality TV;0;2016-04-29 16:30:00;30;Cable
-Family Feud;Game Shows;0;2016-04-29 16:30:00;30;Cable
-House Hunters International;Home;0;2016-04-29 16:30:00;30;Cable
-How I Met Your Mother;Sitcom;0;2016-04-29 16:30:00;30;Cable
-The Main Ingredient With Bobby Flay;Food;0;2016-04-29 16:30:00;30;Cable
-Roseanne;Sitcom;0;2016-04-29 16:30:00;30;Cable
-NY Giants Chronicles;Sports, Football;0;2016-04-29 16:30:00;30;Cable
-Florence + The Machine: Live at Glastonbury Festival 2015;Music;0;2016-04-29 16:30:00;90;Cable
-Jimmy Houston Outdoors;Sports, Fishing;0;2016-04-29 16:30:00;30;Cable
-PAW Patrol;Animated;0;2016-04-29 16:30:00;30;Cable
-PAW Patrol;Animated;0;2016-04-29 16:30:00;30;Cable
-Max and Shred;Children;0;2016-04-29 16:30:00;30;Cable
-Fishing University;Sports, Fishing;0;2016-04-29 16:30:00;30;Cable
-Dharma and Greg;Sitcom;0;2016-04-29 16:30:00;30;Cable
-Thomas & Friends;Children;0;2016-04-29 16:30:00;30;Broadcast
-Tavis Smiley;Talk Shows;0;2016-04-29 16:30:00;30;Broadcast
-Hot Bench;Legal;0;2016-04-29 16:30:00;30;Broadcast
-Fido & Wine;Animals;0;2016-04-29 16:30:00;30;Cable
-Harry and His Bucket Full of Dinosaurs;Children;0;2016-04-29 16:30:00;30;Broadcast
-True North Classics;Short Film;0;2016-04-29 16:30:00;60;Cable
-Caillou;Children, Animated;0;2016-04-29 16:30:00;30;Broadcast
-Movie;Movies, Sci-Fi;1;2016-04-29 16:30:00;90;Cable
-Robert Morris: The Blessed Life;Religious;0;2016-04-29 16:30:00;30;Broadcast
-American Dad;Animated;0;2016-04-29 16:30:00;30;Cable
-Ned's Declassified School Survival Guide;Children;0;2016-04-29 16:30:00;30;Cable
-Kelsey's Homemade;Food;0;2016-04-29 16:30:00;30;Cable
-Sanford and Son;Sitcom;0;2016-04-29 16:30:00;30;Cable
-Plaza Ssamo;Children;0;2016-04-29 16:30:00;30;Broadcast
-Movie;Movies, Comedy/Drama;3;2016-04-29 16:30:00;150;Cable
-Movie;Movies, Christmas, Comedy;3;2016-04-29 16:35:00;105;Cable
-Movie;Movies, Romance;3;2016-04-29 16:38:00;108;Cable
-The Real Housewives of Dallas;Reality TV;0;2016-04-29 16:39:00;63;Cable
-Africa Business Report;Business;0;2016-04-29 16:40:00;20;Cable
-Movie;Movies, Biography;0;2016-04-29 16:40:00;125;Cable
-Movie;Movies, Action;2;2016-04-29 16:40:00;110;Cable
-Movie;Movies, Action;2;2016-04-29 16:40:00;110;Cable
-Movie;Movies, Drama;3;2016-04-29 16:40:00;120;Cable
-Movie;Movies, Comedy;3;2016-04-29 16:40:00;110;Cable
-Movie;Movies, Comedy;0;2016-04-29 16:40:00;110;Cable
-Movie;Movies, Comedy;2;2016-04-29 16:40:00;85;Cable
-Movie;Movies, Drama;2;2016-04-29 16:45:00;90;Cable
-Nick Cannon Presents: Wild 'N Out;Comedy;0;2016-04-29 16:45:00;35;Cable
-Catfish: The TV Show;Reality TV;0;2016-04-29 16:45:00;105;Cable
-Alonzo Bodden: Historically Incorrect;Comedy;0;2016-04-29 16:45:00;65;Cable
-Movie;Movies, Drama;0;2016-04-29 16:45:00;90;Cable
-Peter Rabbit;Children;0;2016-04-29 16:49:00;27;Cable
-Movie;Movies, Comedy;3;2016-04-29 16:50:00;114;Cable
-Movie;Movies, Horror;0;2016-04-29 16:50:00;90;Cable
-The Bernie Mac Show;Sitcom;0;2016-04-29 16:51:00;43;
-Movie;Movies, Suspense;1;2016-04-29 16:55:00;125;Cable
-Movie;Movies, Action;2;2016-04-29 16:55:00;115;Cable
-Movie;Movies, Musical;2;2016-04-29 16:55:00;125;Cable
-Dog the Bounty Hunter;Reality TV;0;2016-04-29 17:00:00;30;Cable
-The Chew;Talk Shows;0;2016-04-29 17:00:00;60;Network
-Movie;Movies, Sci-Fi;2;2016-04-29 17:00:00;150;Cable
-Weaponology;Documentary;0;2016-04-29 17:00:00;60;Cable
-Treehouse Masters: Out On a Limb;Hobbies & Crafts;0;2016-04-29 17:00:00;60;Cable
-I Dream of Jeannie;Sitcom;0;2016-04-29 17:00:00;30;Broadcast
-Kitchen Nightmares;Reality TV;0;2016-04-29 17:00:00;60;Cable
-BBC World News;News;0;2016-04-29 17:00:00;30;Cable
-This Is Paris;Sports, Talk Show;0;2016-04-29 17:00:00;30;Cable
-The Tom and Jerry Show;Children;0;2016-04-29 17:00:00;30;Cable
-Uncle Grandpa;Animated;0;2016-04-29 17:00:00;30;Cable
-Local Programming;TBA;0;2016-04-29 17:00:00;30;Network
-Movie;Movies, Horror;2;2016-04-29 17:00:00;120;Cable
-NCIS: Los Angeles;Drama;0;2016-04-29 17:00:00;60;Cable
-Steve Austin's Broken Skull Challenge;Reality TV;0;2016-04-29 17:00:00;60;Cable
-Power Lunch;Business;0;2016-04-29 17:00:00;120;Cable
-Wolf;News;0;2016-04-29 17:00:00;60;Cable
-Stargate: SG-1;Sci-Fi;0;2016-04-29 17:00:00;60;Broadcast
-Charlie's Angels;Drama;0;2016-04-29 17:00:00;60;Broadcast
-Sara's Weeknight Meals;Food;0;2016-04-29 17:00:00;30;Broadcast
-American Justice;Documentary;0;2016-04-29 17:00:00;60;
-Paid Program;Paid Program;0;2016-04-29 17:00:00;30;Broadcast
-Larry and Tiz Huch;Religious;0;2016-04-29 17:00:00;30;Broadcast
-Through the Decades;News Magazine;0;2016-04-29 17:00:00;60;Broadcast
-A Haunting;New Age;0;2016-04-29 17:00:00;60;Cable
-I (Almost) Got Away With It;Docu-Series;0;2016-04-29 17:00:00;60;Cable
-My Little Pony Friendship Is Magic;Children;0;2016-04-29 17:00:00;30;Cable
-Untold Stories of the E.R.;Health;0;2016-04-29 17:00:00;60;Cable
-Sofia the First;Children;0;2016-04-29 17:00:00;30;Cable
-Doc McStuffins;Animated, Children;0;2016-04-29 17:00:00;25;Cable
-Phineas and Ferb;Children;0;2016-04-29 17:00:00;30;Cable
-House Crashers;Hobbies & Crafts;0;2016-04-29 17:00:00;30;Cable
-Keeping Up With the Kardashians;Reality TV;0;2016-04-29 17:00:00;60;Cable
-Fuera de juego;Sports, Soccer;0;2016-04-29 17:00:00;60;Cable
-Russillo and Kanell;Sports, Talk Show;0;2016-04-29 17:00:00;180;Cable
-Football Classics;Sports, Football;0;2016-04-29 17:00:00;180;Cable
-First Take;Sports, Talk Show;0;2016-04-29 17:00:00;120;Cable
-CSI: Crime Scene Investigation;Drama;0;2016-04-29 17:00:00;60;Cable
-Gemstone Jewelry;Paid Program;0;2016-04-29 17:00:00;60;Cable
-The Journey Home;Religious;0;2016-04-29 17:00:00;60;Cable
-Balancing Act;Documentary;0;2016-04-29 17:00:00;30;Broadcast
-The Rookies;Drama;0;2016-04-29 17:00:00;60;Broadcast
-Trisha's Southern Kitchen;Food;0;2016-04-29 17:00:00;30;Cable
-Ftbol;Sports, Soccer;0;2016-04-29 17:00:00;120;Cable
-Happening Now;News;0;2016-04-29 17:00:00;60;Cable
-Reba;Sitcom;0;2016-04-29 17:00:00;30;Cable
-How I Met Your Mother;Sitcom;0;2016-04-29 17:00:00;30;Cable
-Parks and Recreation;Sitcom;0;2016-04-29 17:00:00;30;Cable
-Cabin Truckers;Reality TV;0;2016-04-29 17:00:00;30;Cable
-Time Capsule;Music;0;2016-04-29 17:00:00;60;Cable
-Llena de Amor;Soaps;0;2016-04-29 17:00:00;60;Broadcast
-Family Feud;Game Shows;0;2016-04-29 17:00:00;30;Cable
-Kung Fu;Drama;0;2016-04-29 17:00:00;60;Broadcast
-Movie;Movies, Comedy;0;2016-04-29 17:00:00;120;Cable
-House Hunters Renovation;Home;0;2016-04-29 17:00:00;60;Cable
-Ancient Aliens;Documentary;0;2016-04-29 17:00:00;60;Cable
-Christie Brinkley Authentic Skincare;Shopping;0;2016-04-29 17:00:00;30;Broadcast
-Matlock;Drama;0;2016-04-29 17:00:00;60;Cable
-Deadly Sins;Documentary;0;2016-04-29 17:00:00;60;Cable
-Numb3rs;Drama;0;2016-04-29 17:00:00;60;Broadcast
-Grey's Anatomy;Drama;0;2016-04-29 17:00:00;60;Cable
-Next Door With Katie Brown;Home;0;2016-04-29 17:00:00;30;Cable
-Roseanne;Sitcom;0;2016-04-29 17:00:00;30;Cable
-Santa misa capilla M+V;Religious;0;2016-04-29 17:00:00;60;Cable
-Dead Men's Secrets;Documentary;0;2016-04-29 17:00:00;60;
-High Heat;Sports, Baseball;0;2016-04-29 17:00:00;60;Cable
-NY Giants Chronicles;Sports, Football;0;2016-04-29 17:00:00;30;Cable
-This Week at NASA;News;0;2016-04-29 17:00:00;30;Broadcast
-Border Wars;Documentary;0;2016-04-29 17:00:00;60;Cable
-Freaks and Creeps;Animals;0;2016-04-29 17:00:00;60;Cable
-Playoff Playback;Sports, Basketball;0;2016-04-29 17:00:00;60;Cable
-Days of Our Lives;Soaps;0;2016-04-29 17:00:00;60;Network
-Sweetwater;Sports, Fishing;0;2016-04-29 17:00:00;30;Cable
-I Love Jenni;Reality TV;0;2016-04-29 17:00:00;60;Cable
-NFL Draft;Sports, Football;0;2016-04-29 17:00:00;360;Cable
-PAW Patrol;Animated;0;2016-04-29 17:00:00;30;Cable
-PAW Patrol;Animated;0;2016-04-29 17:00:00;30;Cable
-Rabbids Invasion;Children, Animated;0;2016-04-29 17:00:00;30;Cable
-Dr. Phil;Talk Shows;0;2016-04-29 17:00:00;60;Cable
-Fly Rod Chronicles;Sports, Fishing;0;2016-04-29 17:00:00;30;Cable
-Dharma and Greg;Sitcom;0;2016-04-29 17:00:00;30;Cable
-America's Next Top Model;Reality TV;0;2016-04-29 17:00:00;60;Cable
-Beach Volleyball;Sports, Volleyball;0;2016-04-29 17:00:00;60;Cable
-Sesame Street;Children;0;2016-04-29 17:00:00;30;Broadcast
-Well Read;Documentary;0;2016-04-29 17:00:00;30;Broadcast
-Justice With Judge Mablean;Legal;0;2016-04-29 17:00:00;30;Broadcast
-Dogs With Jobs;Animals;0;2016-04-29 17:00:00;30;Cable
-Buffy the Vampire Slayer;Sci-Fi, Drama;0;2016-04-29 17:00:00;60;Cable
-Beverly Hills 90210;Drama;0;2016-04-29 17:00:00;60;Cable
-ToddWorld;Children;0;2016-04-29 17:00:00;30;Broadcast
-Snapped;Biography;0;2016-04-29 17:00:00;60;Cable
-Survivorman;Docu-Series, Specials;0;2016-04-29 17:00:00;60;Cable
-Movie;Movies, Comedy;2;2016-04-29 17:00:00;95;Cable
-Movie;Movies, Comedy/Drama;0;2016-04-29 17:00:00;95;Cable
-Gangland;Documentary;0;2016-04-29 17:00:00;60;Cable
-The Berenstain Bears;Children, Animated;0;2016-04-29 17:00:00;30;Broadcast
-Movie;Movies, Crime Story;3;2016-04-29 17:00:00;120;Cable
-Marriage Today;Religious;0;2016-04-29 17:00:00;30;Broadcast
-American Dad;Animated;0;2016-04-29 17:00:00;30;Cable
-Space Tech;Science;0;2016-04-29 17:00:00;30;Cable
-Big Time Rush;Sitcom;0;2016-04-29 17:00:00;30;Cable
-Premios Billboard: Acceso VIP;Regular;0;2016-04-29 17:00:00;60;Broadcast
-Extra Virgin Americana;Food;0;2016-04-29 17:00:00;30;Cable
-Tennis;Sports, Tennis;0;2016-04-29 17:00:00;120;Cable
-Bud Selig Special;Sports, Baseball;0;2016-04-29 17:00:00;30;Cable
-Dateline NBC;News Magazine;0;2016-04-29 17:00:00;60;Cable
-Bones;Drama;0;2016-04-29 17:00:00;60;Cable
-Ghost Adventures;Documentary;0;2016-04-29 17:00:00;60;Cable
-Top 20 Most Shocking;Reality TV;0;2016-04-29 17:00:00;60;Cable
-Gunsmoke;Drama;0;2016-04-29 17:00:00;60;Cable
-Sanford and Son;Sitcom;0;2016-04-29 17:00:00;30;Cable
-Sortilegio;Soaps;0;2016-04-29 17:00:00;120;Broadcast
-Hoy;News Magazine;0;2016-04-29 17:00:00;60;Broadcast
-Law & Order: Special Victims Unit;Drama;0;2016-04-29 17:00:00;60;Cable
-Wheels That Fail;Automotive;0;2016-04-29 17:00:00;30;Cable
-90s Rocked;Music;0;2016-04-29 17:00:00;60;Cable
-That's Delicious;Food;0;2016-04-29 17:00:00;30;Cable
-Luli Wonderworld;Children;0;2016-04-29 17:00:00;30;Broadcast
-Paid Program;Paid Program;0;2016-04-29 17:00:00;30;Broadcast
-Movie;Movies, Action;2;2016-04-29 17:05:00;110;Cable
-Movie;Movies, Adventure;2;2016-04-29 17:05:00;120;Cable
-Movie;Movies, Thriller;4;2016-04-29 17:10:00;130;Cable
-Movie;Movies, Comedy;3;2016-04-29 17:15:00;95;Cable
-Movie;Movies, Horror;3;2016-04-29 17:15:00;110;Cable
-Movie;Movies, Drama;2;2016-04-29 17:15:00;110;Cable
-Max and Ruby;Children;0;2016-04-29 17:16:00;28;Cable
-Movie;Movies;2;2016-04-29 17:20:00;110;Cable
-Movie;Movies, Romance;0;2016-04-29 17:20:00;130;Cable
-Movie;Movies, Comedy;2;2016-04-29 17:20:00;95;Cable
-Movie;Movies, Horror;2;2016-04-29 17:20:00;100;Cable
-Nick Cannon Presents: Wild 'N Out;Comedy;0;2016-04-29 17:20:00;35;Cable
-Movie;Movies, Drama;2;2016-04-29 17:20:00;115;Cable
-Mickey Mouse Clubhouse;Children;0;2016-04-29 17:25:00;25;Cable
-Dog the Bounty Hunter;Reality TV;0;2016-04-29 17:30:00;30;Cable
-I Dream of Jeannie;Sitcom;0;2016-04-29 17:30:00;30;Broadcast
-Focus on Africa;News;0;2016-04-29 17:30:00;30;Cable
-La Liga Show;Sports, Soccer;0;2016-04-29 17:30:00;30;Cable
-The Tom and Jerry Show;Children;0;2016-04-29 17:30:00;30;Cable
-Uncle Grandpa;Animated;0;2016-04-29 17:30:00;30;Cable
-The Young and the Restless;Soaps;0;2016-04-29 17:30:00;60;Network
-Hollywood's 10 Best;News Magazine;0;2016-04-29 17:30:00;30;Cable
-Project Smoke;Food;0;2016-04-29 17:30:00;30;Broadcast
-Paid Program;Paid Program;0;2016-04-29 17:30:00;30;Broadcast
-The Jewish Jesus;Religious;0;2016-04-29 17:30:00;30;Broadcast
-My Little Pony Friendship Is Magic;Children;0;2016-04-29 17:30:00;30;Cable
-Sofia the First;Children;0;2016-04-29 17:30:00;30;Cable
-Phineas and Ferb;Children;0;2016-04-29 17:30:00;30;Cable
-House Crashers;Hobbies & Crafts;0;2016-04-29 17:30:00;30;Cable
-NFL Insiders;Sports, Discussion, Football;0;2016-04-29 17:30:00;60;Cable
-Lifestyle Magazine;News Magazine, Religious;0;2016-04-29 17:30:00;30;Broadcast
-Barefoot Contessa;Food;0;2016-04-29 17:30:00;30;Cable
-Auto Racing;Sports, Auto Racing;0;2016-04-29 17:30:00;60;Cable
-Reba;Sitcom;0;2016-04-29 17:30:00;30;Cable
-SKEE TV;Music;0;2016-04-29 17:30:00;60;Cable
-How I Met Your Mother;Sitcom;0;2016-04-29 17:30:00;30;Cable
-Parks and Recreation;Sitcom;0;2016-04-29 17:30:00;30;Cable
-Cabin Truckers;Reality TV;0;2016-04-29 17:30:00;30;Cable
-Family Feud;Game Shows;0;2016-04-29 17:30:00;30;Cable
-Juicy Fragrance;Shopping;0;2016-04-29 17:30:00;30;Broadcast
-Next Door With Katie Brown;Home;0;2016-04-29 17:30:00;30;Cable
-Roseanne;Sitcom;0;2016-04-29 17:30:00;30;Cable
-NY Giants 1st & 10;Sports, Football;0;2016-04-29 17:30:00;90;Cable
-NASA X;Science;0;2016-04-29 17:30:00;30;Broadcast
-Fishing With Roland Martin;Sports, Fishing;0;2016-04-29 17:30:00;30;Cable
-Blaze and the Monster Machines;Children;0;2016-04-29 17:30:00;30;Cable
-Blaze and the Monster Machines;Children;0;2016-04-29 17:30:00;30;Cable
-Rabbids Invasion;Children, Animated;0;2016-04-29 17:30:00;30;Cable
-Pro Team Journal;Sports, Outdoors;0;2016-04-29 17:30:00;30;Cable
-Dharma and Greg;Sitcom;0;2016-04-29 17:30:00;30;Cable
-The Cat in the Hat Knows a Lot About That;Children;0;2016-04-29 17:30:00;30;Broadcast
-Closer to Truth;Religious;0;2016-04-29 17:30:00;30;Broadcast
-Justice With Judge Mablean;Legal;0;2016-04-29 17:30:00;30;Broadcast
-Dogs With Jobs;Animals;0;2016-04-29 17:30:00;30;Cable
-ToddWorld;Children;0;2016-04-29 17:30:00;30;Broadcast
-Movie;Movies, Comedy;2;2016-04-29 17:30:00;105;Cable
-The Devil's Brigade;Documentary;0;2016-04-29 17:30:00;150;Cable
-Zou;Children;0;2016-04-29 17:30:00;30;Broadcast
-Education: A Higher Calling;Religious;0;2016-04-29 17:30:00;30;Broadcast
-American Dad;Animated;0;2016-04-29 17:30:00;30;Cable
-Financing Your Future;Business;0;2016-04-29 17:30:00;31;Cable
-Big Time Rush;Sitcom;0;2016-04-29 17:30:00;30;Cable
-Extra Virgin;Food;0;2016-04-29 17:30:00;30;Cable
-Paul Molitor Hall of Fame Special;Sports, Baseball;0;2016-04-29 17:30:00;30;Cable
-Sanford and Son;Sitcom;0;2016-04-29 17:30:00;30;Cable
-Wheels That Fail;Automotive;0;2016-04-29 17:30:00;30;Cable
-That's Delicious;Food;0;2016-04-29 17:30:00;30;Cable
-TuBeb;Children;0;2016-04-29 17:30:00;30;Broadcast
-Ron Hazelton's Housecalls;Home;0;2016-04-29 17:30:00;30;Broadcast
-The Bernie Mac Show;Sitcom;0;2016-04-29 17:34:00;43;
-Movie;Movies, Comedy/Drama;0;2016-04-29 17:35:00;110;Cable
-Movie;Movies, Action;2;2016-04-29 17:35:00;115;Cable
-The Real Housewives of Dallas;Reality TV;0;2016-04-29 17:42:00;63;Cable
-Max and Ruby;Children, Animated;0;2016-04-29 17:44:00;27;Cable
-Movie;Movies, Action;0;2016-04-29 17:45:00;135;Cable
-Mickey Mouse Clubhouse;Children;0;2016-04-29 17:50:00;25;Cable
-Movie;Movies, Action;3;2016-04-29 17:50:00;130;Cable
-Movie;Movies, Biography;3;2016-04-29 17:50:00;130;Cable
-Nick Cannon Presents: Wild 'N Out;Comedy;0;2016-04-29 17:55:00;35;Cable
-Movie;Movies, Christmas, Romance;2;2016-04-29 17:55:00;95;Cable
-Movie;Movies, True Story;3;2016-04-29 17:55:00;140;Cable
-Dog the Bounty Hunter;Reality TV;0;2016-04-29 18:00:00;60;Cable
-General Hospital;Soaps;0;2016-04-29 18:00:00;60;Network
-Weaponology;Documentary;0;2016-04-29 18:00:00;60;Cable
-Treehouse Masters: Out On a Limb;Hobbies & Crafts;0;2016-04-29 18:00:00;60;Cable
-Green Acres;Sitcom;0;2016-04-29 18:00:00;30;Broadcast
-Kitchen Nightmares;Reality TV;0;2016-04-29 18:00:00;60;Cable
-World News Today;News;0;2016-04-29 18:00:00;30;Cable
-Ligue 1 Show;Sports, Soccer;0;2016-04-29 18:00:00;25;Cable
-Football;Sports, Football;0;2016-04-29 18:00:00;120;Cable
-Bloomberg Markets;Business, News;0;2016-04-29 18:00:00;60;Cable
-The Tom and Jerry Show;Children;0;2016-04-29 18:00:00;30;Cable
-The Amazing World of Gumball;Animated;0;2016-04-29 18:00:00;30;Cable
-NCIS: Los Angeles;Drama;0;2016-04-29 18:00:00;60;Cable
-Dallas Cowboys Cheerleaders: Making the Team;Reality TV;0;2016-04-29 18:00:00;60;Cable
-CNN Newsroom;News Magazine;0;2016-04-29 18:00:00;60;Cable
-The Outer Limits;Sci-Fi;0;2016-04-29 18:00:00;60;Broadcast
-Celebrity Name Game;Game Shows;0;2016-04-29 18:00:00;30;Cable
-Hart to Hart;Drama;0;2016-04-29 18:00:00;60;Broadcast
-Chef John Besh's New Orleans;Food;0;2016-04-29 18:00:00;30;Broadcast
-Justice Files;Reality TV;0;2016-04-29 18:00:00;60;
-Politics & Public Policy Today;Political;0;2016-04-29 18:00:00;360;Cable
-Rules of Engagement;Sitcom;0;2016-04-29 18:00:00;30;Broadcast
-It's Supernatural With Sid Roth;Religious;0;2016-04-29 18:00:00;30;Broadcast
-Movie;Movies, Action;2;2016-04-29 18:00:00;120;Broadcast
-A Haunting;New Age;0;2016-04-29 18:00:00;60;Cable
-I (Almost) Got Away With It;Docu-Series;0;2016-04-29 18:00:00;60;Cable
-My Little Pony Friendship Is Magic;Children;0;2016-04-29 18:00:00;30;Cable
-Hoarding: Buried Alive;Documentary;0;2016-04-29 18:00:00;60;Cable
-Stuck in the Middle;Comedy;0;2016-04-29 18:00:00;30;Cable
-Phineas and Ferb;Children;0;2016-04-29 18:00:00;30;Cable
-Behind the Build: HGTV Smart Home;Home;0;2016-04-29 18:00:00;60;Cable
-Keeping Up With the Kardashians;Reality TV;0;2016-04-29 18:00:00;60;Cable
-Ftbol Picante;Sports, Discussion, Soccer;0;2016-04-29 18:00:00;60;Cable
-CSI: Crime Scene Investigation;Drama;0;2016-04-29 18:00:00;60;Cable
-The Gem Insider With Paul Deasy;Shopping;0;2016-04-29 18:00:00;60;Cable
-Super Saints;Religious;0;2016-04-29 18:00:00;30;Cable
-Highway to Heaven;Drama;0;2016-04-29 18:00:00;60;Broadcast
-Fantasy Island;Drama;0;2016-04-29 18:00:00;60;Broadcast
-Chopped Junior;Food;0;2016-04-29 18:00:00;60;Cable
-The Intelligence Report With Trish Regan;Business;0;2016-04-29 18:00:00;60;Cable
-The Real Story with Gretchen Carlson;News;0;2016-04-29 18:00:00;60;Cable
-Golf America;Sports, Golf;0;2016-04-29 18:00:00;30;Cable
-Reba;Sitcom;0;2016-04-29 18:00:00;30;Cable
-Mike & Molly;Sitcom;0;2016-04-29 18:00:00;30;Cable
-Parks and Recreation;Sitcom;0;2016-04-29 18:00:00;30;Cable
-Cabin Truckers;Reality TV;0;2016-04-29 18:00:00;30;Cable
-GAC Music Videos;Music;0;2016-04-29 18:00:00;60;Cable
-La Guereja de mi vida;Comedy;0;2016-04-29 18:00:00;30;Broadcast
-Catch 21;Game Shows;0;2016-04-29 18:00:00;30;Cable
-The Commish;Drama;0;2016-04-29 18:00:00;60;Broadcast
-Little House on the Prairie;Drama;0;2016-04-29 18:00:00;60;Cable
-House Hunters Renovation;Home;0;2016-04-29 18:00:00;60;Cable
-Million Dollar Genius;Docu-Series;0;2016-04-29 18:00:00;60;Cable
-Blindsided: How ISIS Shook the World;Documentary;0;2016-04-29 18:00:00;60;Cable
-Colors of Diamonds;Paid Program;0;2016-04-29 18:00:00;60;Broadcast
-Matlock;Drama;0;2016-04-29 18:00:00;60;Cable
-Nightmare Next Door;Documentary;0;2016-04-29 18:00:00;60;Cable
-Numb3rs;Drama;0;2016-04-29 18:00:00;60;Broadcast
-Grey's Anatomy;Drama;0;2016-04-29 18:00:00;60;Cable
-Next Door With Katie Brown;Home;0;2016-04-29 18:00:00;30;Cable
-Movie;Movies, Thriller;0;2016-04-29 18:00:00;120;Cable
-Roseanne;Sitcom;0;2016-04-29 18:00:00;30;Cable
-El santsimo sacramento;Religious;0;2016-04-29 18:00:00;60;Cable
-The Color of War;Documentary;0;2016-04-29 18:00:00;60;
-The Rundown;Sports, Baseball;0;2016-04-29 18:00:00;120;Cable
-Tennis;Sports, Tennis;0;2016-04-29 18:00:00;120;Cable
-Bestival 2015;Music;0;2016-04-29 18:00:00;60;Cable
-NASA Edge;Science;0;2016-04-29 18:00:00;30;Broadcast
-Border Wars;Documentary;0;2016-04-29 18:00:00;60;Cable
-Animal Storm Squad;Animals;0;2016-04-29 18:00:00;60;Cable
-Playoff Playback;Sports, Basketball;0;2016-04-29 18:00:00;60;Cable
-Local Programming;TBA;0;2016-04-29 18:00:00;60;Network
-Americana Outdoors;Sports, Outdoors;0;2016-04-29 18:00:00;30;Cable
-El seor de los cielos;Drama;0;2016-04-29 18:00:00;60;Cable
-SpongeBob SquarePants;Children;0;2016-04-29 18:00:00;30;Cable
-SpongeBob SquarePants;Children;0;2016-04-29 18:00:00;30;Cable
-Miraculous: Tales of Ladybug and Cat Noir;Children;0;2016-04-29 18:00:00;30;Cable
-Oprah: Where Are They Now?;Talk Shows;0;2016-04-29 18:00:00;60;Cable
-The Adventure Series;Sports, Hunting;0;2016-04-29 18:00:00;60;Cable
-Dharma and Greg;Sitcom;0;2016-04-29 18:00:00;30;Cable
-America's Next Top Model;Reality TV;0;2016-04-29 18:00:00;60;Cable
-Beach Volleyball;Sports, Volleyball;0;2016-04-29 18:00:00;60;Cable
-Curious George;Children;0;2016-04-29 18:00:00;30;Broadcast
-The Plight of the Grassland Birds;Documentary, Animals;0;2016-04-29 18:00:00;60;Broadcast
-Divorce Court;Legal;0;2016-04-29 18:00:00;30;Broadcast
-Pet ER;Animals;0;2016-04-29 18:00:00;30;Cable
-Buffy the Vampire Slayer;Sci-Fi, Drama;0;2016-04-29 18:00:00;60;Cable
-The O.C.;Drama;0;2016-04-29 18:00:00;60;Cable
-Raggs;Children;0;2016-04-29 18:00:00;30;Broadcast
-Cold Case Files;Documentary;0;2016-04-29 18:00:00;60;Cable
-Roping and Riding With Tyler Magnus;Sports, Equestrian;0;2016-04-29 18:00:00;30;Cable
-Survivorman;Docu-Series;0;2016-04-29 18:00:00;60;Cable
-Gangsters: America's Most Evil;Documentary;0;2016-04-29 18:00:00;60;Cable
-Noodle and Doodle;Children;0;2016-04-29 18:00:00;30;Broadcast
-Movie;Movies, Action;2;2016-04-29 18:00:00;125;Cable
-Maverick;Drama;0;2016-04-29 18:00:00;51;Cable
-Life Today With James Robison;Religious;0;2016-04-29 18:00:00;30;Broadcast
-American Dad;Animated;0;2016-04-29 18:00:00;30;Cable
-Big Time Rush;Sitcom;0;2016-04-29 18:00:00;30;Cable
-Suelta la sopa;News Magazine;0;2016-04-29 18:00:00;60;Broadcast
-Everyday Italian;Food;0;2016-04-29 18:00:00;30;Cable
-2016 Draft Special;Sports, Miscellaneous;0;2016-04-29 18:00:00;120;Cable
-Dateline NBC;News Magazine;0;2016-04-29 18:00:00;60;Cable
-Movie;Movies, Drama;4;2016-04-29 18:00:00;160;Cable
-Bones;Drama;0;2016-04-29 18:00:00;60;Cable
-Ghost Adventures;Documentary;0;2016-04-29 18:00:00;60;Cable
-Top 20 Most Shocking;Reality TV;0;2016-04-29 18:00:00;60;Cable
-Movie;Movies, Thriller;3;2016-04-29 18:00:00;120;Cable
-Gunsmoke;Drama;0;2016-04-29 18:00:00;60;Cable
-Sanford and Son;Sitcom;0;2016-04-29 18:00:00;30;Cable
-Amor de barrio;Telenovel;0;2016-04-29 18:00:00;60;Broadcast
-Law & Order: Special Victims Unit;Drama;0;2016-04-29 18:00:00;60;Cable
-Wheels That Fail;Automotive;0;2016-04-29 18:00:00;30;Cable
-That Metal Show;Music;0;2016-04-29 18:00:00;60;Cable
-That's Delicious;Food;0;2016-04-29 18:00:00;30;Cable
-Hola Maytte;Regular;0;2016-04-29 18:00:00;30;Broadcast
-P. Allen Smith Garden Style;Garden;0;2016-04-29 18:00:00;30;Broadcast
-AP Calculus;Instructional;0;2016-04-29 18:01:00;44;Cable
-Movie;Movies, Sci-Fi;2;2016-04-29 18:05:00;125;
-Movie;Movies, Drama;4;2016-04-29 18:05:00;115;Cable
-Movie;Movies, Family;2;2016-04-29 18:10:00;120;Cable
-Peppa Pig;Children;0;2016-04-29 18:11:00;27;Cable
-Mickey Mouse Clubhouse;Children;0;2016-04-29 18:15:00;25;Cable
-Movie;Movies, Suspense;2;2016-04-29 18:15:00;105;Cable
-Movie;Movies, Drama;4;2016-04-29 18:15:00;105;Cable
-The Bernie Mac Show;Sitcom;0;2016-04-29 18:17:00;43;
-El Perro y El Gato;Children;0;2016-04-29 18:20:00;15;Cable
-Movie;Movies, Thriller;2;2016-04-29 18:20:00;115;Cable
-Soccer;Sports, Soccer;0;2016-04-29 18:25:00;125;Cable
-Movie;Movies, Drama;3;2016-04-29 18:26:00;101;Cable
-Green Acres;Sitcom;0;2016-04-29 18:30:00;30;Broadcast
-World News Today;News;0;2016-04-29 18:30:00;10;Cable
-Courage the Cowardly Dog;Children, Animated;0;2016-04-29 18:30:00;30;Cable
-Teen Titans Go!;Animated;0;2016-04-29 18:30:00;30;Cable
-The Bold and the Beautiful;Soaps;0;2016-04-29 18:30:00;30;Network
-Celebrity Name Game;Game Shows;0;2016-04-29 18:30:00;30;Cable
-New Scandinavian Cooking;Food;0;2016-04-29 18:30:00;30;Broadcast
-Rules of Engagement;Sitcom;0;2016-04-29 18:30:00;30;Broadcast
-Today With Marilyn and Sarah;Religious;0;2016-04-29 18:30:00;30;Broadcast
-My Little Pony Friendship Is Magic;Children;0;2016-04-29 18:30:00;30;Cable
-K.C. Undercover;Sitcom;0;2016-04-29 18:30:00;30;Cable
-Phineas and Ferb;Children;0;2016-04-29 18:30:00;30;Cable
-NFL Live;Sports, Football;0;2016-04-29 18:30:00;60;Cable
-Stations of the Cross;Religious;0;2016-04-29 18:30:00;30;Cable
-Auto Racing;Sports, Auto Racing;0;2016-04-29 18:30:00;60;Cable
-Big 12 Showcase;Sports, Miscellaneous;0;2016-04-29 18:30:00;30;Cable
-Reba;Sitcom;0;2016-04-29 18:30:00;30;Cable
-Fluffy Breaks Even;Comedy;0;2016-04-29 18:30:00;30;Cable
-Mike & Molly;Sitcom;0;2016-04-29 18:30:00;30;Cable
-Parks and Recreation;Sitcom;0;2016-04-29 18:30:00;30;Cable
-Cabin Truckers;Reality TV;0;2016-04-29 18:30:00;30;Cable
-La Guereja de mi vida;Comedy;0;2016-04-29 18:30:00;30;Broadcast
-The Pyramid;Game Shows;0;2016-04-29 18:30:00;30;Cable
-Soccer;Sports, Soccer;0;2016-04-29 18:30:00;120;Cable
-Golf Central Pre-game;Sports, Golf;0;2016-04-29 18:30:00;30;Cable
-Movie;Movies, Comedy;2;2016-04-29 18:30:00;100;Cable
-Movie;Movies, Drama;0;2016-04-29 18:30:00;100;Cable
-Movie;Movies, Crime Story;4;2016-04-29 18:30:00;150;Cable
-Next Door With Katie Brown;Home;0;2016-04-29 18:30:00;30;Cable
-Roseanne;Sitcom;0;2016-04-29 18:30:00;30;Cable
-The Jamie Foxx Show;Sitcom;0;2016-04-29 18:30:00;35;Cable
-Movie;Movies, Action;3;2016-04-29 18:30:00;210;Cable
-Inside the ISS;Science;0;2016-04-29 18:30:00;30;Broadcast
-Babe Winkelman;Sports, Outdoors;0;2016-04-29 18:30:00;30;Cable
-SpongeBob SquarePants;Children;0;2016-04-29 18:30:00;30;Cable
-SpongeBob SquarePants;Children;0;2016-04-29 18:30:00;30;Cable
-Pig Goat Banana Cricket;Animated;0;2016-04-29 18:30:00;30;Cable
-Movie;Movies, Drama;3;2016-04-29 18:30:00;150;Cable
-Curious George;Children;0;2016-04-29 18:30:00;30;Broadcast
-Divorce Court;Legal;0;2016-04-29 18:30:00;30;Broadcast
-Pets.TV;Animals;0;2016-04-29 18:30:00;30;Cable
-Raggs;Children;0;2016-04-29 18:30:00;30;Broadcast
-Movie;Movies, Comedy;2;2016-04-29 18:30:00;90;Cable
-Total Team Roping;Sports, Equestrian;0;2016-04-29 18:30:00;30;Cable
-Astroblast;Children;0;2016-04-29 18:30:00;30;Broadcast
-Movie;Movies, Romance;2;2016-04-29 18:30:00;120;Cable
-Movie;Movies, Action;0;2016-04-29 18:30:00;120;Cable
-The Potter's Touch With Bishop T.D. Jakes;Religious;0;2016-04-29 18:30:00;30;Broadcast
-Family Guy;Animated;0;2016-04-29 18:30:00;30;Cable
-Big Time Rush;Sitcom;0;2016-04-29 18:30:00;30;Cable
-Everyday Italian;Food;0;2016-04-29 18:30:00;30;Cable
-Sanford and Son;Sitcom;0;2016-04-29 18:30:00;30;Cable
-Wheels That Fail;Automotive;0;2016-04-29 18:30:00;30;Cable
-Movie;Movies, Drama;2;2016-04-29 18:30:00;180;Cable
-That's Delicious;Food;0;2016-04-29 18:30:00;30;Cable
-Decora tu Interior;Home;0;2016-04-29 18:30:00;60;Broadcast
-Yankees Magazine;Sports, Baseball;0;2016-04-29 18:30:00;30;Cable
-Paid Program;Paid Program;0;2016-04-29 18:30:00;30;Broadcast
-Movie;Movies, Family;0;2016-04-29 18:35:00;85;Cable
-Movie;Movies, Drama;2;2016-04-29 18:35:00;115;Cable
-Black Filmmaker Showcase;Short Film;0;2016-04-29 18:35:00;25;Cable
-Movie;Movies, Animated, Family;3;2016-04-29 18:37:00;80;Cable
-Peppa Pig;Children, Hallowe'en;0;2016-04-29 18:38:00;27;Cable
-Africa Business Report;Business;0;2016-04-29 18:40:00;20;Cable
-Mickey Mouse Clubhouse;Children;0;2016-04-29 18:40:00;25;Cable
-Movie;Movies, Horror;2;2016-04-29 18:40:00;100;Cable
-Key & Peele;Comedy;0;2016-04-29 18:44:00;31;Cable
-The Real Housewives of Dallas;Reality TV;0;2016-04-29 18:45:00;63;Cable
-Movie;Movies, Suspense;4;2016-04-29 18:45:00;120;Cable
-What's Up in Space?;Instructional;0;2016-04-29 18:45:00;15;Cable
-Movie;Movies, Action;2;2016-04-29 18:50:00;95;Cable
-Movie;Movies, Drama;3;2016-04-29 18:50:00;115;Cable
-The Life and Legend of Wyatt Earp;Drama;0;2016-04-29 18:51:00;29;Cable
-Movie;Movies, Drama;2;2016-04-29 18:55:00;110;Cable
-Movie;Movies, Comedy;2;2016-04-29 18:55:00;110;Cable
-The First 48;Reality TV;0;2016-04-29 19:00:00;60;Cable
-Local Programming;TBA;0;2016-04-29 19:00:00;60;Network
-Weaponology;Documentary;0;2016-04-29 19:00:00;60;Cable
-Treehouse Masters;Hobbies & Crafts;0;2016-04-29 19:00:00;60;Cable
-Three's Company;Sitcom;0;2016-04-29 19:00:00;30;Broadcast
-Kitchen Nightmares;Reality TV;0;2016-04-29 19:00:00;60;Cable
-BBC Business Live;Business;0;2016-04-29 19:00:00;30;Cable
-House of Payne;Sitcom;0;2016-04-29 19:00:00;39;Cable
-Bloomberg Markets;Business, News;0;2016-04-29 19:00:00;60;Cable
-Courage the Cowardly Dog;Children, Animated;0;2016-04-29 19:00:00;30;Cable
-The Amazing World of Gumball;Animated;0;2016-04-29 19:00:00;30;Cable
-The Talk;Talk Shows;0;2016-04-29 19:00:00;60;Network
-The Making of a Pro QB;Sports, Football;0;2016-04-29 19:00:00;30;Cable
-The Bernie Mac Show;Sitcom;0;2016-04-29 19:00:00;30;
-Movie;Movies, Horror;0;2016-04-29 19:00:00;120;Cable
-NCIS: Los Angeles;Drama;0;2016-04-29 19:00:00;60;Cable
-Reba;Sitcom;0;2016-04-29 19:00:00;30;Cable
-Closing Bell;Business;0;2016-04-29 19:00:00;120;Cable
-CNN Newsroom;News Magazine;0;2016-04-29 19:00:00;60;Cable
-The Outer Limits;Sci-Fi;0;2016-04-29 19:00:00;60;Broadcast
-Sex and the City;Sitcom;0;2016-04-29 19:00:00;30;Cable
-Murder, She Wrote;Drama;0;2016-04-29 19:00:00;60;Broadcast
-Pedal America;Reality TV;0;2016-04-29 19:00:00;30;Broadcast
-The Big House;Documentary;0;2016-04-29 19:00:00;60;
-The Bill Cunningham Show;Talk Shows;0;2016-04-29 19:00:00;60;Broadcast
-Joseph Prince Ministries;Religious;0;2016-04-29 19:00:00;30;Broadcast
-A Haunting;New Age;0;2016-04-29 19:00:00;60;Cable
-Alaskan Bush People;Docu-Series;0;2016-04-29 19:00:00;60;Cable
-My Little Pony Friendship Is Magic;Children;0;2016-04-29 19:00:00;30;Cable
-My Strange Addiction;Health;0;2016-04-29 19:00:00;30;Cable
-Bunk'd;Sitcom;0;2016-04-29 19:00:00;30;Cable
-Walk the Prank;Comedy;0;2016-04-29 19:00:00;30;Cable
-Texas Flip and Move;Home;0;2016-04-29 19:00:00;60;Cable
-Keeping Up With the Kardashians;Reality TV;0;2016-04-29 19:00:00;60;Cable
-Basketball Classics;Sports, Basketball;0;2016-04-29 19:00:00;180;Cable
-Los Capitanes;Sports, Talk Show;0;2016-04-29 19:00:00;60;Cable
-His & Hers;Sports, Talk Show;0;2016-04-29 19:00:00;60;Cable
-CSI: Crime Scene Investigation;Drama;0;2016-04-29 19:00:00;60;Cable
-Earresistable Treasures;Shopping;0;2016-04-29 19:00:00;60;Cable
-The Chaplet of Divine Mercy;Religious;0;2016-04-29 19:00:00;20;Cable
-Biz Kid$;Business;0;2016-04-29 19:00:00;30;Broadcast
-Your Health;Health, Discussion;0;2016-04-29 19:00:00;60;Broadcast
-Chopped Junior;Food;0;2016-04-29 19:00:00;60;Cable
-Countdown to the Closing Bell With Liz Claman;Discussion;0;2016-04-29 19:00:00;60;Cable
-Central Fox;Sports, News;0;2016-04-29 19:00:00;60;Cable
-Shepard Smith Reporting;News;0;2016-04-29 19:00:00;60;Cable
-ACC All-Access;Sports, Miscellaneous;0;2016-04-29 19:00:00;30;Cable
-The Middle;Sitcom;0;2016-04-29 19:00:00;30;Cable
-Fluffy Breaks Even;Comedy;0;2016-04-29 19:00:00;30;Cable
-Movie;Movies, Sci-Fi;3;2016-04-29 19:00:00;140;Cable
-Anger Management;Sitcom;0;2016-04-29 19:00:00;30;Cable
-Movie;Movies, Sci-Fi, Action;3;2016-04-29 19:00:00;180;Cable
-Kitchen Nightmares;Reality TV;0;2016-04-29 19:00:00;60;Cable
-GAC Music Videos;Music;0;2016-04-29 19:00:00;60;Cable
-Cmplices al Rescate;Children;0;2016-04-29 19:00:00;60;Broadcast
-Chain Reaction;Game Shows;0;2016-04-29 19:00:00;30;Cable
-Golf;Sports, Golf;0;2016-04-29 19:00:00;180;Cable
-Mannix;Drama;0;2016-04-29 19:00:00;60;Broadcast
-Little House on the Prairie;Drama;0;2016-04-29 19:00:00;60;Cable
-Movie;Movies, Romance;0;2016-04-29 19:00:00;120;Cable
-House Hunters Renovation;Home;0;2016-04-29 19:00:00;60;Cable
-Million Dollar Genius;Docu-Series;0;2016-04-29 19:00:00;60;Cable
-CNN Special Report;News;0;2016-04-29 19:00:00;60;Cable
-Colors of Diamonds;Paid Program;0;2016-04-29 19:00:00;60;Broadcast
-The Waltons;Drama;0;2016-04-29 19:00:00;60;Cable
-Nightmare Next Door;Documentary;0;2016-04-29 19:00:00;60;Cable
-Numb3rs;Drama;0;2016-04-29 19:00:00;60;Broadcast
-Grey's Anatomy;Drama;0;2016-04-29 19:00:00;60;Cable
-Preachers' Daughters;Reality TV;0;2016-04-29 19:00:00;60;Cable
-Roseanne;Sitcom;0;2016-04-29 19:00:00;30;Cable
-Mujeres en mision;Religious;0;2016-04-29 19:00:00;90;Cable
-Great Escapes of World War II;Documentary;0;2016-04-29 19:00:00;60;
-Movie;Movies, Comedy;2;2016-04-29 19:00:00;100;Cable
-NY Giants Chronicles;Sports, Football;0;2016-04-29 19:00:00;30;Cable
-Bestival 2015;Music;0;2016-04-29 19:00:00;60;Cable
-Space Station Live;Science;0;2016-04-29 19:00:00;60;Broadcast
-Alaska State Troopers;Documentary;0;2016-04-29 19:00:00;60;Cable
-The Dog Whisperer;Animals;0;2016-04-29 19:00:00;60;Cable
-Playoff Playback;Sports, Basketball;0;2016-04-29 19:00:00;60;Cable
-Local Programming;TBA;0;2016-04-29 19:00:00;270;Network
-Super High Roller Bowl;Sports, Cards;0;2016-04-29 19:00:00;60;Cable
-Larrymania;Reality TV;0;2016-04-29 19:00:00;60;Cable
-SpongeBob SquarePants;Children;0;2016-04-29 19:00:00;30;Cable
-SpongeBob SquarePants;Children;0;2016-04-29 19:00:00;30;Cable
-Kung Fu Panda: The Series;Animated;0;2016-04-29 19:00:00;30;Cable
-Oprah: Where Are They Now?;Talk Shows;0;2016-04-29 19:00:00;60;Cable
-Ted Nugent Spirit of the Wild;Sports, Outdoors;0;2016-04-29 19:00:00;30;Cable
-America's Next Top Model;Reality TV;0;2016-04-29 19:00:00;60;Cable
-Baseball;Sports, Baseball;0;2016-04-29 19:00:00;180;Cable
-Arthur;Children;0;2016-04-29 19:00:00;30;Broadcast
-From Billions to None: The Passenger Pigeon's Flight to Extinction;Documentary;0;2016-04-29 19:00:00;60;Broadcast
-Who Wants to Be a Millionaire?;Game Shows;0;2016-04-29 19:00:00;30;Broadcast
-Pit Boss;Animals;0;2016-04-29 19:00:00;60;Cable
-Angry Planet;Environmental;0;2016-04-29 19:00:00;30;Cable
-The O.C.;Drama;0;2016-04-29 19:00:00;60;Cable
-Stickin' Around;Children;0;2016-04-29 19:00:00;30;Broadcast
-Crime 360;Documentary;0;2016-04-29 19:00:00;60;Cable
-TruCountry;Music;0;2016-04-29 19:00:00;30;Cable
-Alaska Mega Machines;Science;0;2016-04-29 19:00:00;60;Cable
-Movie;Movies, Drama;3;2016-04-29 19:00:00;120;Cable
-Gangsters: America's Most Evil;Documentary;0;2016-04-29 19:00:00;60;Cable
-Sydney Sailboat;Children;0;2016-04-29 19:00:00;30;Broadcast
-Movie;Movies, Sci-Fi;3;2016-04-29 19:00:00;140;Cable
-Law & Order;Drama;0;2016-04-29 19:00:00;60;Cable
-The 700 Club;Religious, Discussion;0;2016-04-29 19:00:00;60;Broadcast
-New Girl;Sitcom;0;2016-04-29 19:00:00;30;Cable
-Universal Words;Regular;0;2016-04-29 19:00:00;23;Cable
-Nicky, Ricky, Dicky & Dawn;Sitcom;0;2016-04-29 19:00:00;30;Cable
-Lo mejor de caso cerrado;Legal;0;2016-04-29 19:00:00;60;Broadcast
-Cupcake Wars;Food;0;2016-04-29 19:00:00;60;Cable
-Tennis;Sports, Tennis;0;2016-04-29 19:00:00;150;Cable
-Weather Center Live;Environmental, News;0;2016-04-29 19:00:00;180;Cable
-Dateline NBC;News Magazine;0;2016-04-29 19:00:00;60;Cable
-Movie;Movies, Comedy;2;2016-04-29 19:00:00;95;Cable
-Bones;Drama;0;2016-04-29 19:00:00;60;Cable
-Ghost Adventures;Documentary;0;2016-04-29 19:00:00;60;Cable
-TruTV's Top Funniest;Comedy;0;2016-04-29 19:00:00;60;Cable
-Gunsmoke;Drama;0;2016-04-29 19:00:00;60;Cable
-Sanford and Son;Sitcom;0;2016-04-29 19:00:00;30;Cable
-Nuevo Rico, Nuevo Pobre;Telenovel;0;2016-04-29 19:00:00;60;Broadcast
-La rosa de Guadalupe;Soaps;0;2016-04-29 19:00:00;60;Broadcast
-Law & Order: Special Victims Unit;Drama;0;2016-04-29 19:00:00;60;Cable
-Wheels That Fail;Automotive;0;2016-04-29 19:00:00;30;Cable
-Movie;Movies, Sci-Fi;2;2016-04-29 19:00:00;150;Cable
-VICE Essentials;Docu-Series;0;2016-04-29 19:00:00;60;Cable
-Movie;Movies, Christmas, Comedy;2;2016-04-29 19:00:00;150;Cable
-The Michael Kay Show;Radio, Sports;0;2016-04-29 19:00:00;180;Cable
-America Trends With Dr. Gina;News Magazine;0;2016-04-29 19:00:00;60;Broadcast
+MSNBC Special Coverage;News Magazine;0;2016-04-30 11:00:00;480;Cable;MSNBC
+Jewelry TV;Paid Program;0;2016-04-30 13:00:00;480;Broadcast;JTV
+Movie;Movies, Christmas, Romance;4;2016-04-30 13:45:00;180;Cable;SUND
+Movie;Movies, Action;3;2016-04-30 13:50:00;190;Cable;TMCX
+Movie;Movies, Documentary;0;2016-04-30 14:00:00;150;;CENT
+Movie;Movies, Comedy;2;2016-04-30 14:00:00;135;Cable;FREE
+Movie;Movies, Comedy;3;2016-04-30 14:00:00;150;Cable;VH1
+Movie;Movies, Adventure;4;2016-04-30 14:05:00;125;Cable;BSTZ
+Movie;Movies, Sci-Fi;2;2016-04-30 14:15:00;115;Cable;HBO4
+Movie;Movies, Comedy;2;2016-04-30 14:15:00;125;Cable;STZEBK
+Movie;Movies, Drama;4;2016-04-30 14:15:00;145;Cable;STZECL
+Movie;Movies, Drama;3;2016-04-30 14:20:00;130;Cable;RETRO
+Movie;Movies, Comedy;2;2016-04-30 14:25:00;120;Cable;MAX1
+Movie;Movies, Drama;2;2016-04-30 14:25:00;110;Cable;SHO3
+Movie;Movies, Horror;3;2016-04-30 14:30:00;150;Cable;CHL
+Movie;Movies, Fantasy;3;2016-04-30 14:30:00;150;Cable;FXX
+Movie;Movies, Action;2;2016-04-30 14:30:00;135;Cable;IFC
+Movie;Movies, Drama;3;2016-04-30 14:30:00;120;Cable;INDI
+Movie;Movies, War;0;2016-04-30 14:30:00;140;Cable;EDGE
+Movie;Movies, Sport;3;2016-04-30 14:33:00;118;Cable;STZEFM
+Movie;Movies, Comedy;2;2016-04-30 14:35:00;165;Cable;COMC
+Movie;Movies, Western;3;2016-04-30 14:45:00;135;Cable;AMC
+Movie;Movies, Drama;2;2016-04-30 14:45:00;120;Cable;TBS
+Movie;Movies, Adventure;3;2016-04-30 14:55:00;100;Cable;MAX2
+Movie;Movies;2;2016-04-30 15:00:00;80;Cable;CINEL
+Movie;Movies, Drama;3;2016-04-30 15:00:00;150;Cable;COSMO
+30 for 30;Sports, Miscellaneous;0;2016-04-30 15:00:00;120;Cable;ESPNC
+Local Programming;TBA;0;2016-04-30 15:00:00;90;Network;FOX
+Top 20 Country Countdown;Music;0;2016-04-30 15:00:00;120;Cable;GAC
+Movie;Movies, Romance;0;2016-04-30 15:00:00;120;Cable;HALL
+Movie;Movies, Comedy;2;2016-04-30 15:00:00;100;Cable;HBOF
+Movie;Movies, Mystery;3;2016-04-30 15:00:00;85;;MGMHD
+Movie;Movies, Family;3;2016-04-30 15:00:00;90;Cable;PLEX
+Fear Factor;Reality TV, Christmas;0;2016-04-30 15:00:00;70;Cable;MTV2
+Movie;Movies, Documentary;3;2016-04-30 15:00:00;180;Cable;MTVL
+Catfish: The TV Show;Reality TV;0;2016-04-30 15:00:00;105;Cable;MTV
+Movie;Movies, Romance;2;2016-04-30 15:00:00;120;Cable;SHO2
+Movie;Movies, Comedy;3;2016-04-30 15:00:00;100;Cable;SHOFZ
+Movie;Movies, Action;0;2016-04-30 15:00:00;135;Cable;NEXT
+Movie;Movies, Biography;2;2016-04-30 15:00:00;120;Cable;SHO-WE
+Movie;Movies, Crime Story;3;2016-04-30 15:00:00;90;Cable;SILVSC
+Movie;Movies, Comedy;2;2016-04-30 15:00:00;150;Cable;SPIKE
+Movie;Movies, Action;0;2016-04-30 15:00:00;120;Cable;SYFY
+Metal Mania;Music;0;2016-04-30 15:00:00;120;Cable;VH1-C
+Movie;Movies, Drama;2;2016-04-30 15:00:00;120;Cable;VICE
+Movie;Movies, Family;1;2016-04-30 15:01:00;93;Cable;SRZK
+Movie;Movies, Thriller;2;2016-04-30 15:15:00;135;Cable;SHO
+Movie;Movies, Crime Story;3;2016-04-30 15:15:00;115;Cable;HBO4
+Movie;Movies, Horror;0;2016-04-30 15:20:00;100;Cable;MAX7
+Southern Charm;Reality TV;0;2016-04-30 15:30:00;60;Cable;BRAVO
+Central Fox;Sports, News;0;2016-04-30 15:30:00;60;Cable;FOXD
+Movie;Movies, Action;3;2016-04-30 15:30:00;180;Cable;FX
+Tras la Verdad;News Magazine;0;2016-04-30 15:30:00;60;Broadcast;GALA
+Soccer;Sports, Soccer;0;2016-04-30 15:30:00;120;Cable;GOLTV
+Movie;Movies, Comedy;2;2016-04-30 15:30:00;105;Cable;HBOC
+Impact Wrestling;Sports, Wrestling;0;2016-04-30 15:30:00;120;Cable;POP
+Mecum Auctions;Business;0;2016-04-30 15:30:00;60;Cable;RFD
+Boxing Classics;Sports, Boxing;0;2016-04-30 15:35:00;60;Cable;HBO3
+Movie;Movies, Horror;0;2016-04-30 15:35:00;90;Cable;BYND
+Movie;Movies, Action;3;2016-04-30 15:40:00;100;Cable;FXM
+Movie;Movies, Romance;3;2016-04-30 15:40:00;110;Cable;HBO
+Movie;Movies, Romance;3;2016-04-30 15:40:00;110;Cable;HBOL
+Movie;Movies, Drama;0;2016-04-30 15:40:00;110;Cable;CINEMA
+Movie;Movies, Sci-Fi;2;2016-04-30 15:40:00;110;Cable;STZEAC
+Movie;Movies, Mystery;4;2016-04-30 15:40:00;105;Cable;STZESU
+Martin;Sitcom;0;2016-04-30 15:45:00;38;Cable;BET
+Outlander;Drama;0;2016-04-30 15:45:00;60;Cable;STARZ
+Movie;Movies, Comedy;0;2016-04-30 15:45:00;115;Cable;SRZC
+Movie;Movies, Suspense;3;2016-04-30 15:45:00;119;Cable;STZENC
+Washington This Week;Political;0;2016-04-30 15:50:00;55;Cable;CSPAN
+Movie;Movies, Comedy/Drama;2;2016-04-30 15:55:00;120;Cable;MAX3
+Criminal Minds;Drama;0;2016-04-30 16:00:00;60;Cable;A&E
+Local Programming;TBA;0;2016-04-30 16:00:00;120;Network;ABC
+Against the Odds;Documentary;0;2016-04-30 16:00:00;60;Cable;AHC
+Dr. Jeff: Rocky Mountain Vet;Animals;0;2016-04-30 16:00:00;60;Cable;ANPL
+On the Spot;Children;0;2016-04-30 16:00:00;30;Broadcast;Antenna
+Kitchen Nightmares;Reality TV;0;2016-04-30 16:00:00;60;Cable;BBC
+BBC World News;News;0;2016-04-30 16:00:00;30;Cable;BBCW
+The Express Preview;Sports, Miscellaneous;0;2016-04-30 16:00:00;10;Cable;beINS
+Lacrosse;Sports, Lacrosse;0;2016-04-30 16:00:00;120;Cable;B10
+Bloomberg Best;News Magazine;0;2016-04-30 16:00:00;60;Cable;BLM-US
+The Tom and Jerry Show;Children;0;2016-04-30 16:00:00;30;Cable;BOOM
+Teen Titans Go!;Animated;0;2016-04-30 16:00:00;30;Cable;TOON
+Local Programming;TBA;0;2016-04-30 16:00:00;180;Network;CBS
+Truck Racing;Sports, Auto Racing;0;2016-04-30 16:00:00;60;Cable;CBSSN
+Complications;Drama;0;2016-04-30 16:00:00;60;Cable;CLOO
+Movie;Movies, Drama;4;2016-04-30 16:00:00;120;Cable;CMTUS
+Paid Program;Paid Program;0;2016-04-30 16:00:00;30;Cable;CNBC
+CNN Newsroom;News Magazine;0;2016-04-30 16:00:00;60;Cable;CNN
+Movie;Movies, Horror;3;2016-04-30 16:00:00;120;Broadcast;Comet
+The Virginian;Drama;0;2016-04-30 16:00:00;90;Broadcast;COZI
+Jacques Pepin: Heart and Soul;Food;0;2016-04-30 16:00:00;30;Broadcast;CREATE
+Parole Board;Reality TV;0;2016-04-30 16:00:00;60;;CIN
+Book TV;Discussion;0;2016-04-30 16:00:00;42;Cable;CSPAN2
+Are We There Yet?;Sitcom;0;2016-04-30 16:00:00;30;Broadcast;CW+
+iShine KNECT;Religious, Children;0;2016-04-30 16:00:00;30;Broadcast;DSTAR
+Missing: Cold Cases;Documentary;0;2016-04-30 16:00:00;30;Broadcast;Decades
+Timber Kings;Documentary;0;2016-04-30 16:00:00;60;Cable;DEST
+Alaskan Bush People: Best of the Bush;Reality TV;0;2016-04-30 16:00:00;60;Cable;DISC
+Littlest Pet Shop;Children;0;2016-04-30 16:00:00;30;Cable;DFC
+I Was Impaled;Documentary;0;2016-04-30 16:00:00;60;Cable;DFL
+Liv and Maddie;Children;0;2016-04-30 16:00:00;30;Cable;DISN
+Movie;Movies, Animated, Children;0;2016-04-30 16:00:00;90;Cable;DISNJR
+Walk the Prank;Comedy;0;2016-04-30 16:00:00;30;Cable;DISNXD
+Desperate Landscapes;Garden;0;2016-04-30 16:00:00;30;Cable;DIY
+Keeping Up With the Kardashians;Reality TV;0;2016-04-30 16:00:00;60;Cable;E!
+NFL Draft;Sports, Football;0;2016-04-30 16:00:00;480;Cable;ESPN
+Ftbol center;Sports, News, Soccer;0;2016-04-30 16:00:00;60;Cable;ESPND
+SportsCenter Top Ten;Sports, Miscellaneous;0;2016-04-30 16:00:00;30;Cable;ESPNN
+Lacrosse;Sports, Lacrosse;0;2016-04-30 16:00:00;120;Cable;ESPNU
+Baseball;Sports, Baseball;0;2016-04-30 16:00:00;180;Cable;ESPN2
+Friday Night Tykes: Steel Country;Reality TV;0;2016-04-30 16:00:00;60;Cable;ESQTV
+Gem Week;Shopping;0;2016-04-30 16:00:00;60;Cable;EVINE
+Daily Mass;Religious;0;2016-04-30 16:00:00;60;Cable;EWTN
+Jimmy Houston Adventures;Sports, Miscellaneous;0;2016-04-30 16:00:00;30;Broadcast;FAMUSA
+The Monkees;Sitcom;0;2016-04-30 16:00:00;30;Broadcast;FAMN
+The Kitchen;Food;0;2016-04-30 16:00:00;60;Cable;FOOD
+Paid Program;Paid Program;0;2016-04-30 16:00:00;60;Cable;FOXB
+Bob Massi Is the Property Man;Home;0;2016-04-30 16:00:00;30;Cable;FNC
+Bundesliga Matchday;Sports, Soccer;0;2016-04-30 16:00:00;30;Cable;FS1
+Cardinals Kids TV;Sports, Children, Baseball;0;2016-04-30 16:00:00;30;Cable;FSM
+Everybody Hates Chris;Sitcom;0;2016-04-30 16:00:00;30;Cable;FUSE
+Man vs. Child: Chef Showdown;Food;0;2016-04-30 16:00:00;60;Cable;FYI
+The Newlywed Game;Game Shows;0;2016-04-30 16:00:00;30;Cable;GSN
+Golf Central Pre-game;Sports, Golf;0;2016-04-30 16:00:00;60;Cable;GOLF
+Renegade;Drama;0;2016-04-30 16:00:00;60;Broadcast;H&I
+Diagnosis Murder;Drama;0;2016-04-30 16:00:00;60;Cable;HMC
+Vinyl;Drama;0;2016-04-30 16:00:00;60;Cable;HBO2
+Movie;Movies, Drama;0;2016-04-30 16:00:00;90;Cable;ZONE
+Fixer Upper;Home;0;2016-04-30 16:00:00;60;Cable;HGTV
+Pawn Stars;Reality TV;0;2016-04-30 16:00:00;30;Cable;HIST
+Forensic Files;Docu-Series;0;2016-04-30 16:00:00;30;Cable;HLN
+Electronic Connection;Shopping;0;2016-04-30 16:00:00;60;Broadcast;HSN
+Daniel Boone;Drama;0;2016-04-30 16:00:00;60;Cable;INSP
+Fear Thy Neighbor;News Magazine;0;2016-04-30 16:00:00;60;Cable;ID
+Law & Order: Special Victims Unit;Drama;0;2016-04-30 16:00:00;60;Broadcast;ION
+Movie;Movies, Drama;0;2016-04-30 16:00:00;120;Cable;LIFE
+Operation Style;Home;0;2016-04-30 16:00:00;30;Cable;LIFERW
+Movie;Movies, Thriller;0;2016-04-30 16:00:00;120;Cable;LMN
+The Nanny;Sitcom;0;2016-04-30 16:00:00;32;Cable;LOGO
+A corazn abierto;Soaps;0;2016-04-30 16:00:00;60;Cable;MAR
+Battles B.C.;Documentary;0;2016-04-30 16:00:00;60;;MHC
+Quick Pitch;Sports, Baseball;0;2016-04-30 16:00:00;60;Cable;MLB
+Local Programming;TBA;0;2016-04-30 16:00:00;360;Broadcast;MNT
+The 50 Greatest Moments at Madison Square Gardens;Sports, Miscellaneous;0;2016-04-30 16:00:00;60;Cable;MSG
+Drag Racing;Sports, Auto Racing;0;2016-04-30 16:00:00;180;Cable;MSG+
+NASA Television Video File;Discussion;0;2016-04-30 16:00:00;60;Broadcast;NASA1
+Drugs, Inc.;Documentary;0;2016-04-30 16:00:00;60;Cable;NGEO
+Animal Fight Night;Animals;0;2016-04-30 16:00:00;60;Cable;NGW
+Playoff Playback;Sports, Basketball;0;2016-04-30 16:00:00;60;Cable;NBA
+Local Programming;TBA;0;2016-04-30 16:00:00;30;Network;NBC
+Premier League Live;Sports, Soccer;0;2016-04-30 16:00:00;30;Cable;NBCSN
+BPL World;Regular;0;2016-04-30 16:00:00;25;Cable;NBCUN
+NFL Draft;Sports, Football;0;2016-04-30 16:00:00;450;Cable;NFLN
+Shimmer and Shine;Children;0;2016-04-30 16:00:00;30;Cable;NICKJ
+Power Rangers: Dino Charge;Children;0;2016-04-30 16:00:00;30;Cable;NTOO
+Power Rangers: Dino Charge;Children;0;2016-04-30 16:00:00;30;Cable;NICK
+Teenage Mutant Ninja Turtles;Children, Animated;0;2016-04-30 16:00:00;30;Cable;NICK
+Home Made Simple;Home;0;2016-04-30 16:00:00;30;Cable;OWN
+The Seahunter;Hobbies & Crafts;0;2016-04-30 16:00:00;30;Cable;OUT
+Rachel Hunter's Tour of Beauty;Travel;0;2016-04-30 16:00:00;30;Cable;OVA
+Snapped;Biography;0;2016-04-30 16:00:00;60;Cable;OXY
+Pac-12 Football in 60;Sports, Football;0;2016-04-30 16:00:00;60;Cable;PAC12
+In Julia's Kitchen With Master Chefs;Food;0;2016-04-30 16:00:00;30;Broadcast;PBSHD
+Eating Alaska;Documentary;0;2016-04-30 16:00:00;60;Broadcast;World
+The Jeffersons;Sitcom;0;2016-04-30 16:00:00;30;Broadcast;WPCH
+Psycho Kitty;Reality TV;0;2016-04-30 16:00:00;30;Cable;PET
+Veronica Mars;Drama;0;2016-04-30 16:00:00;60;Cable;PIVOT
+Gofrette;Children;0;2016-04-30 16:00:00;30;Broadcast;QUBO
+Princess Diana's Legacy;Specials;0;2016-04-30 16:00:00;60;Cable;REELZ
+The Unexplained Files;Sci-Fi;0;2016-04-30 16:00:00;60;Cable;SCI
+Boxing Classics;Sports, Boxing;0;2016-04-30 16:00:00;45;Cable;SHOWEX
+Caillou;Children, Animated;0;2016-04-30 16:00:00;30;Broadcast;SPRT
+Movie;Movies, Comedy;2;2016-04-30 16:00:00;70;Cable;STZEWS
+Lassie;Children;0;2016-04-30 16:00:00;30;Broadcast;TBN
+Pau Hana Years: Hana Hou!;Instructional;0;2016-04-30 16:00:00;30;Cable;TEACH
+100 Things to Do Before High School;Children;0;2016-04-30 16:00:00;30;Cable;TNICK
+SOS: Salva mi casa;Regular;0;2016-04-30 16:00:00;60;Broadcast;MUN
+Brunch @ Bobby's;Food;0;2016-04-30 16:00:00;30;Cable;COOK
+Tennis;Sports, Tennis;0;2016-04-30 16:00:00;120;Cable;TENN
+Three Scientists Walk Into a Bar;Science;0;2016-04-30 16:00:00;60;Cable;WEA
+Poker;Sports, Cards;0;2016-04-30 16:00:00;60;Cable;TWCS
+My First Home;Home;0;2016-04-30 16:00:00;30;Cable;TLC
+Movie;Movies, Drama;0;2016-04-30 16:00:00;125;Cable;TMC
+Law & Order;Drama;0;2016-04-30 16:00:00;60;Cable;TNT
+Hungrytown, U.S.A.;Food;0;2016-04-30 16:00:00;30;Cable;TRAVEL
+TruTV's Top Funniest;Comedy;0;2016-04-30 16:00:00;30;Cable;TRUTV-HD
+Movie;Movies, Sci-Fi;3;2016-04-30 16:00:00;120;Cable;TCM
+Reba;Sitcom;0;2016-04-30 16:00:00;36;Cable;TVLAND
+Good Times;Sitcom;0;2016-04-30 16:00:00;30;Cable;TV1
+Programa pagado;Paid Program;0;2016-04-30 16:00:00;30;Broadcast;UniME
+La rosa de Guadalupe;Soaps;0;2016-04-30 16:00:00;60;Broadcast;UNI
+NCIS;Drama;0;2016-04-30 16:00:00;60;Cable;USA
+Beyond Bitchin' Rides;Automotive;0;2016-04-30 16:00:00;60;Cable;VELO
+Hi Opie!;Children;0;2016-04-30 16:00:00;7;Broadcast;V-ME
+Law & Order: Criminal Intent;Drama;0;2016-04-30 16:00:00;60;Cable;WE
+Running;Sports, Athletics;0;2016-04-30 16:00:00;30;Cable;YES
+Small Town, Big Deal;Business;0;2016-04-30 16:00:00;30;Broadcast;YOUTOO
+Movie;Movies, Comedy/Drama;2;2016-04-30 16:05:00;115;Cable;FLIX
+Hi Opie!;Children;0;2016-04-30 16:07:00;8;Broadcast;V-ME
+Soccer;Sports, Soccer;0;2016-04-30 16:10:00;125;Cable;beINS
+Movie;Movies, Horror;3;2016-04-30 16:10:00;110;Cable;HBO4
+Fear Factor;Reality TV;0;2016-04-30 16:10:00;70;Cable;MTV2
+Movie;Movies, Comedy;0;2016-04-30 16:10:00;105;Cable;BSTZ
+Movie;Movies, Comedy;2;2016-04-30 16:15:00;135;Cable;FREE
+Movie;Movies, Comedy;3;2016-04-30 16:15:00;105;Cable;SHO3
+Kambu;Regular;0;2016-04-30 16:15:00;15;Broadcast;V-ME
+Movie;Movies;2;2016-04-30 16:20:00;95;Cable;CINEL
+Movie;Movies, Documentary;0;2016-04-30 16:20:00;100;Cable;STZEBK
+Martin;Sitcom;0;2016-04-30 16:23:00;37;Cable;BET
+Movie;Movies, Adventure;3;2016-04-30 16:25:00;145;Cable;MAX1
+Movie;Movies, Crime Story;2;2016-04-30 16:25:00;125;;MGMHD
+Ftbol;Sports, Soccer;0;2016-04-30 16:25:00;125;Cable;NBCUN
+Safari Tracks;Children, Animals;0;2016-04-30 16:30:00;30;Broadcast;Antenna
+Our World;News Magazine;0;2016-04-30 16:30:00;30;Cable;BBCW
+Wabbit;Animated;0;2016-04-30 16:30:00;30;Cable;BOOM
+Southern Charm;Reality TV;0;2016-04-30 16:30:00;60;Cable;BRAVO
+Teen Titans Go!;Animated;0;2016-04-30 16:30:00;30;Cable;TOON
+Movie;Movies, Drama;0;2016-04-30 16:30:00;150;;CENT
+Paid Program;Paid Program;0;2016-04-30 16:30:00;30;Cable;CNBC
+Simply Ming;Food;0;2016-04-30 16:30:00;30;Broadcast;CREATE
+Are We There Yet?;Sitcom;0;2016-04-30 16:30:00;30;Broadcast;CW+
+Scaly Adventures;Animals;0;2016-04-30 16:30:00;30;Broadcast;DSTAR
+Missing: Cold Cases;Documentary;0;2016-04-30 16:30:00;30;Broadcast;Decades
+Littlest Pet Shop;Children;0;2016-04-30 16:30:00;30;Cable;DFC
+Liv and Maddie;Children;0;2016-04-30 16:30:00;30;Cable;DISN
+Kirby Buckets;Children;0;2016-04-30 16:30:00;30;Cable;DISNXD
+Desperate Landscapes;Garden;0;2016-04-30 16:30:00;30;Cable;DIY
+SportsCenter Featured;Sports, Miscellaneous;0;2016-04-30 16:30:00;30;Cable;ESPNN
+Ron Hazelton's Housecalls;Home;0;2016-04-30 16:30:00;30;Broadcast;FAMUSA
+The Monkees;Sitcom;0;2016-04-30 16:30:00;30;Broadcast;FAMN
+Auto Racing;Sports, Auto Racing;0;2016-04-30 16:30:00;120;Network;FOX
+Ftbol;Sports, Soccer;0;2016-04-30 16:30:00;120;Cable;FOXD
+The Journal Editorial Report;Discussion, News;0;2016-04-30 16:30:00;30;Cable;FNC
+Soccer;Sports, Soccer;0;2016-04-30 16:30:00;120;Cable;FS1
+Cardinals Insider;Sports, Baseball;0;2016-04-30 16:30:00;30;Cable;FSM
+Everybody Hates Chris;Sitcom;0;2016-04-30 16:30:00;30;Cable;FUSE
+Mojoe;Talk Shows;0;2016-04-30 16:30:00;60;Broadcast;GALA
+The Newlywed Game;Game Shows;0;2016-04-30 16:30:00;30;Cable;GSN
+Pawn Stars;Reality TV;0;2016-04-30 16:30:00;30;Cable;HIST
+Forensic Files;Docu-Series;0;2016-04-30 16:30:00;30;Cable;HLN
+Movie;Movies, Comedy;0;2016-04-30 16:30:00;100;Cable;INDI
+Operation Style;Home;0;2016-04-30 16:30:00;30;Cable;LIFERW
+Movie;Movies, Adventure;1;2016-04-30 16:30:00;91;Cable;PLEX
+Soccer;Sports, Soccer;0;2016-04-30 16:30:00;120;Network;NBC
+Track & Field;Sports, Track & Field;0;2016-04-30 16:30:00;150;Cable;NBCSN
+Shimmer and Shine;Children;0;2016-04-30 16:30:00;30;Cable;NICKJ
+ALVINNN!!! and The Chipmunks;Animated;0;2016-04-30 16:30:00;30;Cable;NTOO
+ALVINNN!!! and The Chipmunks;Animated;0;2016-04-30 16:30:00;30;Cable;NICK
+Teenage Mutant Ninja Turtles;Children, Animated;0;2016-04-30 16:30:00;30;Cable;NICK
+Home Made Simple;Home;0;2016-04-30 16:30:00;30;Cable;OWN
+Bluewater Savages;Sports, Outdoors;0;2016-04-30 16:30:00;30;Cable;OUT
+Movie;Movies, Drama, Romance;3;2016-04-30 16:30:00;150;Cable;OVA
+The Victory Garden;Garden;0;2016-04-30 16:30:00;30;Broadcast;PBSHD
+Paid Program;Paid Program;0;2016-04-30 16:30:00;30;Broadcast;WPCH
+Dogs With Jobs;Animals, Animals;0;2016-04-30 16:30:00;30;Cable;PET
+Gofrette;Children;0;2016-04-30 16:30:00;30;Broadcast;QUBO
+Movie;Movies, Biography;4;2016-04-30 16:30:00;130;Cable;RETRO
+Classic Tractor Fever;Hobbies & Crafts;0;2016-04-30 16:30:00;60;Cable;RFD
+Movie;Movies, War;4;2016-04-30 16:30:00;270;Cable;SILVSC
+Caillou;Children, Animated;0;2016-04-30 16:30:00;30;Broadcast;SPRT
+Davey and Goliath;Children, Religious;0;2016-04-30 16:30:00;30;Broadcast;TBN
+Eazy Kine;Instructional;0;2016-04-30 16:30:00;30;Cable;TEACH
+Game Shakers;Sitcom;0;2016-04-30 16:30:00;30;Cable;TNICK
+Brunch @ Bobby's;Food;0;2016-04-30 16:30:00;30;Cable;COOK
+My First Home;Home;0;2016-04-30 16:30:00;30;Cable;TLC
+Hungrytown, U.S.A.;Food;0;2016-04-30 16:30:00;30;Cable;TRAVEL
+TruTV's Top Funniest;Comedy;0;2016-04-30 16:30:00;30;Cable;TRUTV-HD
+Good Times;Sitcom;0;2016-04-30 16:30:00;30;Cable;TV1
+Programa pagado;Paid Program;0;2016-04-30 16:30:00;30;Broadcast;UniME
+Movie;Movies, Comedy;3;2016-04-30 16:30:00;150;Cable;VH1
+Todo tiene Arreglo;Regular;0;2016-04-30 16:30:00;30;Broadcast;V-ME
+Yankees Magazine;Sports, Baseball;0;2016-04-30 16:30:00;30;Cable;YES
+Paid Program;Paid Program;0;2016-04-30 16:30:00;30;Broadcast;YOUTOO
+Movie;Movies, Adventure;2;2016-04-30 16:31:00;121;Cable;STZEFM
+The Nanny;Sitcom;0;2016-04-30 16:32:00;33;Cable;LOGO
+Movie;Movies, Family;3;2016-04-30 16:34:00;117;Cable;SRZK
+Movie;Movies, Action;0;2016-04-30 16:35:00;120;Cable;HBO3
+Movie;Movies, Thriller;2;2016-04-30 16:35:00;100;Cable;MAX2
+Reba;Sitcom;0;2016-04-30 16:36:00;36;Cable;TVLAND
+Movie;Movies, Comedy;2;2016-04-30 16:40:00;88;Cable;HBOF
+Movie;Movies, Comedy;3;2016-04-30 16:40:00;95;Cable;SHOFZ
+Movie;Movies, Drama;2;2016-04-30 16:40:00;125;Cable;STZECL
+Book TV;Discussion;0;2016-04-30 16:42:00;59;Cable;CSPAN2
+Washington This Week;Political;0;2016-04-30 16:45:00;20;Cable;CSPAN
+Movie;Movies, Action;2;2016-04-30 16:45:00;150;Cable;IFC
+Catfish: The TV Show;Reality TV;0;2016-04-30 16:45:00;70;Cable;MTV
+Boxing Classics;Sports, Boxing;0;2016-04-30 16:45:00;50;Cable;SHOWEX
+The Girlfriend Experience;Drama;0;2016-04-30 16:45:00;30;Cable;STARZ
+Movie;Movies, Comedy;3;2016-04-30 16:45:00;120;Cable;SUND
+Movie;Movies, Romance;2;2016-04-30 16:45:00;135;Cable;TBS
+Movie;Movies, Action;3;2016-04-30 16:50:00;130;Cable;EDGE
+Criminal Minds;Drama;0;2016-04-30 17:00:00;60;Cable;A&E
+Movie;Movies, Crime Story;3;2016-04-30 17:00:00;120;Cable;AMC
+Against the Odds;Documentary;0;2016-04-30 17:00:00;60;Cable;AHC
+Dr. Jeff: Rocky Mountain Vet;Animals;0;2016-04-30 17:00:00;60;Cable;ANPL
+Small Wonder;Sitcom;0;2016-04-30 17:00:00;30;Broadcast;Antenna
+Kitchen Nightmares;Reality TV;0;2016-04-30 17:00:00;60;Cable;BBC
+BBC World News;News;0;2016-04-30 17:00:00;30;Cable;BBCW
+Fresh Prince of Bel Air;Sitcom;0;2016-04-30 17:00:00;40;Cable;BET
+Charlie Rose;Talk Shows;0;2016-04-30 17:00:00;60;Cable;BLM-US
+Wabbit;Animated;0;2016-04-30 17:00:00;30;Cable;BOOM
+Teen Titans Go!;Animated;0;2016-04-30 17:00:00;30;Cable;TOON
+Truck Racing;Sports, Auto Racing;0;2016-04-30 17:00:00;60;Cable;CBSSN
+Movie;Movies, Drama;0;2016-04-30 17:00:00;120;Cable;CHL
+Complications;Drama;0;2016-04-30 17:00:00;60;Cable;CLOO
+Paid Program;Paid Program;0;2016-04-30 17:00:00;30;Cable;CNBC
+CNN Newsroom;News Magazine;0;2016-04-30 17:00:00;60;Cable;CNN
+Jacques Ppin: More Fast Food My Way;Food;0;2016-04-30 17:00:00;30;Broadcast;CREATE
+The Big House;Documentary;0;2016-04-30 17:00:00;60;;CIN
+Raising Hope;Sitcom;0;2016-04-30 17:00:00;30;Broadcast;CW+
+In Your Corner With Kerry Pharr;Religious;0;2016-04-30 17:00:00;30;Broadcast;DSTAR
+F Troop;Sitcom;0;2016-04-30 17:00:00;30;Broadcast;Decades
+Timber Kings;Documentary;0;2016-04-30 17:00:00;60;Cable;DEST
+Alaskan Bush People: Best of the Bush;Reality TV;0;2016-04-30 17:00:00;60;Cable;DISC
+Strawberry Shortcake's Berry Bitty Adventures;Children;0;2016-04-30 17:00:00;30;Cable;DFC
+I Was Impaled;Documentary;0;2016-04-30 17:00:00;60;Cable;DFL
+K.C. Undercover;Sitcom;0;2016-04-30 17:00:00;30;Cable;DISN
+Kirby Buckets;Children;0;2016-04-30 17:00:00;30;Cable;DISNXD
+Desperate Landscapes;Garden;0;2016-04-30 17:00:00;30;Cable;DIY
+Keeping Up With the Kardashians;Reality TV;0;2016-04-30 17:00:00;60;Cable;E!
+30 for 30;Sports, Miscellaneous;0;2016-04-30 17:00:00;120;Cable;ESPNC
+SportsCenter;Sports, News;0;2016-04-30 17:00:00;60;Cable;ESPND
+SportsCenter Top Ten;Sports, Miscellaneous;0;2016-04-30 17:00:00;30;Cable;ESPNN
+Friday Night Tykes: Steel Country;Reality TV;0;2016-04-30 17:00:00;60;Cable;ESQTV
+Gem Week;Shopping;0;2016-04-30 17:00:00;60;Cable;EVINE
+EWTN Religious Catalogue;Religious;0;2016-04-30 17:00:00;30;Cable;EWTN
+Cooking 80/20 With Robin Shea;Food;0;2016-04-30 17:00:00;30;Broadcast;FAMUSA
+Parker Lewis Can't Lose;Sitcom;0;2016-04-30 17:00:00;30;Broadcast;FAMN
+Spring Baking Championship;Food;0;2016-04-30 17:00:00;60;Cable;FOOD
+Paid Program;Paid Program;0;2016-04-30 17:00:00;60;Cable;FOXB
+America's Election HQ;Discussion;0;2016-04-30 17:00:00;120;Cable;FNC
+Cardinals Legends;Sports, Miscellaneous;0;2016-04-30 17:00:00;30;Cable;FSM
+Movie;Movies, Action;2;2016-04-30 17:00:00;120;Cable;FUSE
+Movie;Movies, Thriller;2;2016-04-30 17:00:00;150;Cable;FXX
+Man vs. Child: Chef Showdown;Food;0;2016-04-30 17:00:00;60;Cable;FYI
+Ultimate Sportsman's Lodge: Colorado;Home;0;2016-04-30 17:00:00;30;Cable;GAC
+The Newlywed Game;Game Shows;0;2016-04-30 17:00:00;30;Cable;GSN
+Golf;Sports, Golf;0;2016-04-30 17:00:00;90;Cable;GOLF
+Kung Fu;Drama;0;2016-04-30 17:00:00;60;Broadcast;H&I
+Movie;Movies, Romance;2;2016-04-30 17:00:00;120;Cable;HALL
+Diagnosis Murder;Drama;0;2016-04-30 17:00:00;60;Cable;HMC
+Vinyl;Drama;0;2016-04-30 17:00:00;60;Cable;HBO2
+Tiny House Hunters;Home;0;2016-04-30 17:00:00;30;Cable;HGTV
+Pawn Stars;Reality TV;0;2016-04-30 17:00:00;30;Cable;HIST
+Forensic Files;Docu-Series;0;2016-04-30 17:00:00;30;Cable;HLN
+Electronic Connection;Shopping;0;2016-04-30 17:00:00;60;Broadcast;HSN
+The Virginian;Drama;0;2016-04-30 17:00:00;90;Cable;INSP
+Fear Thy Neighbor;News Magazine;0;2016-04-30 17:00:00;60;Cable;ID
+Law & Order: Special Victims Unit;Drama;0;2016-04-30 17:00:00;60;Broadcast;ION
+Seriously Funny Kids;Comedy;0;2016-04-30 17:00:00;30;Cable;LIFERW
+Santa misa capilla M+V;Religious;0;2016-04-30 17:00:00;60;Cable;MAR
+Battles B.C.;Documentary;0;2016-04-30 17:00:00;60;;MHC
+MLB Network Presents;Sports, Baseball;0;2016-04-30 17:00:00;60;Cable;MLB
+The 50 Greatest Moments at Madison Square Gardens;Sports, Miscellaneous;0;2016-04-30 17:00:00;60;Cable;MSG
+This Week at NASA;News;0;2016-04-30 17:00:00;30;Broadcast;NASA1
+Drugs, Inc.;Documentary;0;2016-04-30 17:00:00;60;Cable;NGEO
+Animal Fight Night;Animals;0;2016-04-30 17:00:00;60;Cable;NGW
+NBA Action;Sports, Talk Shows, Basketball;0;2016-04-30 17:00:00;30;Cable;NBA
+Wallykazam!;Children;0;2016-04-30 17:00:00;30;Cable;NICKJ
+ALVINNN!!! and The Chipmunks;Animated;0;2016-04-30 17:00:00;30;Cable;NTOO
+ALVINNN!!! and The Chipmunks;Animated;0;2016-04-30 17:00:00;30;Cable;NICK
+Power Rangers: Dino Charge;Children;0;2016-04-30 17:00:00;30;Cable;NICK
+Oprah: Where Are They Now?;Talk Shows;0;2016-04-30 17:00:00;60;Cable;OWN
+Fishing Edge;Sports, Fishing;0;2016-04-30 17:00:00;30;Cable;OUT
+Movie;Movies, Crime Story;2;2016-04-30 17:00:00;105;Cable;MAX7
+Snapped;Biography;0;2016-04-30 17:00:00;60;Cable;OXY
+Pac-12 Football in 60;Sports, Football;0;2016-04-30 17:00:00;60;Cable;PAC12
+This Old House;Home;0;2016-04-30 17:00:00;30;Broadcast;PBSHD
+Eating Alabama;Documentary;0;2016-04-30 17:00:00;60;Broadcast;World
+Gimme a Break;Sitcom;0;2016-04-30 17:00:00;30;Broadcast;WPCH
+Pit Boss;Animals;0;2016-04-30 17:00:00;60;Cable;PET
+Veronica Mars;Drama;0;2016-04-30 17:00:00;60;Cable;PIVOT
+Jacob Two-Two;Children, Animated;0;2016-04-30 17:00:00;30;Broadcast;QUBO
+William and Kate: The Journey;Docu-Series;0;2016-04-30 17:00:00;60;Cable;REELZ
+The Unexplained Files;Sci-Fi;0;2016-04-30 17:00:00;60;Cable;SCI
+W. Kamau Bell: Semi-Prominent Negro;Comedy;0;2016-04-30 17:00:00;60;Cable;SHO2
+Movie;Movies, Drama;3;2016-04-30 17:00:00;135;Cable;SHO-WE
+The Berenstain Bears;Children, Animated;0;2016-04-30 17:00:00;30;Broadcast;SPRT
+Movie;Movies, Adventure;2;2016-04-30 17:00:00;120;Cable;SYFY
+iShine KNECT;Religious, Children;0;2016-04-30 17:00:00;30;Broadcast;TBN
+Art Hunter;Instructional;0;2016-04-30 17:00:00;30;Cable;TEACH
+The Thundermans;Sitcom;0;2016-04-30 17:00:00;30;Cable;TNICK
+La Voz Kids;Reality TV;0;2016-04-30 17:00:00;120;Broadcast;MUN
+The Real Girl's Kitchen;Food;0;2016-04-30 17:00:00;30;Cable;COOK
+Three Scientists Walk Into a Bar;Science;0;2016-04-30 17:00:00;60;Cable;WEA
+Lacrosse;Sports, Lacrosse;0;2016-04-30 17:00:00;120;Cable;TWCS
+Four Weddings;Reality TV;0;2016-04-30 17:00:00;60;Cable;TLC
+Movie;Movies, Action;2;2016-04-30 17:00:00;120;Cable;TMCX
+Movie;Movies, Sci-Fi;3;2016-04-30 17:00:00;120;Cable;TNT
+Food Paradise;Food, Travel;0;2016-04-30 17:00:00;60;Cable;TRAVEL
+TruTV's Top Funniest;Comedy;0;2016-04-30 17:00:00;30;Cable;TRUTV-HD
+Good Times;Sitcom;0;2016-04-30 17:00:00;30;Cable;TV1
+Movie;Movies, Action;0;2016-04-30 17:00:00;120;Broadcast;UniME
+Lanzate;Regular;0;2016-04-30 17:00:00;60;Broadcast;UNI
+NCIS;Drama;0;2016-04-30 17:00:00;60;Cable;USA
+Truck U;Sports, Automotive;0;2016-04-30 17:00:00;30;Cable;VELO
+Motley Cre: Carnival of Sins;Music;0;2016-04-30 17:00:00;120;Cable;VH1-C
+King of the Road;Docu-Series;0;2016-04-30 17:00:00;60;Cable;VICE
+Decora tu Interior;Home;0;2016-04-30 17:00:00;60;Broadcast;V-ME
+Law & Order: Criminal Intent;Drama;0;2016-04-30 17:00:00;60;Cable;WE
+Forbes SportsMoney;Sports, Talk Show;0;2016-04-30 17:00:00;30;Cable;YES
+Raceline;Sports, Auto Racing;0;2016-04-30 17:00:00;30;Broadcast;YOUTOO
+Public Affairs;News Magazine;0;2016-04-30 17:05:00;95;Cable;CSPAN
+Roseanne;Sitcom;0;2016-04-30 17:05:00;32;Cable;LOGO
+Movie;Movies, Horror;0;2016-04-30 17:05:00;85;Cable;BYND
+Movie;Movies, Western;2;2016-04-30 17:10:00;95;Cable;STZEWS
+Movie;Movies, Horror;2;2016-04-30 17:10:00;90;Cable;HBO4
+Reba;Sitcom;0;2016-04-30 17:12:00;36;Cable;TVLAND
+Movie;Movies, Comedy;2;2016-04-30 17:15:00;100;Cable;HBOC
+Movie;Movies, Action;0;2016-04-30 17:15:00;95;Cable;NEXT
+Movie;Movies, Action;4;2016-04-30 17:15:00;140;Cable;STARZ
+Movie;Movies, Comedy;3;2016-04-30 17:20:00;164;Cable;COMC
+Movie;Movies, Sport;3;2016-04-30 17:20:00;100;Cable;FXM
+Fear Factor;Reality TV;0;2016-04-30 17:20:00;70;Cable;MTV2
+Movie;Movies, Drama;3;2016-04-30 17:25:00;125;Cable;STZESU
+Small Wonder;Sitcom;0;2016-04-30 17:30:00;30;Broadcast;Antenna
+Witness;Documentary;0;2016-04-30 17:30:00;30;Cable;BBCW
+Be Cool, Scooby-Doo!;Children;0;2016-04-30 17:30:00;30;Cable;BOOM
+Southern Charm;Reality TV;0;2016-04-30 17:30:00;60;Cable;BRAVO
+Teen Titans Go!;Animated;0;2016-04-30 17:30:00;30;Cable;TOON
+Paid Program;Paid Program;0;2016-04-30 17:30:00;30;Cable;CNBC
+Hollywood's 10 Best;News Magazine;0;2016-04-30 17:30:00;30;Cable;COSMO
+The Virginian;Drama;0;2016-04-30 17:30:00;90;Broadcast;COZI
+Lidia's Kitchen;Food;0;2016-04-30 17:30:00;30;Broadcast;CREATE
+Raising Hope;Sitcom;0;2016-04-30 17:30:00;30;Broadcast;CW+
+Brian Houston@Hillsong TV;Religious;0;2016-04-30 17:30:00;30;Broadcast;DSTAR
+F Troop;Sitcom;0;2016-04-30 17:30:00;30;Broadcast;Decades
+Strawberry Shortcake's Berry Bitty Adventures;Children;0;2016-04-30 17:30:00;30;Cable;DFC
+K.C. Undercover;Sitcom;0;2016-04-30 17:30:00;30;Cable;DISN
+Sofia the First;Children;0;2016-04-30 17:30:00;30;Cable;DISNJR
+Kirby Buckets;Children;0;2016-04-30 17:30:00;30;Cable;DISNXD
+Desperate Landscapes;Garden;0;2016-04-30 17:30:00;30;Cable;DIY
+SportsCenter Featured;Sports, Miscellaneous;0;2016-04-30 17:30:00;30;Cable;ESPNN
+Visionaries, Mystics and Stigmatists;Religious;0;2016-04-30 17:30:00;30;Cable;EWTN
+I Married Joan;Sitcom;0;2016-04-30 17:30:00;30;Broadcast;FAMUSA
+Parker Lewis Can't Lose;Sitcom;0;2016-04-30 17:30:00;30;Broadcast;FAMN
+Cardinals Live Pre-game Show;Sports, Baseball;0;2016-04-30 17:30:00;30;Cable;FSM
+Ultimate Sportsman's Lodge: Colorado;Home;0;2016-04-30 17:30:00;30;Cable;GAC
+Recuerda y gana;Regular;0;2016-04-30 17:30:00;60;Broadcast;GALA
+The Newlywed Game;Game Shows;0;2016-04-30 17:30:00;30;Cable;GSN
+The Clubland;Sports, Soccer;0;2016-04-30 17:30:00;30;Cable;GOLTV
+Movie;Movies, Drama;0;2016-04-30 17:30:00;120;Cable;HBO
+Movie;Movies, Drama;0;2016-04-30 17:30:00;120;Cable;HBOL
+Movie;Movies, Biography;3;2016-04-30 17:30:00;140;Cable;ZONE
+Tiny House Hunters;Home;0;2016-04-30 17:30:00;30;Cable;HGTV
+Pawn Stars;Reality TV;0;2016-04-30 17:30:00;30;Cable;HIST
+Forensic Files;Docu-Series;0;2016-04-30 17:30:00;30;Cable;HLN
+Seriously Funny Kids;Comedy;0;2016-04-30 17:30:00;30;Cable;LIFERW
+NASA X;Science;0;2016-04-30 17:30:00;30;Broadcast;NASA1
+Playoff Playback;Sports, Basketball;0;2016-04-30 17:30:00;60;Cable;NBA
+Wallykazam!;Children;0;2016-04-30 17:30:00;30;Cable;NICKJ
+ALVINNN!!! and The Chipmunks;Animated;0;2016-04-30 17:30:00;30;Cable;NTOO
+ALVINNN!!! and The Chipmunks;Animated;0;2016-04-30 17:30:00;30;Cable;NICK
+Power Rangers: Dino Charge;Children;0;2016-04-30 17:30:00;30;Cable;NICK
+Madfin Shark Series;Sports, Fishing;0;2016-04-30 17:30:00;30;Cable;OUT
+This Old House;Home;0;2016-04-30 17:30:00;30;Broadcast;PBSHD
+Seinfeld;Sitcom;0;2016-04-30 17:30:00;30;Broadcast;WPCH
+Schitt's Creek;Sitcom;0;2016-04-30 17:30:00;30;Cable;POP
+Jacob Two-Two;Children;0;2016-04-30 17:30:00;30;Broadcast;QUBO
+Machinery Pete;Local;0;2016-04-30 17:30:00;30;Cable;RFD
+Movie;Movies, Crime Story;0;2016-04-30 17:30:00;105;Cable;SHO
+Cops;Reality TV;0;2016-04-30 17:30:00;30;Cable;SPIKE
+Zou;Children;0;2016-04-30 17:30:00;30;Broadcast;SPRT
+Movie;Movies, Drama;2;2016-04-30 17:30:00;105;Cable;CINEMA
+Movie;Movies, Drama;3;2016-04-30 17:30:00;95;Cable;STZEAC
+Mike's Inspiration Station;Children, Religious;0;2016-04-30 17:30:00;30;Broadcast;TBN
+The Voyageur Experience;Cultural Magazine;0;2016-04-30 17:30:00;24;Cable;TEACH
+Bella and the Bulldogs;Sitcom;0;2016-04-30 17:30:00;30;Cable;TNICK
+The Real Girl's Kitchen;Food;0;2016-04-30 17:30:00;30;Cable;COOK
+TruTV's Top Funniest;Comedy;0;2016-04-30 17:30:00;30;Cable;TRUTV-HD
+Good Times;Sitcom;0;2016-04-30 17:30:00;30;Cable;TV1
+Motorweek;Automotive;0;2016-04-30 17:30:00;30;Cable;VELO
+Yankeeography;Biography;0;2016-04-30 17:30:00;90;Cable;YES
+Chop Cut Rebuild;Sports, Automotive;0;2016-04-30 17:30:00;30;Broadcast;YOUTOO
+Boxing Classics;Sports, Boxing;0;2016-04-30 17:35:00;55;Cable;SHOWEX
+Roseanne;Sitcom, Christmas;0;2016-04-30 17:37:00;33;Cable;LOGO
+Fresh Prince of Bel Air;Sitcom;0;2016-04-30 17:40:00;40;Cable;BET
+Movie;Movies, Comedy;2;2016-04-30 17:40:00;95;Cable;SRZC
+Book TV;Discussion;0;2016-04-30 17:41:00;59;Cable;CSPAN2
+Movie;Movies, Drama;2;2016-04-30 17:44:00;141;Cable;STZENC
+Reba;Sitcom;0;2016-04-30 17:48:00;36;Cable;TVLAND
+Japan Video Topics 2013/ 2014;Performing Arts;0;2016-04-30 17:54:00;6;Cable;TEACH
+Movie;Movies, Epic;3;2016-04-30 17:55:00;120;Cable;MAX3
+Movie;Movies;2;2016-04-30 17:55:00;145;Cable;CINEL
+Catfish: The TV Show;Reality TV;0;2016-04-30 17:55:00;70;Cable;MTV
+Movie;Movies, Action;0;2016-04-30 17:55:00;135;Cable;BSTZ
+Criminal Minds;Drama;0;2016-04-30 18:00:00;60;Cable;A&E
+World of X Games;Sports, Extreme;0;2016-04-30 18:00:00;30;Network;ABC
+Legends of the West;Documentary;0;2016-04-30 18:00:00;60;Cable;AHC
+Dr. Jeff: Rocky Mountain Vet;Animals;0;2016-04-30 18:00:00;60;Cable;ANPL
+Sabrina, the Teenage Witch;Sitcom;0;2016-04-30 18:00:00;30;Broadcast;Antenna
+Kitchen Nightmares;Reality TV;0;2016-04-30 18:00:00;60;Cable;BBC
+BBC World News;News;0;2016-04-30 18:00:00;15;Cable;BBCW
+Big Ten Elite;Sports, Miscellaneous;0;2016-04-30 18:00:00;60;Cable;B10
+Hello World;Travel;0;2016-04-30 18:00:00;30;Cable;BLM-US
+Be Cool, Scooby-Doo!;Children;0;2016-04-30 18:00:00;30;Cable;BOOM
+Steven Universe;Animated, Specials;0;2016-04-30 18:00:00;120;Cable;TOON
+Truck Racing;Sports, Auto Racing;0;2016-04-30 18:00:00;60;Cable;CBSSN
+Complications;Drama;0;2016-04-30 18:00:00;60;Cable;CLOO
+Movie;Movies, Sport;3;2016-04-30 18:00:00;180;Cable;CMTUS
+Paid Program;Paid Program;0;2016-04-30 18:00:00;30;Cable;CNBC
+CNN Newsroom;News Magazine;0;2016-04-30 18:00:00;30;Cable;CNN
+Movie;Movies, Horror;2;2016-04-30 18:00:00;120;Broadcast;Comet
+Sex and the City;Sitcom;0;2016-04-30 18:00:00;30;Cable;COSMO
+Cook's Country From America's Test Kitchen;Food;0;2016-04-30 18:00:00;30;Broadcast;CREATE
+Crime 360;Documentary;0;2016-04-30 18:00:00;60;;CIN
+Movie;Movies, Drama;2;2016-04-30 18:00:00;120;Broadcast;CW+
+Guillermo Maldonado;Religious;0;2016-04-30 18:00:00;30;Broadcast;DSTAR
+F Troop;Sitcom;0;2016-04-30 18:00:00;30;Broadcast;Decades
+Timber Kings;Documentary;0;2016-04-30 18:00:00;60;Cable;DEST
+Alaskan Bush People: Best of the Bush;Reality TV;0;2016-04-30 18:00:00;60;Cable;DISC
+Cake Boss;Reality TV;0;2016-04-30 18:00:00;60;Cable;DFC
+Sin City ER;Reality TV;0;2016-04-30 18:00:00;60;Cable;DFL
+Girl Meets World;Sitcom;0;2016-04-30 18:00:00;30;Cable;DISN
+Sofia the First;Children;0;2016-04-30 18:00:00;30;Cable;DISNJR
+Phineas and Ferb;Children;0;2016-04-30 18:00:00;28;Cable;DISNXD
+Desperate Landscapes;Garden;0;2016-04-30 18:00:00;30;Cable;DIY
+Keeping Up With the Kardashians;Reality TV;0;2016-04-30 18:00:00;60;Cable;E!
+SportsCenter;Sports, News;0;2016-04-30 18:00:00;60;Cable;ESPND
+SportsCenter Top Ten;Sports, Miscellaneous;0;2016-04-30 18:00:00;30;Cable;ESPNN
+Lacrosse;Sports, Lacrosse;0;2016-04-30 18:00:00;120;Cable;ESPNU
+Friday Night Tykes: Steel Country;Reality TV;0;2016-04-30 18:00:00;60;Cable;ESQTV
+Gem Week;Shopping;0;2016-04-30 18:00:00;60;Cable;EVINE
+EWTN on Location;Religious;0;2016-04-30 18:00:00;60;Cable;EWTN
+Flash Gordon;Sci-Fi;0;2016-04-30 18:00:00;30;Broadcast;FAMUSA
+10 Items or Less;Sitcom;0;2016-04-30 18:00:00;30;Broadcast;FAMN
+Movie;Movies, Comedy/Drama;2;2016-04-30 18:00:00;120;Cable;FLIX
+Cake Masters;Food;0;2016-04-30 18:00:00;60;Cable;FOOD
+Paid Program;Paid Program;0;2016-04-30 18:00:00;60;Cable;FOXB
+Baseball;Sports, Baseball;0;2016-04-30 18:00:00;180;Cable;FSM
+Zombie House Flipping;Home;0;2016-04-30 18:00:00;60;Cable;FYI
+Ultimate Sportsman's Lodge: Colorado;Home;0;2016-04-30 18:00:00;30;Cable;GAC
+The Chase;Game Shows;0;2016-04-30 18:00:00;60;Cable;GSN
+Soccer;Sports, Soccer;0;2016-04-30 18:00:00;120;Cable;GOLTV
+21 Jump Street;Drama;0;2016-04-30 18:00:00;60;Broadcast;H&I
+Diagnosis Murder;Drama;0;2016-04-30 18:00:00;60;Cable;HMC
+Vinyl;Drama;0;2016-04-30 18:00:00;60;Cable;HBO2
+Tiny House Hunters;Home;0;2016-04-30 18:00:00;30;Cable;HGTV
+VICE World of Sports;Sports, Miscellaneous;0;2016-04-30 18:00:00;30;Cable;HIST
+Forensic Files;Docu-Series;0;2016-04-30 18:00:00;30;Cable;HLN
+NutriBullet;Shopping;0;2016-04-30 18:00:00;60;Broadcast;HSN
+Evil Twins;Documentary;0;2016-04-30 18:00:00;60;Cable;ID
+Law & Order: Special Victims Unit;Drama;0;2016-04-30 18:00:00;60;Broadcast;ION
+Movie;Movies, Drama;0;2016-04-30 18:00:00;120;Cable;LIFE
+Seriously Funny Kids;Comedy;0;2016-04-30 18:00:00;30;Cable;LIFERW
+Movie;Movies, Thriller;0;2016-04-30 18:00:00;120;Cable;LMN
+El santsimo sacramento;Religious;0;2016-04-30 18:00:00;60;Cable;MAR
+The Color of War;Documentary;0;2016-04-30 18:00:00;60;;MHC
+Baseball;Sports, Baseball;0;2016-04-30 18:00:00;180;Cable;MLB
+Movie;Movies, Comedy;2;2016-04-30 18:00:00;120;Cable;HBO4
+The Garden's Defining Moments;Sports, Miscellaneous;0;2016-04-30 18:00:00;30;Cable;MSG
+Joe Bonamassa: Beacon Theater Live From New York;Music;0;2016-04-30 18:00:00;60;Cable;MTVL
+NASA Edge;Science;0;2016-04-30 18:00:00;30;Broadcast;NASA1
+Drugs, Inc.;Documentary;0;2016-04-30 18:00:00;60;Cable;NGEO
+Animal Fight Night;Animals;0;2016-04-30 18:00:00;60;Cable;NGW
+Bubble Guppies;Children;0;2016-04-30 18:00:00;30;Cable;NICKJ
+ALVINNN!!! and The Chipmunks;Animated;0;2016-04-30 18:00:00;30;Cable;NTOO
+ALVINNN!!! and The Chipmunks;Animated;0;2016-04-30 18:00:00;30;Cable;NICK
+Sanjay and Craig;Children, Animated;0;2016-04-30 18:00:00;30;Cable;NICK
+Oprah: Where Are They Now?;Talk Shows;0;2016-04-30 18:00:00;60;Cable;OWN
+Major League Fishing;Sports, Fishing;0;2016-04-30 18:00:00;120;Cable;OUT
+Snapped;Biography;0;2016-04-30 18:00:00;60;Cable;OXY
+Football;Sports, Football;0;2016-04-30 18:00:00;120;Cable;PAC12
+Ask This Old House;Home;0;2016-04-30 18:00:00;30;Broadcast;PBSHD
+American Experience;Documentary;0;2016-04-30 18:00:00;60;Broadcast;World
+Movie;Movies, Family;3;2016-04-30 18:00:00;120;Broadcast;WPCH
+Myth Busters;Docu-Series;0;2016-04-30 18:00:00;60;Cable;PET
+Veronica Mars;Drama;0;2016-04-30 18:00:00;60;Cable;PIVOT
+Schitt's Creek;Sitcom;0;2016-04-30 18:00:00;30;Cable;POP
+Sandra: The Fairy Tale Detective;Children;0;2016-04-30 18:00:00;30;Broadcast;QUBO
+William and Kate: The Journey;Docu-Series;0;2016-04-30 18:00:00;60;Cable;REELZ
+Ag PhD;Business;0;2016-04-30 18:00:00;30;Cable;RFD
+The Unexplained Files;Sci-Fi;0;2016-04-30 18:00:00;60;Cable;SCI
+Penny Dreadful;Drama;0;2016-04-30 18:00:00;60;Cable;SHO2
+Movie;Movies, Sci-Fi;3;2016-04-30 18:00:00;120;Cable;SHO3
+Cops;Reality TV;0;2016-04-30 18:00:00;30;Cable;SPIKE
+Noodle and Doodle;Children;0;2016-04-30 18:00:00;30;Broadcast;SPRT
+Movie;Movies, Romance;2;2016-04-30 18:00:00;135;Cable;STZEBK
+Praise the Lord;Religious;0;2016-04-30 18:00:00;120;Broadcast;TBN
+Flight School;Instructional;0;2016-04-30 18:00:00;48;Cable;TEACH
+School of Rock;Children;0;2016-04-30 18:00:00;30;Cable;TNICK
+Dinner at Tiffani's;Food;0;2016-04-30 18:00:00;30;Cable;COOK
+ATP World Tour Uncovered;Sports, Tennis;0;2016-04-30 18:00:00;30;Cable;TENN
+Three Scientists Walk Into a Bar;Science;0;2016-04-30 18:00:00;60;Cable;WEA
+Four Weddings;Reality TV;0;2016-04-30 18:00:00;60;Cable;TLC
+Food Paradise;Food;0;2016-04-30 18:00:00;60;Cable;TRAVEL
+TruInside;Docu-Series;0;2016-04-30 18:00:00;60;Cable;TRUTV-HD
+Movie;Movies, Sci-Fi;2;2016-04-30 18:00:00;120;Cable;TCM
+Good Times;Sitcom;0;2016-04-30 18:00:00;30;Cable;TV1
+Sabadazo;Cultural Magazine;0;2016-04-30 18:00:00;180;Broadcast;UNI
+NCIS;Drama;0;2016-04-30 18:00:00;60;Cable;USA
+Junkyard Empire;Reality TV;0;2016-04-30 18:00:00;60;Cable;VELO
+NOISEY;Music;0;2016-04-30 18:00:00;60;Cable;VICE
+Hablemos de Salud y Belleza;Regular;0;2016-04-30 18:00:00;30;Broadcast;V-ME
+Law & Order: Criminal Intent;Drama;0;2016-04-30 18:00:00;60;Cable;WE
+Paid Program;Paid Program;0;2016-04-30 18:00:00;30;Broadcast;YOUTOO
+Movie;Movies, Sports, Family;0;2016-04-30 18:01:00;97;Cable;PLEX
+Movie;Movies, Drama;3;2016-04-30 18:05:00;125;Cable;TMC
+Movie;Movies, Family;2;2016-04-30 18:08:00;102;Cable;HBOF
+Movie;Movies, Crime Story;3;2016-04-30 18:10:00;100;Cable;INDI
+Roseanne;Sitcom;0;2016-04-30 18:10:00;32;Cable;LOGO
+Sport Today;Sports, Miscellaneous;0;2016-04-30 18:15:00;15;Cable;BBCW
+The Express Preview;Sports, Miscellaneous;0;2016-04-30 18:15:00;10;Cable;beINS
+Banshee;Drama;0;2016-04-30 18:15:00;55;Cable;MAX2
+Movie;Movies, Comedy/Drama;3;2016-04-30 18:15:00;105;Cable;SHOFZ
+Fresh Prince of Bel Air;Sitcom;0;2016-04-30 18:20:00;40;Cable;BET
+Reba;Sitcom;0;2016-04-30 18:24:00;36;Cable;TVLAND
+Soccer;Sports, Soccer;0;2016-04-30 18:25:00;125;Cable;beINS
+SportsCenter High-5;News, Sports;0;2016-04-30 18:28:00;2;Cable;DISNXD
+World of X Games;Sports, Extreme;0;2016-04-30 18:30:00;30;Network;ABC
+Sabrina, the Teenage Witch;Sitcom, Christmas;0;2016-04-30 18:30:00;30;Broadcast;Antenna
+The Travel Show;Travel;0;2016-04-30 18:30:00;30;Cable;BBCW
+Brilliant Ideas;Hobbies & Crafts;0;2016-04-30 18:30:00;30;Cable;BLM-US
+Courage the Cowardly Dog;Children;0;2016-04-30 18:30:00;30;Cable;BOOM
+Shahs of Sunset;Reality TV;0;2016-04-30 18:30:00;60;Cable;BRAVO
+Paid Program;Paid Program;0;2016-04-30 18:30:00;30;Cable;CNBC
+Vital Signs with Dr. Sanjay Gupta;Health;0;2016-04-30 18:30:00;30;Cable;CNN
+Sex and the City;Sitcom;0;2016-04-30 18:30:00;30;Cable;COSMO
+Moveable Feast With Fine Cooking;Food;0;2016-04-30 18:30:00;30;Broadcast;CREATE
+Gospel Music Showcase;Music;0;2016-04-30 18:30:00;30;Broadcast;DSTAR
+F Troop;Sitcom;0;2016-04-30 18:30:00;30;Broadcast;Decades
+Girl Meets World;Sitcom;0;2016-04-30 18:30:00;30;Cable;DISN
+Doc McStuffins;Animated;0;2016-04-30 18:30:00;30;Cable;DISNJR
+Phineas and Ferb;Children;0;2016-04-30 18:30:00;30;Cable;DISNXD
+Desperate Landscapes;Garden;0;2016-04-30 18:30:00;30;Cable;DIY
+SportsCenter Featured;Sports, Miscellaneous;0;2016-04-30 18:30:00;30;Cable;ESPNN
+Buck Rogers in the 25th Century;Sci-Fi;0;2016-04-30 18:30:00;30;Broadcast;FAMUSA
+10 Items or Less;Sitcom;0;2016-04-30 18:30:00;30;Broadcast;FAMN
+NASCAR Pre-Race;Sports, Auto Racing;0;2016-04-30 18:30:00;30;Network;FOX
+Fox Deportes en Vivo;Sports, Miscellaneous;0;2016-04-30 18:30:00;30;Cable;FOXD
+Arenacross;Sports, Motorcycle Racing;0;2016-04-30 18:30:00;60;Cable;FS1
+Movie;Movies, Comedy;3;2016-04-30 18:30:00;165;Cable;FREE
+Movie;Movies, Action;3;2016-04-30 18:30:00;180;Cable;FX
+Ultimate Sportsman's Lodge: Colorado;Home;0;2016-04-30 18:30:00;30;Cable;GAC
+1,2,3 por Mxico;Game Shows;0;2016-04-30 18:30:00;60;Broadcast;GALA
+Golf Central Pre-game;Sports, Golf;0;2016-04-30 18:30:00;30;Cable;GOLF
+Tiny House Hunters;Home;0;2016-04-30 18:30:00;30;Cable;HGTV
+Pawn Stars;Reality TV;0;2016-04-30 18:30:00;30;Cable;HIST
+Forensic Files;Docu-Series;0;2016-04-30 18:30:00;30;Cable;HLN
+The Virginian;Drama;0;2016-04-30 18:30:00;90;Cable;INSP
+Seriously Funny Kids;Comedy;0;2016-04-30 18:30:00;30;Cable;LIFERW
+Movie;Movies, Thriller;2;2016-04-30 18:30:00;125;;MGMHD
+The Garden's Defining Moments;Sports, Miscellaneous;0;2016-04-30 18:30:00;30;Cable;MSG
+Ridiculousness;Reality TV;0;2016-04-30 18:30:00;35;Cable;MTV2
+Inside the ISS;Science;0;2016-04-30 18:30:00;30;Broadcast;NASA1
+Playoff Playback;Sports, Basketball;0;2016-04-30 18:30:00;60;Cable;NBA
+Premier League Goal Zone;Sports, Soccer;0;2016-04-30 18:30:00;30;Network;NBC
+Fuerza Especial de Fugitivos;Regular;0;2016-04-30 18:30:00;30;Cable;NBCUN
+Bubble Guppies;Children;0;2016-04-30 18:30:00;30;Cable;NICKJ
+ALVINNN!!! and The Chipmunks;Animated;0;2016-04-30 18:30:00;30;Cable;NTOO
+ALVINNN!!! and The Chipmunks;Animated;0;2016-04-30 18:30:00;30;Cable;NICK
+Sanjay and Craig;Children, Animated;0;2016-04-30 18:30:00;30;Cable;NICK
+Motorweek;Automotive;0;2016-04-30 18:30:00;30;Broadcast;PBSHD
+Schitt's Creek;Sitcom;0;2016-04-30 18:30:00;30;Cable;POP
+Sandra: The Fairy Tale Detective;Children;0;2016-04-30 18:30:00;30;Broadcast;QUBO
+The Angus Report;Cultural Magazine;0;2016-04-30 18:30:00;30;Cable;RFD
+Movie;Movies, Horror;0;2016-04-30 18:30:00;90;Cable;BYND
+Boxing Classics;Sports, Boxing;0;2016-04-30 18:30:00;60;Cable;SHOWEX
+Cops;Reality TV;0;2016-04-30 18:30:00;30;Cable;SPIKE
+Astroblast;Children;0;2016-04-30 18:30:00;30;Broadcast;SPRT
+School of Rock;Children;0;2016-04-30 18:30:00;30;Cable;TNICK
+Dinner at Tiffani's;Food;0;2016-04-30 18:30:00;30;Cable;COOK
+Tennis;Sports, Tennis;0;2016-04-30 18:30:00;180;Cable;TENN
+Good Times;Sitcom;0;2016-04-30 18:30:00;30;Cable;TV1
+Lo + Natural;Regular;0;2016-04-30 18:30:00;30;Broadcast;V-ME
+Alive and Well;Health;0;2016-04-30 18:30:00;30;Broadcast;YOUTOO
+Movie;Movies, Action/Comedy;0;2016-04-30 18:31:00;96;Cable;SRZK
+Feast;Animated;0;2016-04-30 18:32:00;7;Cable;STZEFM
+Movie;Movies, Comedy/Drama;2;2016-04-30 18:35:00;105;Cable;HBO3
+Movie;Movies, Comedy;3;2016-04-30 18:39:00;96;Cable;STZEFM
+Washington This Week;Political;0;2016-04-30 18:40:00;10;Cable;CSPAN
+Book TV;Discussion;0;2016-04-30 18:40:00;57;Cable;CSPAN2
+Movie;Movies, Drama;2;2016-04-30 18:40:00;110;Cable;RETRO
+Movie;Movies, Crime Story;0;2016-04-30 18:40:00;110;Cable;HBO4
+Roseanne;Sitcom;0;2016-04-30 18:42:00;33;Cable;LOGO
+Movie;Movies, Sci-Fi;2;2016-04-30 18:45:00;110;Cable;MAX7
+Movie;Movies, Drama;3;2016-04-30 18:45:00;135;Cable;STZECL
+Movie;Movies, Western;2;2016-04-30 18:45:00;110;Cable;STZEWS
+Movie;Movies, Drama;3;2016-04-30 18:45:00;135;Cable;SUND
+Save a Life: CPR/AED Elementary;Instructional;0;2016-04-30 18:48:00;12;Cable;TEACH
+Movie;Movies, Action;2;2016-04-30 18:50:00;110;Cable;MAX1
+Washington This Week;Political;0;2016-04-30 18:50:00;115;Cable;CSPAN
+Movie;Movies, Drama;1;2016-04-30 18:50:00;110;Cable;NEXT
+Movie;Movies, Comedy;2;2016-04-30 18:55:00;95;Cable;HBOC
+Movie;Movies, Action;3;2016-04-30 19:00:00;120;Cable;A&E
+30 for 30;Sports, Miscellaneous;0;2016-04-30 19:00:00;120;Network;ABC
+Movie;Movies, Action;3;2016-04-30 19:00:00;150;Cable;AMC
+Legends of the West;Documentary;0;2016-04-30 19:00:00;60;Cable;AHC
+Dr. Jeff: Rocky Mountain Vet;Animals;0;2016-04-30 19:00:00;60;Cable;ANPL
+Mr. Belvedere;Sitcom;0;2016-04-30 19:00:00;30;Broadcast;Antenna
+Star Trek: The Next Generation;Sci-Fi;0;2016-04-30 19:00:00;60;Cable;BBC
+BBC World News;News;0;2016-04-30 19:00:00;10;Cable;BBCW
+Fresh Prince of Bel Air;Sitcom;0;2016-04-30 19:00:00;40;Cable;BET
+Baseball;Sports, Baseball;0;2016-04-30 19:00:00;180;Cable;B10
+Bloomberg BusinessWeek;Business;0;2016-04-30 19:00:00;60;Cable;BLM-US
+Courage the Cowardly Dog;Children;0;2016-04-30 19:00:00;30;Cable;BOOM
+Golf;Sports, Golf;0;2016-04-30 19:00:00;180;Network;CBS
+Lacrosse;Sports, Lacrosse;0;2016-04-30 19:00:00;150;Cable;CBSSN
+Movie;Movies, Comedy;2;2016-04-30 19:00:00;120;;CENT
+Movie;Movies, Action;0;2016-04-30 19:00:00;120;Cable;CHL
+Complications;Drama;0;2016-04-30 19:00:00;60;Cable;CLOO
+Paid Program;Paid Program;0;2016-04-30 19:00:00;30;Cable;CNBC
+CNN Newsroom;News Magazine;0;2016-04-30 19:00:00;60;Cable;CNN
+Sex and the City;Sitcom;0;2016-04-30 19:00:00;30;Cable;COSMO
+The Life and Legend of Wyatt Earp;Drama;0;2016-04-30 19:00:00;30;Broadcast;COZI
+Jacques Pepin: Heart and Soul;Food;0;2016-04-30 19:00:00;30;Broadcast;CREATE
+Crime 360;Documentary;0;2016-04-30 19:00:00;60;;CIN
+John Paul Jackson;Religious;0;2016-04-30 19:00:00;30;Broadcast;DSTAR
+F Troop;Sitcom;0;2016-04-30 19:00:00;30;Broadcast;Decades
+Timber Kings;Documentary;0;2016-04-30 19:00:00;60;Cable;DEST
+Alaskan Bush People: Best of the Bush;Reality TV;0;2016-04-30 19:00:00;60;Cable;DISC
+Cake Boss: Next Great Baker;Reality TV;0;2016-04-30 19:00:00;60;Cable;DFC
+Sin City ER;Reality TV;0;2016-04-30 19:00:00;60;Cable;DFL
+Best Friends Whenever;Sitcom;0;2016-04-30 19:00:00;30;Cable;DISN
+The Lion Guard;Regular;0;2016-04-30 19:00:00;30;Cable;DISNJR
+Phineas and Ferb;Children;0;2016-04-30 19:00:00;30;Cable;DISNXD
+Desperate Landscapes;Garden;0;2016-04-30 19:00:00;30;Cable;DIY
+Keeping Up With the Kardashians;Reality TV;0;2016-04-30 19:00:00;60;Cable;E!
+The Movement: One Man Joins an Uprising;Documentary;0;2016-04-30 19:00:00;60;Cable;ESPNC
+SportsCenter;Sports, News;0;2016-04-30 19:00:00;60;Cable;ESPND
+SportsCenter Top Ten;Sports, Miscellaneous;0;2016-04-30 19:00:00;30;Cable;ESPNN
+Baseball;Sports, Baseball;0;2016-04-30 19:00:00;180;Cable;ESPN2
+Movie;Movies, Action;3;2016-04-30 19:00:00;180;Cable;ESQTV
+Invicta Watches;Shopping;0;2016-04-30 19:00:00;60;Cable;EVINE
+The Chaplet of Divine Mercy in Song;Religious, Music;0;2016-04-30 19:00:00;21;Cable;EWTN
+The Green Archer;Drama;0;2016-04-30 19:00:00;30;Broadcast;FAMUSA
+Ned and Stacey;Sitcom;0;2016-04-30 19:00:00;30;Broadcast;FAMN
+Cupcake Wars;Food;0;2016-04-30 19:00:00;60;Cable;FOOD
+Auto Racing;Sports, Auto Racing;0;2016-04-30 19:00:00;150;Network;FOX
+Paid Program;Paid Program;0;2016-04-30 19:00:00;60;Cable;FOXB
+Central Fox;Sports, News;0;2016-04-30 19:00:00;60;Cable;FOXD
+America's Election HQ;Discussion;0;2016-04-30 19:00:00;60;Cable;FNC
+Movie;Movies, Crime Story;1;2016-04-30 19:00:00;120;Cable;FUSE
+Movie;Movies, Action;3;2016-04-30 19:00:00;113;Cable;FXM
+Zombie House Flipping;Home;0;2016-04-30 19:00:00;60;Cable;FYI
+Texas Flip and Move;Home;0;2016-04-30 19:00:00;60;Cable;GAC
+Skin Wars;Reality TV;0;2016-04-30 19:00:00;60;Cable;GSN
+Golf;Sports, Golf;0;2016-04-30 19:00:00;180;Cable;GOLF
+Hercules: The Legendary Journeys;Drama;0;2016-04-30 19:00:00;60;Broadcast;H&I
+Movie;Movies, Romance;0;2016-04-30 19:00:00;120;Cable;HALL
+Diagnosis Murder;Drama;0;2016-04-30 19:00:00;60;Cable;HMC
+Vinyl;Drama;0;2016-04-30 19:00:00;60;Cable;HBO2
+Tiny House Hunters;Home;0;2016-04-30 19:00:00;30;Cable;HGTV
+Pawn Stars;Reality TV;0;2016-04-30 19:00:00;30;Cable;HIST
+Forensic Files;Docu-Series;0;2016-04-30 19:00:00;30;Cable;HLN
+Electronic Connection;Shopping;0;2016-04-30 19:00:00;60;Broadcast;HSN
+Evil Twins;Documentary;0;2016-04-30 19:00:00;60;Cable;ID
+Law & Order: Special Victims Unit;Drama;0;2016-04-30 19:00:00;60;Broadcast;ION
+One Born Every Minute;Documentary;0;2016-04-30 19:00:00;60;Cable;LIFERW
+Maria madre nuestra;Religious;0;2016-04-30 19:00:00;90;Cable;MAR
+Ancient Discoveries;Documentary;0;2016-04-30 19:00:00;60;;MHC
+The 50 Greatest Moments at Madison Square Gardens;Sports, Miscellaneous;0;2016-04-30 19:00:00;60;Cable;MSG
+Soccer;Sports, Soccer;0;2016-04-30 19:00:00;120;Cable;MSG+
+Caught on Camera;Documentary;0;2016-04-30 19:00:00;60;Cable;MSNBC
+Rush: Clockwork Angels Tour;Music;0;2016-04-30 19:00:00;120;Cable;MTVL
+Space Station Live;Science;0;2016-04-30 19:00:00;60;Broadcast;NASA1
+Drugs, Inc.;Documentary;0;2016-04-30 19:00:00;60;Cable;NGEO
+Animals Gone Wild;Animals;0;2016-04-30 19:00:00;60;Cable;NGW
+Hockey;Sports, Hockey;0;2016-04-30 19:00:00;180;Network;NBC
+Track & Field;Sports, Track & Field;0;2016-04-30 19:00:00;120;Cable;NBCSN
+Movie;Movies, War;2;2016-04-30 19:00:00;90;Cable;NBCUN
+Dora and Friends: Into the City!;Children;0;2016-04-30 19:00:00;30;Cable;NICKJ
+SpongeBob SquarePants;Children;0;2016-04-30 19:00:00;30;Cable;NTOO
+SpongeBob SquarePants;Children;0;2016-04-30 19:00:00;30;Cable;NICK
+Harvey Beaks;Animated;0;2016-04-30 19:00:00;30;Cable;NICK
+Oprah: Where Are They Now?;Talk Shows;0;2016-04-30 19:00:00;60;Cable;OWN
+Movie;Movies, Western;2;2016-04-30 19:00:00;240;Cable;OVA
+Snapped;Biography;0;2016-04-30 19:00:00;60;Cable;OXY
+The Woodwright's Shop;Hobbies & Crafts;0;2016-04-30 19:00:00;30;Broadcast;PBSHD
+Rebels With a Cause;Environmental;0;2016-04-30 19:00:00;60;Broadcast;World
+Amazing Dog Tales;Animals;0;2016-04-30 19:00:00;30;Cable;PET
+Veronica Mars;Drama;0;2016-04-30 19:00:00;60;Cable;PIVOT
+Movie;Movies, Suspense;1;2016-04-30 19:00:00;180;Cable;POP
+The Busy World of Richard Scarry;Children;0;2016-04-30 19:00:00;30;Broadcast;QUBO
+William and Kate: The Journey;Docu-Series;0;2016-04-30 19:00:00;60;Cable;REELZ
+Rural Heritage;Documentary;0;2016-04-30 19:00:00;30;Cable;RFD
+The Unexplained Files;Sci-Fi;0;2016-04-30 19:00:00;60;Cable;SCI
+Penny Dreadful;Drama;0;2016-04-30 19:00:00;60;Cable;SHO2
+Cops;Reality TV;0;2016-04-30 19:00:00;30;Cable;SPIKE
+Sydney Sailboat;Children;0;2016-04-30 19:00:00;30;Broadcast;SPRT
+Outlander;Drama;0;2016-04-30 19:00:00;60;Cable;EDGE
+Movie;Movies;0;2016-04-30 19:00:00;120;Cable;SYFY
+Friends;Sitcom;0;2016-04-30 19:00:00;30;Cable;TBS
+Art Hunter;Instructional;0;2016-04-30 19:00:00;30;Cable;TEACH
+Victorious;Children;0;2016-04-30 19:00:00;30;Cable;TNICK
+Movie;Movies, Action;0;2016-04-30 19:00:00;120;Broadcast;MUN
+Tia Mowry at Home;Food;0;2016-04-30 19:00:00;30;Cable;COOK
+Weather Gone Viral;Environmental;0;2016-04-30 19:00:00;60;Cable;WEA
+Lacrosse;Sports, Lacrosse;0;2016-04-30 19:00:00;150;Cable;TWCS
+Four Weddings;Reality TV;0;2016-04-30 19:00:00;60;Cable;TLC
+Movie;Movies, Comedy/Drama;2;2016-04-30 19:00:00;105;Cable;TMCX
+Movie;Movies, Sci-Fi;2;2016-04-30 19:00:00;150;Cable;TNT
+Food Paradise;Food;0;2016-04-30 19:00:00;60;Cable;TRAVEL
+Hack My Life;Instructional;0;2016-04-30 19:00:00;30;Cable;TRUTV-HD
+Reba;Sitcom;0;2016-04-30 19:00:00;30;Cable;TVLAND
+Good Times;Sitcom;0;2016-04-30 19:00:00;30;Cable;TV1
+Movie;Movies, Action;0;2016-04-30 19:00:00;120;Broadcast;UniME
+NCIS;Drama;0;2016-04-30 19:00:00;60;Cable;USA
+Junkyard Empire;Reality TV;0;2016-04-30 19:00:00;60;Cable;VELO
+Movie;Movies, Dance;3;2016-04-30 19:00:00;150;Cable;VH1
+MTV Unplugged:;Music;0;2016-04-30 19:00:00;60;Cable;VH1-C
+NOISEY;Music;0;2016-04-30 19:00:00;60;Cable;VICE
+Planeta Feroz;Animals;0;2016-04-30 19:00:00;30;Broadcast;V-ME
+Law & Order: Criminal Intent;Drama;0;2016-04-30 19:00:00;60;Cable;WE
+CenterStage;Sports, Miscellaneous;0;2016-04-30 19:00:00;60;Cable;YES
+Intelligence for Your Life;Documentary;0;2016-04-30 19:00:00;30;Broadcast;YOUTOO
+Ridiculousness;Reality TV;0;2016-04-30 19:05:00;35;Cable;MTV2
+Catfish: The TV Show;Reality TV;0;2016-04-30 19:05:00;70;Cable;MTV
+Movie;Movies, War;2;2016-04-30 19:05:00;100;Cable;STZEAC
+Africa Business Report;Business;0;2016-04-30 19:10:00;20;Cable;BBCW
+Movie;Movies, Comedy;1;2016-04-30 19:10:00;90;Cable;MAX2
+Movie;Movies, Thriller;2;2016-04-30 19:15:00;135;Cable;IFC
+Roseanne;Sitcom;0;2016-04-30 19:15:00;33;Cable;LOGO
+Movie;Movies, Sci-Fi;2;2016-04-30 19:15:00;135;Cable;SHO
+Movie;Movies, Horror;0;2016-04-30 19:15:00;85;Cable;SHO-WE
+Movie;Movies, Biography;0;2016-04-30 19:15:00;155;Cable;CINEMA
+Movie;Movies, Animated;3;2016-04-30 19:15:00;100;Cable;SRZC
+Reflections With Father Leo Clifford;Religious;0;2016-04-30 19:21:00;9;Cable;EWTN
+Mr. Belvedere;Sitcom;0;2016-04-30 19:30:00;30;Broadcast;Antenna
+Click;Computers & Technologies;0;2016-04-30 19:30:00;30;Cable;BBCW
+Movie;Movies, Animated;2;2016-04-30 19:30:00;90;Cable;BOOM
+Shahs of Sunset;Reality TV;0;2016-04-30 19:30:00;60;Cable;BRAVO
+Paid Program;Paid Program;0;2016-04-30 19:30:00;30;Cable;CNBC
+Sex and the City;Sitcom;0;2016-04-30 19:30:00;30;Cable;COSMO
+The Life and Legend of Wyatt Earp;Drama;0;2016-04-30 19:30:00;30;Broadcast;COZI
+This Old House;Home;0;2016-04-30 19:30:00;30;Broadcast;CREATE
+Ron Carpenter;Religious;0;2016-04-30 19:30:00;30;Broadcast;DSTAR
+F Troop;Sitcom;0;2016-04-30 19:30:00;30;Broadcast;Decades
+Best Friends Whenever;Sitcom;0;2016-04-30 19:30:00;30;Cable;DISN
+Jake and the Never Land Pirates;Animated;0;2016-04-30 19:30:00;60;Cable;DISNJR
+Phineas and Ferb;Children;0;2016-04-30 19:30:00;30;Cable;DISNXD
+Desperate Landscapes;Garden;0;2016-04-30 19:30:00;30;Cable;DIY
+SportsCenter Featured;Sports, Miscellaneous;0;2016-04-30 19:30:00;30;Cable;ESPNN
+Rosary for Life;Religious;0;2016-04-30 19:30:00;30;Cable;EWTN
+The Beverly Hillbillies;Sitcom;0;2016-04-30 19:30:00;30;Broadcast;FAMUSA
+Ned and Stacey;Sitcom, Hallowe'en;0;2016-04-30 19:30:00;30;Broadcast;FAMN
+MLB on FS1 Pre-game;Sports, Baseball;0;2016-04-30 19:30:00;30;Cable;FS1
+Movie;Movies, Action;0;2016-04-30 19:30:00;120;Cable;FXX
+El chapuln colorado;Sitcom;0;2016-04-30 19:30:00;30;Broadcast;GALA
+HBO First Look;Documentary;0;2016-04-30 19:30:00;15;Cable;HBO
+What to Watch;Discussion;0;2016-04-30 19:30:00;15;Cable;HBOL
+Tiny House Hunters;Home;0;2016-04-30 19:30:00;30;Cable;HGTV
+Pawn Stars;Reality TV;0;2016-04-30 19:30:00;30;Cable;HIST
+Forensic Files;Docu-Series;0;2016-04-30 19:30:00;30;Cable;HLN
+Playoff Playback;Sports, Basketball;0;2016-04-30 19:30:00;60;Cable;NBA
+Dora and Friends: Into the City!;Children;0;2016-04-30 19:30:00;30;Cable;NICKJ
+SpongeBob SquarePants;Children;0;2016-04-30 19:30:00;30;Cable;NTOO
+SpongeBob SquarePants;Children;0;2016-04-30 19:30:00;30;Cable;NICK
+Harvey Beaks;Animated;0;2016-04-30 19:30:00;30;Cable;NICK
+A Chef's Life;Food;0;2016-04-30 19:30:00;30;Broadcast;PBSHD
+Animal Movers;Animals;0;2016-04-30 19:30:00;30;Cable;PET
+The Busy World of Richard Scarry;Children;0;2016-04-30 19:30:00;30;Broadcast;QUBO
+Voices of Agriculture;Business;0;2016-04-30 19:30:00;30;Cable;RFD
+Boxing Classics;Sports, Boxing;0;2016-04-30 19:30:00;60;Cable;SHOWEX
+Cops;Reality TV;0;2016-04-30 19:30:00;30;Cable;SPIKE
+Super Wings;Children;0;2016-04-30 19:30:00;30;Broadcast;SPRT
+Movie;Movies, Drama;2;2016-04-30 19:30:00;105;Cable;STZESU
+Friends;Sitcom;0;2016-04-30 19:30:00;30;Cable;TBS
+Project Mathematics!;Instructional;0;2016-04-30 19:30:00;30;Cable;TEACH
+Victorious;Children;0;2016-04-30 19:30:00;30;Cable;TNICK
+Tia Mowry at Home;Food;0;2016-04-30 19:30:00;30;Cable;COOK
+Hack My Life;Instructional;0;2016-04-30 19:30:00;30;Cable;TRUTV-HD
+Reba;Sitcom;0;2016-04-30 19:30:00;30;Cable;TVLAND
+Good Times;Sitcom;0;2016-04-30 19:30:00;30;Cable;TV1
+Planeta Feroz;Animals;0;2016-04-30 19:30:00;30;Broadcast;V-ME
+Paid Program;Paid Program;0;2016-04-30 19:30:00;30;Broadcast;YOUTOO
+Movie;Movies, Action;2;2016-04-30 19:35:00;145;Cable;STARZ
+Book TV;Discussion;0;2016-04-30 19:37:00;58;Cable;CSPAN2
+Movie;Movies, Documentary;0;2016-04-30 19:38:00;97;Cable;PLEX
+Fresh Prince of Bel Air;Sitcom;0;2016-04-30 19:40:00;40;Cable;BET
+Ridiculousness;Reality TV;0;2016-04-30 19:40:00;35;Cable;MTV2
+Movie;Movies, Drama;0;2016-04-30 19:45:00;135;Cable;HBO
+Movie;Movies, Drama;0;2016-04-30 19:45:00;135;Cable;HBOL
+Roseanne;Sitcom;0;2016-04-30 19:48:00;33;Cable;LOGO
+Movie;Movies, Comedy;3;2016-04-30 19:50:00;100;Cable;HBOF
+Movie;Movies, Comedy;2;2016-04-30 19:50:00;110;Cable;ZONE
+Movie;Movies, Comedy/Drama;3;2016-04-30 19:50:00;110;Cable;INDI
+Movie;Movies, Mystery;0;2016-04-30 19:55:00;155;Cable;MAX3
+Legends of the West;Documentary;0;2016-04-30 20:00:00;60;Cable;AHC
+Dr. Jeff: Rocky Mountain Vet;Animals;0;2016-04-30 20:00:00;60;Cable;ANPL
+Doogie Howser, M.D.;Sitcom;0;2016-04-30 20:00:00;30;Broadcast;Antenna
+Star Trek: The Next Generation;Sci-Fi;0;2016-04-30 20:00:00;60;Cable;BBC
+World News Today;News;0;2016-04-30 20:00:00;30;Cable;BBCW
+Paid Program;Paid Program;0;2016-04-30 20:00:00;30;Cable;BLM-US
+Movie;Movies, Family;0;2016-04-30 20:00:00;120;Cable;TOON
+Complications;Drama;0;2016-04-30 20:00:00;60;Cable;CLOO
+Paid Program;Paid Program;0;2016-04-30 20:00:00;30;Cable;CNBC
+CNN Newsroom;News Magazine;0;2016-04-30 20:00:00;60;Cable;CNN
+Movie;Movies, Horror;2;2016-04-30 20:00:00;120;Broadcast;Comet
+Sex and the City;Sitcom;0;2016-04-30 20:00:00;30;Cable;COSMO
+Maverick;Drama;0;2016-04-30 20:00:00;60;Broadcast;COZI
+Richard Bangs' Adventures With a Purpose;Travel;0;2016-04-30 20:00:00;60;Broadcast;CREATE
+Crime 360;Documentary;0;2016-04-30 20:00:00;60;;CIN
+Movie;Movies, Comedy;2;2016-04-30 20:00:00;120;Broadcast;CW+
+Christian Worship Hour;Religious;0;2016-04-30 20:00:00;30;Broadcast;DSTAR
+F Troop;Sitcom;0;2016-04-30 20:00:00;30;Broadcast;Decades
+Uncovering Aliens;Science;0;2016-04-30 20:00:00;60;Cable;DEST
+Alaskan Bush People: Best of the Bush;Reality TV;0;2016-04-30 20:00:00;60;Cable;DISC
+Property Ladder;Home;0;2016-04-30 20:00:00;60;Cable;DFC
+Sin City ER;Reality TV;0;2016-04-30 20:00:00;60;Cable;DFL
+Stuck in the Middle;Comedy;0;2016-04-30 20:00:00;30;Cable;DISN
+Pickle and Peanut;Animated;0;2016-04-30 20:00:00;30;Cable;DISNXD
+Desperate Landscapes;Garden;0;2016-04-30 20:00:00;30;Cable;DIY
+Keeping Up With the Kardashians;Reality TV;0;2016-04-30 20:00:00;60;Cable;E!
+30 for 30;Sports, Documentary, Documentary;0;2016-04-30 20:00:00;120;Cable;ESPNC
+Golpe a golpe;Sports, Boxing;0;2016-04-30 20:00:00;60;Cable;ESPND
+SportsCenter Top Ten;Sports, Miscellaneous;0;2016-04-30 20:00:00;30;Cable;ESPNN
+Baseball;Sports, Baseball;0;2016-04-30 20:00:00;180;Cable;ESPNU
+Invicta Watches;Shopping;0;2016-04-30 20:00:00;60;Cable;EVINE
+Web of Faith 2.0;Religious;0;2016-04-30 20:00:00;60;Cable;EWTN
+The Hollywood News Report;News Magazine;0;2016-04-30 20:00:00;30;Broadcast;FAMUSA
+All in the Family;Sitcom;0;2016-04-30 20:00:00;30;Broadcast;FAMN
+Movie;Movies, Comedy;3;2016-04-30 20:00:00;95;Cable;FLIX
+Chopped Junior;Food;0;2016-04-30 20:00:00;60;Cable;FOOD
+Paid Program;Paid Program;0;2016-04-30 20:00:00;60;Cable;FOXB
+Bisbol;Sports, Baseball;0;2016-04-30 20:00:00;180;Cable;FOXD
+America's Election HQ;Discussion;0;2016-04-30 20:00:00;60;Cable;FNC
+Baseball;Sports, Baseball;0;2016-04-30 20:00:00;180;Cable;FS1
+Celebrity House Hunting;Reality TV;0;2016-04-30 20:00:00;30;Cable;FYI
+Texas Flip and Move;Home;0;2016-04-30 20:00:00;60;Cable;GAC
+Chespirito;Comedy;0;2016-04-30 20:00:00;60;Broadcast;GALA
+Family Feud;Game Shows;0;2016-04-30 20:00:00;30;Cable;GSN
+Soccer;Sports, Soccer;0;2016-04-30 20:00:00;120;Cable;GOLTV
+Xena: Warrior Princess;Drama;0;2016-04-30 20:00:00;60;Broadcast;H&I
+Diagnosis Murder;Drama;0;2016-04-30 20:00:00;60;Cable;HMC
+Vinyl;Drama;0;2016-04-30 20:00:00;60;Cable;HBO2
+Tiny House Hunters;Home;0;2016-04-30 20:00:00;30;Cable;HGTV
+Pawn Stars;Reality TV;0;2016-04-30 20:00:00;30;Cable;HIST
+Forensic Files;Docu-Series;0;2016-04-30 20:00:00;30;Cable;HLN
+Customer Appreciation;Shopping;0;2016-04-30 20:00:00;60;Broadcast;HSN
+The High Chaparral;Drama;0;2016-04-30 20:00:00;60;Cable;INSP
+Deadly Women;Docu-Series;0;2016-04-30 20:00:00;60;Cable;ID
+Law & Order: Special Victims Unit;Drama;0;2016-04-30 20:00:00;60;Broadcast;ION
+Movie;Movies, Thriller;0;2016-04-30 20:00:00;120;Cable;LIFE
+One Born Every Minute;Documentary;0;2016-04-30 20:00:00;60;Cable;LIFERW
+Movie;Movies, Thriller;0;2016-04-30 20:00:00;120;Cable;LMN
+Man, Moment, Machine;Documentary;0;2016-04-30 20:00:00;60;;MHC
+Movie;Movies, Comedy;3;2016-04-30 20:00:00;120;Cable;HBO4
+The 50 Greatest Moments at Madison Square Gardens;Sports, Miscellaneous;0;2016-04-30 20:00:00;60;Cable;MSG
+Caught on Camera;Documentary;0;2016-04-30 20:00:00;60;Cable;MSNBC
+NASA Television Video File;Discussion;0;2016-04-30 20:00:00;120;Broadcast;NASA1
+Drugs, Inc.;Documentary;0;2016-04-30 20:00:00;60;Cable;NGEO
+Animals Gone Wild;Animals;0;2016-04-30 20:00:00;60;Cable;NGW
+Peppa Pig;Children;0;2016-04-30 20:00:00;30;Cable;NICKJ
+SpongeBob SquarePants;Children;0;2016-04-30 20:00:00;30;Cable;NTOO
+SpongeBob SquarePants;Children;0;2016-04-30 20:00:00;30;Cable;NICK
+Breadwinners;Animated;0;2016-04-30 20:00:00;30;Cable;NICK
+Oprah: Where Are They Now?;Talk Shows;0;2016-04-30 20:00:00;60;Cable;OWN
+Buccaneers and Bones;Sports, Outdoors;0;2016-04-30 20:00:00;30;Cable;OUT
+Snapped;Biography;0;2016-04-30 20:00:00;60;Cable;OXY
+Inside Pac-12 Football;Sports, Football;0;2016-04-30 20:00:00;60;Cable;PAC12
+Martha Stewart's Cooking School;Food;0;2016-04-30 20:00:00;30;Broadcast;PBSHD
+American Masters;Biography;0;2016-04-30 20:00:00;60;Broadcast;World
+Movie;Movies, Romance;3;2016-04-30 20:00:00;120;Broadcast;WPCH
+Fido & Wine;Animals;0;2016-04-30 20:00:00;30;Cable;PET
+Veronica Mars;Drama;0;2016-04-30 20:00:00;60;Cable;PIVOT
+The Mysteries of Alfred Hedgehog;Children;0;2016-04-30 20:00:00;30;Broadcast;QUBO
+William and Kate: The Journey;Docu-Series;0;2016-04-30 20:00:00;60;Cable;REELZ
+The Right Place With Kevin Sport;Discussion;0;2016-04-30 20:00:00;30;Cable;RFD
+What on Earth?;Science;0;2016-04-30 20:00:00;60;Cable;SCI
+Penny Dreadful;Drama;0;2016-04-30 20:00:00;60;Cable;SHO2
+Movie;Movies, Adventure;0;2016-04-30 20:00:00;85;Cable;BYND
+Movie;Movies, Family;0;2016-04-30 20:00:00;100;Cable;SHOFZ
+Movie;Movies, Drama;4;2016-04-30 20:00:00;165;Cable;SHO3
+Cops;Reality TV;0;2016-04-30 20:00:00;30;Cable;SPIKE
+Jungle Bunch;Children;0;2016-04-30 20:00:00;30;Broadcast;SPRT
+Movie;Movies, Drama;2;2016-04-30 20:00:00;135;Cable;EDGE
+Max Lucado;Religious;0;2016-04-30 20:00:00;30;Broadcast;TBN
+Friends;Sitcom;0;2016-04-30 20:00:00;30;Cable;TBS
+Mililani Oceanic Video Exploration;Local;0;2016-04-30 20:00:00;60;Cable;TEACH
+Sam & Cat;Sitcom;0;2016-04-30 20:00:00;30;Cable;TNICK
+Rev Run's Sunday Suppers;Food;0;2016-04-30 20:00:00;30;Cable;COOK
+Weather Gone Viral;Environmental;0;2016-04-30 20:00:00;60;Cable;WEA
+Four Weddings;Reality TV;0;2016-04-30 20:00:00;60;Cable;TLC
+Food Paradise;Food;0;2016-04-30 20:00:00;60;Cable;TRAVEL
+Hack My Life;Instructional;0;2016-04-30 20:00:00;30;Cable;TRUTV-HD
+Movie;Movies, Sci-Fi;3;2016-04-30 20:00:00;120;Cable;TCM
+Reba;Sitcom;0;2016-04-30 20:00:00;30;Cable;TVLAND
+Sanford and Son;Sitcom;0;2016-04-30 20:00:00;30;Cable;TV1
+NCIS;Drama;0;2016-04-30 20:00:00;60;Cable;USA
+Junkyard Empire;Reality TV;0;2016-04-30 20:00:00;60;Cable;VELO
+Bon Jovi: Inside Out;Music;0;2016-04-30 20:00:00;60;Cable;VH1-C
+NOISEY;Music;0;2016-04-30 20:00:00;60;Cable;VICE
+Planeta Feroz;Animals;0;2016-04-30 20:00:00;30;Broadcast;V-ME
+CSI: Miami;Drama;0;2016-04-30 20:00:00;60;Cable;WE
+Soccer;Sports, Soccer;0;2016-04-30 20:00:00;150;Cable;YES
+Planet X;Children;0;2016-04-30 20:00:00;30;Broadcast;YOUTOO
+Movie;Movies, Comedy;3;2016-04-30 20:04:00;158;Cable;COMC
+Movie;Movies, Adventure;3;2016-04-30 20:05:00;110;Cable;STZENC
