@@ -137,6 +137,42 @@
 	dislay: block;	
 }
 
+input[type=checkbox] {
+	display:none;
+}
+ 
+.dislikeBox input[type=checkbox] + label{
+	background: url('../static/dislike.png');
+	height: 16px;
+	width: 16px;
+	display:inline-block;
+	padding: 0 0 0 0px;
+}
+.dislikeBox input[type=checkbox]:checked + label{
+	background: url('../static/dislike_checked.png');
+	height: 16px;
+	width: 16px;
+	display:inline-block;
+	padding: 0 0 0 0px;
+}
+
+.likeBox input[type=checkbox] + label{
+	background: url('../static/like.png');
+	height: 16px;
+	width: 16px;
+	display:inline-block;
+	padding: 0 0 0 0px;
+}
+
+.likeBox input[type=checkbox]:checked + label{
+	background: url('../static/like_checked.png');
+	height: 16px;
+	width: 16px;
+	display:inline-block;
+	padding: 0 0 0 0px;
+}
+
+
 /* Import Calendar */
 #tableWrapper{
 	margin-left: auto;
