@@ -4,24 +4,31 @@
 <head>
 <meta content="text/html; charset=utf-8" http-equiv="Content-Type">
 <title>Calendar</title>
-	<link rel='stylesheet' type='text/css' href='../static/reset.css' />
+	<link href="../static/styles.css" rel="stylesheet" type="text/css" media="screen">
+
 	<link rel='stylesheet' type='text/css' href='http://ajax.googleapis.com/ajax/libs/jqueryui/1.7.2/themes/start/jquery-ui.css' />
-	<link rel='stylesheet' type='text/css' href='../static/jquery.weekcalendar.css' />
-	<link rel='stylesheet' type='text/css' href='../static/demo.css' />
-	
+		
 	<script type='text/javascript' src='http://ajax.googleapis.com/ajax/libs/jquery/1.3.2/jquery.min.js'></script>
 	<script type='text/javascript' src='http://ajax.googleapis.com/ajax/libs/jqueryui/1.7.2/jquery-ui.min.js'></script>
-	<script type='text/javascript' src='../static/jquery.weekcalendar.js'></script>
-	<!--<script type='text/javascript' src='../static/demo.js'></script>-->
 
 	<!-- Latest compiled and minified CSS -->
 	<link rel="stylesheet" href="http://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css">
 
-	<!-- jQuery library -->
-	<!-- <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.0/jquery.min.js"></script> -->
-
 	<!-- Latest compiled JavaScript -->
 	<script src="http://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/js/bootstrap.min.js"></script>
+	
+	<style>
+		.info {
+			padding-left: 10px;
+		}
+		p {
+			<!-- margin: 0px; -->
+		}
+		img {
+			margin: 0px;
+		}
+	
+	</style>
 </head>
 
 <body>
@@ -156,7 +163,30 @@
 			</select>
 			<input name="Enter" type="submit" value="Enter"> </input>
 		</form>
+		
+		   
 		<p>{% block content %}
+		<table class="list" border="1">  
+			{% for item in shows %}
+			<tr>
+				<td>
+					<img alt="tv poster" height="150" src="{{item.split(';')[0]}}" width="150">
+				</td>
+				<td class="info">
+					<h3>TV Show Name</h3>
+					<!-- <h3>{{ item.split(';')[1] }}</h3> -->
+					
+					<!-- <br> -->
+					<p><img alt="tv rating" height="15%" src="../static/1.png">1/10</p>
+					<p>genre 1, genre 2</p>
+					<h4>On Network HBO at 9:00</h4>
+				</td>
+			</tr>
+			{% endfor %}
+		</td>
+		{% endblock content %}</p>
+		
+		<!-- <p>{% block content %}
 		<ul class="list">       
 		  {% for item in shows %}
 			<img alt="fantasy game of thrones" height="150" src="{{item.split(';')[0]}}" width="150">
@@ -165,7 +195,7 @@
 			</li>
 		  {% endfor %}
 		</ul>
-		{% endblock content %}</p>
+		{% endblock content %}</p> -->
 		<br>
 		<br>
 
