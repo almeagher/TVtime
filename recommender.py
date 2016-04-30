@@ -37,16 +37,17 @@ class Database:
 	def __init__(self, shows):
 		self.shows = shows
 
-#Given a list of tv show titles, it returns a list of ratings on a 
-#scale of 1-10 from IMDb
-#Example Input: ["Supernatural", "NCIS", "7th Heaven"] 
-#Output: [8.6, 7.9, 5.1] 
-def showRatings(show_list):
+poster_list = []		
+		
+#Given a list of show objects, it returns a list of ratings on a 
+#scale of 1-10 from IMDb and also saves the shows poster in a list
+#of dictionary entries {'showTitle':"posterURL"}
+def showInfo(show_list):
 	rating_list = []
-
+	
 	for show in show_list:
-		showTitle = urllib.quote(show.title)
-		url = 'http://www.omdbapi.com/?t='+showTitle+'&y=&plot=short&r=json'
+		show_title = urllib.quote(show.title)
+		url = 'http://www.omdbapi.com/?t='+show_title+'&y=&plot=short&r=json'
 		request = urllib2.Request(url)
 		request_opener = urllib2.build_opener()
 		response = request_opener.open(request) 
@@ -59,32 +60,17 @@ def showRatings(show_list):
 				rating_list.append(0)	
 		else:
 			rating_list.append(0)
-
-	return rating_list
-		
-# def filter(location, date, startTime, userDuration, database):
-
-def showPoster(show_list):
-	posterlist =[]
-
-	for show in show_list:
-		showTitle = urllib.quote(show.title)
-		url = 'http://www.omdbapi.com/?t='+showTitle+'&y=&plot=short&r=json'
-		request = urllib2.Request(url)
-		request_opener = urllib2.build_opener()
-		response = request_opener.open(request) 
-		response_data = response.read()
-		json_result = json.loads(response_data)
+		dict = {}		
 		if 'Poster' in json_result.keys():
 			if json_result['Poster'] != 'N/A':
-				posterlist.append(str(json_result['Poster']))
+				dict[show.title]=str(json_result['Poster'])
 			else:
-				posterlist.append('http://www.makeupstudio.lu/html/images/poster/no_poster_available.jpg')
+				dict[show.title]='http://www.makeupstudio.lu/html/images/poster/no_poster_available.jpg'
 		else:
-			posterlist.append('http://www.makeupstudio.lu/html/images/poster/no_poster_available.jpg')
+			dict[show.title]='http://www.makeupstudio.lu/html/images/poster/no_poster_available.jpg'
+		poster_list.append(dict)
 
-	return posterlist
-
+	return rating_list
 
 def filter(date, startTime, userDuration, database):
 	tvList = []
@@ -107,7 +93,7 @@ def recommender(user, database):
 	count = 0
 	tvRecommend = []
 
-	ratings = showRatings(database)
+	ratings = showInfo(database)
 	i=0
 	for show in database:
 		if ratings[i] != 0:
@@ -159,10 +145,9 @@ def printTopShows(dShows, fileName):
 			i = i - 1
 		i = i + 1
 		dShows.remove(topShow) 
-	posterList = showPoster(showsList)
 	j=0
 	for show in showsList:
-		finalShowsList.append(posterList[j] + ";" + show.title + " " + str(show.startTime.time()))
+		finalShowsList.append(poster_list[show.title] + ";" + show.title + " " + str(show.startTime.time()))
 		j = j + 1
 	return finalShowsList
 		
