@@ -294,7 +294,7 @@ def calendar():
 		username = session["username"]
 		shows = recommend(username)
 
-		return render_template('calendar.html')
+		return render_template('calendar.html', shows = shows)
 
 	if request.method == 'POST':
 		username = session["username"]
