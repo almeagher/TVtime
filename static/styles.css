@@ -142,14 +142,14 @@ input[type=checkbox] {
 }
  
 .dislikeBox input[type=checkbox] + label{
-	background: url('../static/dislike.png');
+	background: url('../static/dislike.png')no-repeat;
 	height: 16px;
 	width: 16px;
 	display:inline-block;
 	padding: 0 0 0 0px;
 }
 .dislikeBox input[type=checkbox]:checked + label{
-	background: url('../static/dislike_checked.png');
+	background: url('../static/dislike_checked.png')no-repeat;
 	height: 16px;
 	width: 16px;
 	display:inline-block;
@@ -157,7 +157,7 @@ input[type=checkbox] {
 }
 
 .likeBox input[type=checkbox] + label{
-	background: url('../static/like.png');
+	background: url('../static/like.png')no-repeat;
 	height: 16px;
 	width: 16px;
 	display:inline-block;
@@ -165,7 +165,7 @@ input[type=checkbox] {
 }
 
 .likeBox input[type=checkbox]:checked + label{
-	background: url('../static/like_checked.png');
+	background: url('../static/like_checked.png')no-repeat;
 	height: 16px;
 	width: 16px;
 	display:inline-block;

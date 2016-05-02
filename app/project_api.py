@@ -61,7 +61,7 @@ def api_call(api_query):
 	return json_result
 
 def store_api_searches(json_results, output_file):
-	open_output_file = open(output_file, 'a')
+	open_output_file = open(output_file, 'w')
 	count = 0 
 	for result in json_results:
 		open_output_file.write(str(result["showName"].encode("ascii", "ignore")) + ";" + str(result["showType"]) + ";" + str(result["starRating"]) + ";" + result["listDateTime"] + ";" + str(result["duration"]) + ";" +  str(result["stationType"]) + ";" + str(result["callsign"]) + "\n")

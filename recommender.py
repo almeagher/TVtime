@@ -97,10 +97,10 @@ def recommender(user, database):
 	ratings = showInfo(database)
 	i=0
 	for show in database:
-		print show.rating
+		print show.title + str(show.rating)
 		if ratings[i].rating != 0:
 			show.rating = ratings[i].rating
-			print "not 0" + str(show.rating)
+			print "ratings[" + str(i) + "] " + show.title + str(show.rating)
 		
 		show.image = ratings[i].image
 		tvRecommend.append(show)
@@ -111,22 +111,19 @@ def recommender(user, database):
 		for genre in show.genre.split(","):
 			if genre in user.likes:
 				inGenre = True 
-				tvRecommend[i].rating = tvRecommend[i].rating + 1
-				if(tvRecommend[i].rating >= 10):
-					tvRecommend[i].rating = 10
+				tvRecommend[i].rating = tvRecommend[i].rating + 2
 
 		if inGenre == False:
 			for genre in show.genre.split(","):
 				if genre  not in user.likes:
 					tvRecommend[i].rating = tvRecommend[i].rating - 2
-					if(tvRecommend[i].rating <= 0):
-						tvRecommend[i].rating = 0
  
-
+		print "after logic " + tvRecommend[i].title + " " + str(tvRecommend[i].rating)
 		
 		for genre in user.dislikes: # if user dislikes genre, get rid of it in results
 			if genre in show.genre:
-				del tvRecommend[i]
+				print "delete " + tvRecommend[i].title + " " + str(tvRecommend[i].rating)
+				tvRecommend[i].rating = 0
 		i = i + 1
 	
 	
@@ -138,16 +135,30 @@ def recommender(user, database):
 	
 	return tvRecommend
 
-def printTopShows(dShows, fileName):
+def printTopShows(dShows, fileName, user):
 	showsList = []
 	finalShowsList = []
 	#for i in dShows:
 		#print i.rating
 	i = 0
 	while i < min(len(dShows),10):
+		appended = False
 		topShow = max(dShows, key=attrgetter('rating'))
 		if not any(show.title == topShow.title for show in showsList):
-			showsList.append(topShow)
+			for genre in user.likes:
+				if genre in topShow.genre:
+					if appended == False:
+						for innergenre in topShow.genre.split(","):
+							if innergenre in user.likes:
+								topShow.rating = topShow.rating - 2
+						showsList.append(topShow)
+						appended = True
+			if	appended == False:
+				for innergenre in topShow.genre.split(","):
+					if innergenre  not in user.likes:
+						topShow.rating = topShow.rating + 2
+						showsList.append(topShow)
+
 		else:
 			i = i - 1
 		i = i + 1
@@ -187,14 +198,17 @@ def parseUser(username):
 	#userRatings = rawUserRatings.readline().split(';')
 	userRatings = ""
 	rawUserData = userFile.readline().split(';')
-	likes = rawUserData[2].split(',')
-	print len(rawUserData)
-	if(len(rawUserData) <= 4):
-		#rawUserData[3] = datetime.now.strftime("%Y-%m-%d %H:%M:%S")
-		#rawUserData[4] = (datetime.now + 1).strftime("%Y-%m-%d %H:%M:%S")
-		user = User(likes, "", rawUserData[0], rawUserData[1], datetime.now(), (datetime.now() + timedelta(days=1)), userRatings)
+	#rawUserData[3] = datetime.now.strftime("%Y-%m-%d %H:%M:%S")
+	#rawUserData[4] = (datetime.now + 1).strftime("%Y-%m-%d %H:%M:%S")
+	if(len(rawUserData) > 3):
+		likes = rawUserData[2].split(',')
+		dislikes = rawUserData[3].split(',')
+		if(len(rawUserData) <= 5):	
+			user = User(likes, dislikes, rawUserData[0], rawUserData[1], datetime.now(), (datetime.now() + timedelta(days=1)), userRatings)
+		else:
+			user = User(likes, dislikes , rawUserData[0], rawUserData[1], datetime.strptime(rawUserData[4], "%Y-%m-%d %H:%M:%S"), datetime.strptime(rawUserData[5], "%Y-%m-%d %H:%M:%S"), userRatings)
 	else:
-		user = User(likes, "", rawUserData[0], rawUserData[1], datetime.strptime(rawUserData[3], "%Y-%m-%d %H:%M:%S"), datetime.strptime(rawUserData[4], "%Y-%m-%d %H:%M:%S"), userRatings)
+		user = User([], [], rawUserData[0], rawUserData[1], datetime.now(), datetime.now(), userRatings)
 	return user
 	
 
@@ -208,7 +222,7 @@ def recommend(username):
 	validShows = filter(today, user.startTime, ((user.endTime - user.startTime).seconds/60), db)
 	#print validShows
 	recommendedShows = recommender(user, validShows)
-	outputedShows = printTopShows(recommendedShows, fileName)
+	outputedShows = printTopShows(recommendedShows, fileName, user)
 	return outputedShows
 
 @app.route('/test', methods=['POST', 'GET'])
@@ -296,13 +310,18 @@ def calendar():
 		# print str(datetime.today().date()) + request.form['timeFrom']
 		# print str(datetime.today().date()) + request.form['timeTo']
 		userLikes = ""
+		userDislikes = ""
 		for like in user.likes:
 			userLikes = userLikes + like + ','
 		userLikes = userLikes.strip(',')
+		for dislike in user.dislikes:
+			userDislikes = userDislikes + dislike + ','
+		userDislikes = userDislikes.strip(',')
 		userFile = open(username + ".txt",'w')
 		userFile.write(user.location + ';' + user.provider + ';' + userLikes + ';' +
-			str(datetime.today().date()) + " " + request.form['timeFrom'] + ":00" +
-			';' + str(datetime.today().date()) + " " + request.form['timeTo'] +
+			userDislikes + ";" + str(datetime.today().date()) + " " + 
+			request.form['timeFrom'] + ":00" + ';' + str(datetime.today().date()) + 
+			" " + request.form['timeTo'] + 
 			":00" + ';' + "test")		
 		return redirect(url_for('calendar'))
 
@@ -310,6 +329,7 @@ def calendar():
 @app.route('/questionaire', methods=['POST', 'GET'])
 def questionaire():
 	likes = ""
+	dislikes = ""
 	if request.method == 'GET':
 		return render_template('questionaire.html')
 	if request.method == 'POST':
@@ -401,9 +421,105 @@ def questionaire():
 			str(request.form['Checkbox15'])
 			likes += "Sports"
 		except KeyError:
-			likes += "off" 
-		user = open(session["username"] + ".txt", 'a')
-		user.write(likes + ';')
+			likes += "off"
+
+
+		try:
+			str(request.form['Checkbox16'])
+			dislikes += "Action"
+		except KeyError:
+			dislikes += "off"
+		dislikes += ","
+		try:
+			str(request.form['Checkbox17'])
+			dislikes += "Animated"
+		except KeyError:
+			dislikes += "off"
+		dislikes += ","
+		try:
+			str(request.form['Checkbox18'])
+			dislikes += "Business"
+		except KeyError:
+			dislikes += "off"
+		dislikes += ","
+		try:
+			str(request.form['Checkbox19'])
+			dislikes += "Comedy,Sitcom"
+		except KeyError:
+			dislikes += "off"
+		dislikes += ","
+		try:
+			str(request.form['Checkbox20'])
+			dislikes += "Crime"
+		except KeyError:
+			dislikes += "off"
+		dislikes += ","
+		try:
+			str(request.form['Checkbox21'])
+			dislikes += "Drama"
+		except KeyError:
+			dislikes += "off"
+		dislikes += ","
+		try:
+			str(request.form['Checkbox22'])
+			dislikes += "Family"
+		except KeyError:
+			dislikes += "off"
+		dislikes += ","
+		try:
+			str(request.form['Checkbox23'])
+			dislikes += "Fantasy"
+		except KeyError:
+			dislikes += "off"
+		dislikes += ","
+		try:
+			str(request.form['Checkbox24'])
+			dislikes += "Horror"
+		except KeyError:
+			dislikes += "off"
+		dislikes += ","
+		try:
+			str(request.form['Checkbox25'])
+			dislikes += "Children"
+		except KeyError:
+			dislikes += "off"
+		dislikes += ","
+		try:
+			str(request.form['Checkbox26'])
+			dislikes += "News"
+		except KeyError:
+			dislikes += "off"
+		dislikes += ","
+		try:
+			str(request.form['Checkbox27'])
+			dislikes += "Reality TV"
+		except KeyError:
+			dislikes += "off"
+		dislikes += ","
+		try:
+			str(request.form['Checkbox28'])
+			dislikes += "Romance"
+		except KeyError:
+			dislikes += "off"
+		dislikes += ","
+		try:
+			str(request.form['Checkbox29'])
+			dislikes += "Sci-Fi,Science"
+		except KeyError:
+			dislikes += "off"
+		dislikes += ","
+		try:
+			str(request.form['Checkbox30'])
+			dislikes += "Sports"
+		except KeyError:
+			dislikes += "off" 
+
+		username = session["username"]
+		user = parseUser(username)
+
+		userfile = open(username + ".txt", 'w')
+		userfile.write(user.location + ';' + user.provider + ';' + likes + ';' + 
+			dislikes + ";" + user.startTime.strftime("%Y-%m-%d %H:%M:%S") + ";" + user.endTime.strftime("%Y-%m-%d %H:%M:%S") + ";" + "test")
 		return redirect(url_for('calendar'))
 
 @app.route('/importcalendar', methods=['POST', 'GET'])
