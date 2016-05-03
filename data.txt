@@ -996,3 +996,1027 @@ Talking Dead;Talk Shows;0;2016-05-02 07:03:00;59;Cable;AMC
 Top Gear;Documentary;0;2016-05-02 07:04:00;58;Cable;HIST
 Paid Program;Paid Program;0;2016-05-02 07:04:00;30;Cable;LIFE
 Space's Deepest Secrets;Science;0;2016-05-02 07:04:00;60;Cable;SCI
+Local Programming;TBA;0;2016-05-02 10:00:00;360;Broadcast;MNT
+Off Air;Regular;0;2016-05-02 10:00:00;360;Cable;PET
+Center Court;Sports, Tennis;0;2016-05-02 10:00:00;690;Cable;TENN
+Despierta America;News Magazine;0;2016-05-02 11:00:00;240;Broadcast;UNI
+Key Capitol Hill Hearings;Political;0;2016-05-02 12:00:00;360;Cable;CSPAN2
+Local Programming;TBA;0;2016-05-02 12:00:00;600;Network;FOX
+Auto Racing;Sports, Auto Racing;0;2016-05-02 12:00:00;180;Cable;FS1
+Movie;Movies, Drama;3;2016-05-02 12:00:00;180;Cable;SUND
+Movie;Movies, Adventure;3;2016-05-02 12:30:00;180;Cable;SYFY
+Movie;Movies, Action;2;2016-05-02 12:45:00;120;Cable;IFC
+Movie;Movies, Comedy;2;2016-05-02 12:45:00;120;Cable;BSTZ
+Movie;Movies, Adventure;2;2016-05-02 12:55:00;110;Cable;PLEX
+Movie;Movies, Comedy;3;2016-05-02 12:55:00;115;Cable;STZENC
+Squawk on the Street;Business;0;2016-05-02 13:00:00;120;Cable;CNBC
+Football Classics;Sports, Football;0;2016-05-02 13:00:00;120;Cable;ESPNC
+Varney and Company;Discussion;0;2016-05-02 13:00:00;180;Cable;FOXB
+America's Newsroom;News;0;2016-05-02 13:00:00;120;Cable;FNC
+Morning Drive;Sports, Golf;0;2016-05-02 13:00:00;120;Cable;GOLF
+Jewelry TV;Paid Program;0;2016-05-02 13:00:00;720;Broadcast;JTV
+The Dan Patrick Show;Sports, Talk Show;0;2016-05-02 13:00:00;180;Cable;NBCSN
+Softball;Sports, Softball;0;2016-05-02 13:00:00;120;Cable;PAC12
+Market Day Report;Discussion;0;2016-05-02 13:00:00;300;Cable;RFD
+Movie;Movies, Drama;3;2016-05-02 13:00:00;135;Cable;SHO2
+Movie;Movies, Drama;0;2016-05-02 13:00:00;105;Cable;SHO3
+Weather Center Live;Environmental, News;0;2016-05-02 13:00:00;180;Cable;WEA
+Totally '80s;Music;0;2016-05-02 13:00:00;120;Cable;VH1-C
+Movie;Movies, Drama;3;2016-05-02 13:15:00;115;Cable;HBO
+Movie;Movies, Drama;3;2016-05-02 13:15:00;115;Cable;HBOL
+Movie;Movies, Comedy;2;2016-05-02 13:25:00;105;Cable;HBOC
+Movie;Movies, Biography;4;2016-05-02 13:25:00;130;Cable;HBO3
+Movie;Movies, Horror;3;2016-05-02 13:25:00;95;Cable;ZONE
+Movie;Movies, Sci-Fi;2;2016-05-02 13:25:00;115;Cable;RETRO
+Movie;Movies, Comedy;3;2016-05-02 13:25:00;115;Cable;STZECL
+Movie;Movies, Drama;2;2016-05-02 13:30:00;120;Cable;AMC
+Movie;Movies, Drama;4;2016-05-02 13:30:00;120;Cable;FX
+Movie;Movies, Biography;4;2016-05-02 13:30:00;165;;MGMHD
+Movie;Movies, Drama;1;2016-05-02 13:30:00;120;Cable;NEXT
+Movie;Movies, Comedy/Drama;3;2016-05-02 13:30:00;105;Cable;SHO-WE
+Movie;Movies, Suspense;2;2016-05-02 13:30:00;75;Cable;TCM
+Soccer;Sports, Soccer;0;2016-05-02 13:30:00;150;Cable;YES
+Movie;Movies, Action;2;2016-05-02 13:35:00;115;Cable;HBO4
+Movie;Movies, Adventure;2;2016-05-02 13:40:00;110;Cable;SHOFZ
+Movie;Movies, Comedy;2;2016-05-02 13:45:00;105;Cable;MAX1
+Movie;Movies, Sci-Fi;0;2016-05-02 13:45:00;120;Cable;HBO2
+Movie;Movies, Action;0;2016-05-02 13:45:00;105;Cable;TMC
+Movie;Movies, Comedy;3;2016-05-02 13:55:00;110;Cable;MAX2
+Movie;Movies, Comedy;2;2016-05-02 13:56:00;94;Cable;SRZK
+The Real Housewives of Dallas;Reality TV;0;2016-05-02 13:58:00;61;Cable;BRAVO
+Local Programming;TBA;0;2016-05-02 14:00:00;60;Network;ABC
+Nazis: Evolution of Evil;Documentary;0;2016-05-02 14:00:00;60;Cable;AHC
+Animal Cops: Houston;Documentary;0;2016-05-02 14:00:00;60;Cable;ANPL
+Kitchen Nightmares;Reality TV;0;2016-05-02 14:00:00;60;Cable;BBC
+Football Classics;Sports, Football;0;2016-05-02 14:00:00;60;Cable;B10
+Bloomberg Markets;Business, News;0;2016-05-02 14:00:00;60;Cable;BLM-US
+Local Programming;TBA;0;2016-05-02 14:00:00;120;Network;CBS
+Off-Road Racing;Sports, Auto Racing;0;2016-05-02 14:00:00;60;Cable;CBSSN
+House;Drama;0;2016-05-02 14:00:00;60;Cable;CLOO
+Movie;Movies, Adventure;2;2016-05-02 14:00:00;210;Cable;CMTUS
+CNN Newsroom;News Magazine;0;2016-05-02 14:00:00;60;Cable;CNN
+Movie;Movies, Horror;3;2016-05-02 14:00:00;120;Broadcast;Comet
+Movie;Movies, Comedy;0;2016-05-02 14:00:00;120;Cable;COSMO
+Fugitive Chronicles;Reality TV;0;2016-05-02 14:00:00;60;;CIN
+Key Capitol Hill Hearings;Political;0;2016-05-02 14:00:00;240;Cable;CSPAN
+Movie;Movies, Drama;3;2016-05-02 14:00:00;90;Broadcast;Decades
+Fat 'N Furious: Rolling Thunder;Automotive;0;2016-05-02 14:00:00;60;Cable;DISC
+My Shocking Story;Documentary;0;2016-05-02 14:00:00;60;Cable;DFL
+Botched;Reality TV;0;2016-05-02 14:00:00;60;Cable;E!
+SportsCenter;Sports, News;0;2016-05-02 14:00:00;60;Cable;ESPN
+Raza deportiva;Radio, Sports;0;2016-05-02 14:00:00;120;Cable;ESPND
+Mike & Mike;Sports, Discussion, Miscellaneous;0;2016-05-02 14:00:00;180;Cable;ESPNN
+The Dan Le Batard Show;Sports, Discussion, Miscellaneous;0;2016-05-02 14:00:00;180;Cable;ESPNU
+First Take;Sports, Talk Show;0;2016-05-02 14:00:00;120;Cable;ESPN2
+Burn Notice;Drama;0;2016-05-02 14:00:00;60;Cable;ESQTV
+Wake Up in Style;Shopping;0;2016-05-02 14:00:00;60;Cable;EVINE
+Mother Angelica Live Classics;Religious;0;2016-05-02 14:00:00;60;Cable;EWTN
+Movie;Movies, Suspense;2;2016-05-02 14:00:00;120;Cable;FLIX
+Central Fox;Sports, News;0;2016-05-02 14:00:00;60;Cable;FOXD
+Soccer;Sports, Soccer;0;2016-05-02 14:00:00;60;Cable;FSM
+The 700 Club;Religious, Discussion;0;2016-05-02 14:00:00;60;Cable;FREE
+Married at First Sight;Reality TV;0;2016-05-02 14:00:00;60;Cable;FYI
+GAC Music Videos;Music;0;2016-05-02 14:00:00;60;Cable;GAC
+Cuando me enamoro;Soaps;0;2016-05-02 14:00:00;60;Broadcast;GALA
+Home and Family;Talk Shows;0;2016-05-02 14:00:00;120;Cable;HALL
+Diagnosis Murder;Drama;0;2016-05-02 14:00:00;60;Cable;HMC
+Cryptid: The Swamp Beast;Documentary;0;2016-05-02 14:00:00;60;Cable;HIST
+Morning Express With Robin Meade;News;0;2016-05-02 14:00:00;120;Cable;HLN
+Home Solutions;Shopping, Home;0;2016-05-02 14:00:00;60;Broadcast;HSN
+Daniel Boone;Drama;0;2016-05-02 14:00:00;60;Cable;INSP
+20/20;News Magazine;0;2016-05-02 14:00:00;60;Cable;ID
+Numb3rs;Drama;0;2016-05-02 14:00:00;60;Broadcast;ION
+Unsolved Mysteries;Legal;0;2016-05-02 14:00:00;60;Cable;LIFE
+Movie;Movies, Thriller;0;2016-05-02 14:00:00;120;Cable;LMN
+Shot From the Sky;Documentary, Specials;0;2016-05-02 14:00:00;120;;MHC
+MLB Central;Sports, Baseball;0;2016-05-02 14:00:00;180;Cable;MLB
+Horse Racing;Sports, Horse Racing;0;2016-05-02 14:00:00;60;Cable;MSG+
+MSNBC Live;News;0;2016-05-02 14:00:00;60;Cable;MSNBC
+Later With Jools Holland;Talk Shows;0;2016-05-02 14:00:00;60;Cable;MTVL
+Teen Mom OG;Reality TV;0;2016-05-02 14:00:00;60;Cable;MTV
+Wild Justice;Documentary;0;2016-05-02 14:00:00;60;Cable;NGEO
+How Big Can It Get?;Animals;0;2016-05-02 14:00:00;60;Cable;NGW
+Today Show II;Talk Shows;0;2016-05-02 14:00:00;60;Network;NBC
+Larrymania;Reality TV;0;2016-05-02 14:00:00;60;Cable;NBCUN
+NFL HQ;Sports, Football;0;2016-05-02 14:00:00;120;Cable;NFLN
+Dr. Phil;Talk Shows;0;2016-05-02 14:00:00;60;Cable;OWN
+Boston Legal;Drama;0;2016-05-02 14:00:00;60;Cable;OVA
+Global Voices;Documentary;0;2016-05-02 14:00:00;60;Broadcast;World
+Law & Order: Criminal Intent;Drama;0;2016-05-02 14:00:00;60;Broadcast;WPCH
+Friday Night Lights;Drama;0;2016-05-02 14:00:00;60;Cable;PIVOT
+Ghost Whisperer;Drama;0;2016-05-02 14:00:00;60;Cable;POP
+Hollywood Scandals;News Magazine;0;2016-05-02 14:00:00;60;Cable;REELZ
+The Unexplained Files;Sci-Fi;0;2016-05-02 14:00:00;60;Cable;SCI
+Movie;Movies, Western;3;2016-05-02 14:00:00;120;Cable;SILVSC
+World's Wildest Police Videos;Reality TV;0;2016-05-02 14:00:00;60;Cable;SPIKE
+Movie;Movies, Crime Story;3;2016-05-02 14:00:00;115;Cable;STZEBK
+48 Hours: Hard Evidence;Docu-Series;0;2016-05-02 14:00:00;60;Cable;TLC
+Supernatural;Sci-Fi;0;2016-05-02 14:00:00;60;Cable;TNT
+Metropolis;Travel;0;2016-05-02 14:00:00;60;Cable;TRAVEL
+World's Dumbest...;Reality TV;0;2016-05-02 14:00:00;60;Cable;TRUTV-HD
+Fatal Attraction;Documentary;0;2016-05-02 14:00:00;60;Cable;TV1
+Mujer Casos de la Vida Real;Soaps;0;2016-05-02 14:00:00;60;Broadcast;UniME
+NCIS;Drama;0;2016-05-02 14:00:00;60;Cable;USA
+Overhaulin';Automotive;0;2016-05-02 14:00:00;60;Cable;VELO
+Law & Order: Criminal Intent;Drama;0;2016-05-02 14:00:00;60;Cable;WE
+Daytime;News Magazine;0;2016-05-02 14:00:00;60;Broadcast;YOUTOO
+Movie;Movies, Drama;4;2016-05-02 14:05:00;160;Cable;SHOWEX
+Movie;Movies, Action;3;2016-05-02 14:05:00;95;Cable;HBO4
+Movie;Movies, Drama;2;2016-05-02 14:10:00;145;Cable;EDGE
+The Andy Griffith Show;Sitcom;0;2016-05-02 14:12:00;36;Cable;TVLAND
+Movie;Movies, Family;0;2016-05-02 14:15:00;105;Cable;BYND
+Movie;Movies, Action;2;2016-05-02 14:15:00;105;Cable;STZEAC
+Movie;Movies, Sci-Fi;2;2016-05-02 14:15:00;100;Cable;STZESU
+Movie;Movies;2;2016-05-02 14:20:00;75;Cable;CINEL
+Saturday Night Live;Comedy;0;2016-05-02 14:20:00;66;Cable;COMC
+90 in 30;Sports, Soccer;0;2016-05-02 14:25:00;30;Cable;beINS
+Movie;Movies, Drama;2;2016-05-02 14:25:00;115;Cable;INDI
+Storage Wars: Barry's Best Buys;Reality TV;0;2016-05-02 14:30:00;60;Cable;A&E
+Dennis the Menace;Sitcom;0;2016-05-02 14:30:00;30;Broadcast;Antenna
+HARDtalk;Discussion;0;2016-05-02 14:30:00;30;Cable;BBCW
+The Garfield Show;Animated;0;2016-05-02 14:30:00;30;Cable;BOOM
+Looney Tunes;Children;0;2016-05-02 14:30:00;30;Cable;TOON
+The Twilight Zone;Sci-Fi;0;2016-05-02 14:30:00;30;Cable;CHL
+The Deputy;Drama;0;2016-05-02 14:30:00;30;Broadcast;COZI
+Rough Cut: Woodworking With Tommy Mac;Hobbies & Crafts;0;2016-05-02 14:30:00;30;Broadcast;CREATE
+Crazy Talk;Comedy;0;2016-05-02 14:30:00;30;Broadcast;CW+
+Joseph Prince Ministries;Religious;0;2016-05-02 14:30:00;30;Broadcast;DSTAR
+Buying the Beach;Home;0;2016-05-02 14:30:00;30;Cable;DEST
+My Little Pony Friendship Is Magic;Children;0;2016-05-02 14:30:00;30;Cable;DFC
+Doc McStuffins;Animated, Children;0;2016-05-02 14:30:00;30;Cable;DISN
+Phineas and Ferb;Children;0;2016-05-02 14:30:00;30;Cable;DISNXD
+Custom Built;Home;0;2016-05-02 14:30:00;30;Cable;DIY
+Know the Cause;Health;0;2016-05-02 14:30:00;30;Broadcast;FAMUSA
+Benson;Sitcom;0;2016-05-02 14:30:00;30;Broadcast;FAMN
+Secrets of a Restaurant Chef;Food;0;2016-05-02 14:30:00;30;Cable;FOOD
+Fluffy Breaks Even;Comedy;0;2016-05-02 14:30:00;30;Cable;FUSE
+Raising Hope;Sitcom;0;2016-05-02 14:30:00;30;Cable;FXX
+The $25,000 Pyramid;Game Shows;0;2016-05-02 14:30:00;30;Cable;GSN
+The Contenders;Sports, Soccer;0;2016-05-02 14:30:00;30;Cable;GOLTV
+Real Stories of the Highway Patrol;Reality TV;0;2016-05-02 14:30:00;30;Broadcast;H&I
+Happily Ever After;Children;0;2016-05-02 14:30:00;30;Cable;HBOF
+Tiny House Hunters;Home;0;2016-05-02 14:30:00;30;Cable;HGTV
+Mom's Cooking;Food;0;2016-05-02 14:30:00;30;Cable;LIFERW
+The Brady Bunch;Sitcom;0;2016-05-02 14:30:00;30;Cable;LOGO
+El valor de ser abuelo;Religious;0;2016-05-02 14:30:00;60;Cable;MAR
+NY Giants Chronicles;Sports, Football;0;2016-05-02 14:30:00;30;Cable;MSG
+Saved by the Bell;Sitcom;0;2016-05-02 14:30:00;30;Cable;MTV2
+Space Station Live;Science;0;2016-05-02 14:30:00;30;Broadcast;NASA1
+NBA GameTime;Sports, Basketball;0;2016-05-02 14:30:00;30;Cable;NBA
+Team Umizoomi;Children;0;2016-05-02 14:30:00;30;Cable;NTOO
+Team Umizoomi;Children;0;2016-05-02 14:30:00;30;Cable;NICK
+Nicky, Ricky, Dicky & Dawn;Sitcom;0;2016-05-02 14:30:00;30;Cable;NICK
+Alaska Outdoors;Sports, Outdoors;0;2016-05-02 14:30:00;30;Cable;OUT
+My Wife and Kids;Sitcom;0;2016-05-02 14:30:00;30;Cable;OXY
+Peg + Cat;Children, Animated;0;2016-05-02 14:30:00;30;Broadcast;PBSHD
+Mickey's Farm;Children;0;2016-05-02 14:30:00;30;Broadcast;QUBO
+Movie;Movies, Drama;2;2016-05-02 14:30:00;110;Cable;SHO
+Movie;Movies, Drama;4;2016-05-02 14:30:00;110;Cable;CINEMA
+Joseph Prince Ministries;Religious;0;2016-05-02 14:30:00;30;Broadcast;TBN
+The King of Queens;Sitcom;0;2016-05-02 14:30:00;30;Cable;TBS
+HAIS: 2015-2016;Local;0;2016-05-02 14:30:00;30;Cable;TEACH
+Drake & Josh;Children;0;2016-05-02 14:30:00;30;Cable;TNICK
+La casa de al lado;Soaps;0;2016-05-02 14:30:00;90;Broadcast;MUN
+Simply Laura;Food;0;2016-05-02 14:30:00;30;Cable;COOK
+Outdoor Secrets;Sports, Outdoors;0;2016-05-02 14:30:00;30;Cable;TWCS
+Fresh Prince of Bel Air;Sitcom;0;2016-05-02 14:30:00;30;Cable;VH1
+That's Delicious;Food;0;2016-05-02 14:30:00;30;Cable;VICE
+Mi Familia Animal;Animals;0;2016-05-02 14:30:00;15;Broadcast;V-ME
+Movie;Movies, Family;3;2016-05-02 14:32:00;117;Cable;STZEFM
+227;Sitcom;0;2016-05-02 14:33:00;38;;CENT
+Wonder Pets;Children;0;2016-05-02 14:33:00;27;Cable;NICKJ
+Movie;Movies, Action;2;2016-05-02 14:35:00;85;Cable;MAX3
+Handy Manny;Children;0;2016-05-02 14:35:00;25;Cable;DISNJR
+Movie;Movies, Western;1;2016-05-02 14:35:00;95;Cable;STZEWS
+Wild N Out;Comedy;0;2016-05-02 14:40:00;40;Cable;BET
+Movie;Movies, War;3;2016-05-02 14:40:00;125;Cable;FXM
+Movie;Movies, Action;2;2016-05-02 14:40:00;110;Cable;MAX7
+Sydney Sailboat;Children;0;2016-05-02 14:40:00;20;Broadcast;SPRT
+Movie;Movies, Comedy;2;2016-05-02 14:40:00;125;Cable;STARZ
+Movie;Movies, Fantasy;3;2016-05-02 14:40:00;130;Cable;SRZC
+Movie;Movies, Drama;3;2016-05-02 14:40:00;125;Cable;TMCX
+Movie;Movies, Horror;3;2016-05-02 14:45:00;165;Cable;IFC
+Movie;Movies, Drama;3;2016-05-02 14:45:00;115;Cable;PLEX
+Movie;Movies, Drama;0;2016-05-02 14:45:00;90;Cable;SHO3
+Movie;Movies, Drama;2;2016-05-02 14:45:00;120;Cable;BSTZ
+Movie;Movies, Adventure;2;2016-05-02 14:45:00;105;Cable;TCM
+Mouk;Children;0;2016-05-02 14:45:00;15;Broadcast;V-ME
+The Andy Griffith Show;Sitcom;0;2016-05-02 14:48:00;36;Cable;TVLAND
+Movie;Movies, Adventure;3;2016-05-02 14:50:00;100;Cable;STZENC
+Soccer;Sports, Soccer;0;2016-05-02 14:55:00;120;Cable;beINS
+The Real Housewives of Dallas;Reality TV;0;2016-05-02 14:59:00;61;Cable;BRAVO
+The View;Talk Shows;0;2016-05-02 15:00:00;60;Network;ABC
+Nazis: Evolution of Evil;Documentary;0;2016-05-02 15:00:00;60;Cable;AHC
+Animal Cops: Houston;Documentary;0;2016-05-02 15:00:00;60;Cable;ANPL
+Leave It to Beaver;Sitcom;0;2016-05-02 15:00:00;30;Broadcast;Antenna
+Star Trek: The Next Generation;Sci-Fi;0;2016-05-02 15:00:00;60;Cable;BBC
+Global;News;0;2016-05-02 15:00:00;30;Cable;BBCW
+Football Classics;Sports, Football;0;2016-05-02 15:00:00;60;Cable;B10
+Bloomberg Markets: European Close;Business;0;2016-05-02 15:00:00;60;Cable;BLM-US
+Shaun the Sheep;Children;0;2016-05-02 15:00:00;30;Cable;BOOM
+Looney Tunes;Children;0;2016-05-02 15:00:00;30;Cable;TOON
+Boomer and Carton;Sports, Miscellaneous;0;2016-05-02 15:00:00;240;Cable;CBSSN
+The Twilight Zone;Sci-Fi;0;2016-05-02 15:00:00;30;Cable;CHL
+House;Drama;0;2016-05-02 15:00:00;60;Cable;CLOO
+Squawk Alley;Business;0;2016-05-02 15:00:00;60;Cable;CNBC
+At This Hour With Berman and Bolduan;News;0;2016-05-02 15:00:00;60;Cable;CNN
+The Lone Ranger;Drama;0;2016-05-02 15:00:00;30;Broadcast;COZI
+P. Allen Smith's Garden Home;Home;0;2016-05-02 15:00:00;30;Broadcast;CREATE
+Bordertown: Laredo;Reality TV;0;2016-05-02 15:00:00;30;;CIN
+Cheaters;Reality TV;0;2016-05-02 15:00:00;30;Broadcast;CW+
+It's Supernatural With Sid Roth;Religious;0;2016-05-02 15:00:00;30;Broadcast;DSTAR
+Buying the Beach;Home;0;2016-05-02 15:00:00;30;Cable;DEST
+Fast N' Loud;Automotive;0;2016-05-02 15:00:00;60;Cable;DISC
+My Little Pony Friendship Is Magic;Children;0;2016-05-02 15:00:00;30;Cable;DFC
+Emergency Room: Life and Death at VGH;Documentary;0;2016-05-02 15:00:00;60;Cable;DFL
+Sheriff Callie's Wild West;Children;0;2016-05-02 15:00:00;30;Cable;DISN
+Kate and Mim-Mim;Children;0;2016-05-02 15:00:00;30;Cable;DISNJR
+The 7D;Animals;0;2016-05-02 15:00:00;30;Cable;DISNXD
+Texas Flip and Move;Home;0;2016-05-02 15:00:00;60;Cable;DIY
+Keeping Up With the Kardashians;Reality TV;0;2016-05-02 15:00:00;60;Cable;E!
+SportsCenter;Sports, News;0;2016-05-02 15:00:00;60;Cable;ESPN
+Football Classics;Sports, Football;0;2016-05-02 15:00:00;120;Cable;ESPNC
+Burn Notice;Drama;0;2016-05-02 15:00:00;60;Cable;ESQTV
+Oso Casuals;Shopping;0;2016-05-02 15:00:00;60;Cable;EVINE
+Women of Grace;Religious;0;2016-05-02 15:00:00;30;Cable;EWTN
+Your Health;Health, Discussion;0;2016-05-02 15:00:00;60;Broadcast;FAMUSA
+Barney Miller;Sitcom;0;2016-05-02 15:00:00;30;Broadcast;FAMN
+Cupcake Wars;Food;0;2016-05-02 15:00:00;60;Cable;FOOD
+La Ultima Palabra;Sports, News, Soccer;0;2016-05-02 15:00:00;60;Cable;FOXD
+Happening Now;News;0;2016-05-02 15:00:00;60;Cable;FNC
+NASCAR Victory Lane;Sports, Auto Racing;0;2016-05-02 15:00:00;30;Cable;FS1
+Halls of Fame;Sports, Miscellaneous;0;2016-05-02 15:00:00;30;Cable;FSM
+Last Man Standing;Sitcom;0;2016-05-02 15:00:00;30;Cable;FREE
+Bondi Ink Tattoo Crew;Reality TV;0;2016-05-02 15:00:00;60;Cable;FUSE
+Raising Hope;Sitcom;0;2016-05-02 15:00:00;30;Cable;FXX
+Food Factory;Food;0;2016-05-02 15:00:00;30;Cable;FYI
+GAC Music Videos;Music;0;2016-05-02 15:00:00;60;Cable;GAC
+Tras la Verdad;News Magazine;0;2016-05-02 15:00:00;60;Broadcast;GALA
+Lingo;Game Shows;0;2016-05-02 15:00:00;30;Cable;GSN
+Soccer;Sports, Soccer;0;2016-05-02 15:00:00;120;Cable;GOLTV
+Golf;Sports, Golf;0;2016-05-02 15:00:00;150;Cable;GOLF
+Renegade;Drama;0;2016-05-02 15:00:00;60;Broadcast;H&I
+Diagnosis Murder;Drama;0;2016-05-02 15:00:00;60;Cable;HMC
+Movie;Movies, Family;2;2016-05-02 15:00:00;95;Cable;HBOF
+Movie;Movies, Thriller;2;2016-05-02 15:00:00;100;Cable;ZONE
+Tiny House Hunters;Home;0;2016-05-02 15:00:00;30;Cable;HGTV
+Cryptid: The Swamp Beast;Documentary;0;2016-05-02 15:00:00;60;Cable;HIST
+Michael Anthony Jewelry;Shopping;0;2016-05-02 15:00:00;60;Broadcast;HSN
+Daniel Boone;Drama;0;2016-05-02 15:00:00;60;Cable;INSP
+Bad Blood;Docu-Series;0;2016-05-02 15:00:00;30;Cable;ID
+Criminal Minds: Suspect Behavior;Drama;0;2016-05-02 15:00:00;60;Broadcast;ION
+Unsolved Mysteries;Legal;0;2016-05-02 15:00:00;60;Cable;LIFE
+Cook Yourself Thin;Food;0;2016-05-02 15:00:00;30;Cable;LIFERW
+The Brady Bunch;Sitcom;0;2016-05-02 15:00:00;30;Cable;LOGO
+The Garden's Defining Moments;Sports, Miscellaneous;0;2016-05-02 15:00:00;30;Cable;MSG
+Poker;Sports, Cards;0;2016-05-02 15:00:00;60;Cable;MSG+
+MSNBC Live;News;0;2016-05-02 15:00:00;60;Cable;MSNBC
+Saved by the Bell;Sitcom;0;2016-05-02 15:00:00;35;Cable;MTV2
+MTV World Stage;Music;0;2016-05-02 15:00:00;30;Cable;MTVL
+Teen Mom OG;Reality TV;0;2016-05-02 15:00:00;70;Cable;MTV
+Space Station Live;Science;0;2016-05-02 15:00:00;30;Broadcast;NASA1
+Wild Justice;Documentary;0;2016-05-02 15:00:00;60;Cable;NGEO
+Hogzilla;Documentary;0;2016-05-02 15:00:00;60;Cable;NGW
+Playoff Playback;Sports, Basketball;0;2016-05-02 15:00:00;60;Cable;NBA
+Today Show III;Talk Shows;0;2016-05-02 15:00:00;60;Network;NBC
+12 corazones;Game Shows;0;2016-05-02 15:00:00;60;Cable;NBCUN
+Wonder Pets;Children;0;2016-05-02 15:00:00;27;Cable;NICKJ
+Bubble Guppies;Children;0;2016-05-02 15:00:00;30;Cable;NTOO
+Bubble Guppies;Children;0;2016-05-02 15:00:00;30;Cable;NICK
+Bella and the Bulldogs;Sitcom;0;2016-05-02 15:00:00;30;Cable;NICK
+Dr. Phil;Talk Shows;0;2016-05-02 15:00:00;60;Cable;OWN
+Eastman's Hunting TV;Sports, Outdoors;0;2016-05-02 15:00:00;30;Cable;OUT
+Boston Legal;Drama;0;2016-05-02 15:00:00;60;Cable;OVA
+My Wife and Kids;Sitcom;0;2016-05-02 15:00:00;30;Cable;OXY
+Softball;Sports, Softball;0;2016-05-02 15:00:00;120;Cable;PAC12
+Dinosaur Train;Children;0;2016-05-02 15:00:00;30;Broadcast;PBSHD
+Independent Lens;Documentary;0;2016-05-02 15:00:00;60;Broadcast;World
+Law & Order: Criminal Intent;Drama;0;2016-05-02 15:00:00;60;Broadcast;WPCH
+Angry Planet;Environmental;0;2016-05-02 15:00:00;30;Cable;PIVOT
+Ghost Whisperer;Drama;0;2016-05-02 15:00:00;60;Cable;POP
+Timothy Goes to School;Children;0;2016-05-02 15:00:00;30;Broadcast;QUBO
+Celebrity Damage Control;News Magazine;0;2016-05-02 15:00:00;60;Cable;REELZ
+The Unexplained Files;Sci-Fi;0;2016-05-02 15:00:00;60;Cable;SCI
+Cops;Reality TV;0;2016-05-02 15:00:00;30;Cable;SPIKE
+Ruff-Ruff, Tweet & Dave;Children;0;2016-05-02 15:00:00;19;Broadcast;SPRT
+Movie;Movies, Drama;3;2016-05-02 15:00:00;150;Cable;SUND
+Kenneth Copeland Ministries;Religious;0;2016-05-02 15:00:00;30;Broadcast;TBN
+The Cleveland Show;Animated;0;2016-05-02 15:00:00;30;Cable;TBS
+Hawaii Voices of Civil Rights;Instructional;0;2016-05-02 15:00:00;35;Cable;TEACH
+Ned's Declassified School Survival Guide;Children;0;2016-05-02 15:00:00;30;Cable;TNICK
+Brunch @ Bobby's;Food;0;2016-05-02 15:00:00;30;Cable;COOK
+Rush Outdoors;Sports, Outdoors;0;2016-05-02 15:00:00;30;Cable;TWCS
+48 Hours: Hard Evidence;Docu-Series;0;2016-05-02 15:00:00;60;Cable;TLC
+Supernatural;Sci-Fi;0;2016-05-02 15:00:00;60;Cable;TNT
+Bizarre Foods America;Food;0;2016-05-02 15:00:00;60;Cable;TRAVEL
+World's Dumbest...;Reality TV;0;2016-05-02 15:00:00;60;Cable;TRUTV-HD
+Fatal Attraction;Documentary;0;2016-05-02 15:00:00;60;Cable;TV1
+Laura;Talk Shows;0;2016-05-02 15:00:00;60;Broadcast;UniME
+Como dice el dicho;Drama;0;2016-05-02 15:00:00;60;Broadcast;UNI
+NCIS;Drama;0;2016-05-02 15:00:00;60;Cable;USA
+Fantomworks;Documentary;0;2016-05-02 15:00:00;60;Cable;VELO
+Fresh Prince of Bel Air;Sitcom;0;2016-05-02 15:00:00;30;Cable;VH1
+Metal Mania;Music;0;2016-05-02 15:00:00;120;Cable;VH1-C
+NOISEY;Music;0;2016-05-02 15:00:00;60;Cable;VICE
+Plaza Ssamo;Children;0;2016-05-02 15:00:00;30;Broadcast;V-ME
+Law & Order: Criminal Intent;Drama;0;2016-05-02 15:00:00;60;Cable;WE
+Sully's Biz Brew;News Magazine;0;2016-05-02 15:00:00;60;Broadcast;YOUTOO
+Movie;Movies, Drama;2;2016-05-02 15:10:00;125;Cable;HBO
+HBO Comedy Half Hour;Comedy;0;2016-05-02 15:10:00;30;Cable;HBOC
+Movie;Movies, Drama;2;2016-05-02 15:10:00;125;Cable;HBOL
+227;Sitcom;0;2016-05-02 15:11:00;38;;CENT
+Movie;Movies, Drama;0;2016-05-02 15:15:00;105;Cable;SHO2
+Movie;Movies, Drama;3;2016-05-02 15:15:00;135;Cable;SHO-WE
+Chloe's Closet;Children;0;2016-05-02 15:19:00;18;Broadcast;SPRT
+Wild N Out;Comedy;0;2016-05-02 15:20:00;40;Cable;BET
+Movie;Movies, Comedy;4;2016-05-02 15:20:00;100;Cable;RETRO
+Movie;Movies, Drama;2;2016-05-02 15:20:00;110;Cable;STZECL
+The Andy Griffith Show;Sitcom;0;2016-05-02 15:24:00;36;Cable;TVLAND
+Saturday Night Live;Comedy;0;2016-05-02 15:26:00;67;Cable;COMC
+Little Charmers;Children;0;2016-05-02 15:27:00;28;Cable;NICKJ
+Duck Dynasty;Reality TV;0;2016-05-02 15:30:00;30;Cable;A&E
+Movie;Movies, Horror;3;2016-05-02 15:30:00;150;Cable;AMC
+Leave It to Beaver;Sitcom;0;2016-05-02 15:30:00;30;Broadcast;Antenna
+Global;News;0;2016-05-02 15:30:00;30;Cable;BBCW
+Looney Tunes;Children;0;2016-05-02 15:30:00;30;Cable;BOOM
+Tom & Jerry;Children, Animated;0;2016-05-02 15:30:00;30;Cable;TOON
+The Twilight Zone;Sci-Fi;0;2016-05-02 15:30:00;30;Cable;CHL
+Movie;Movies, Comedy;3;2016-05-02 15:30:00;110;Cable;MAX1
+The Lone Ranger;Drama;0;2016-05-02 15:30:00;30;Broadcast;COZI
+Start Up;Business;0;2016-05-02 15:30:00;30;Broadcast;CREATE
+Bordertown: Laredo;Reality TV;0;2016-05-02 15:30:00;30;;CIN
+Cheaters;Reality TV;0;2016-05-02 15:30:00;30;Broadcast;CW+
+Enjoying Everyday Life With Joyce Meyer;Religious;0;2016-05-02 15:30:00;30;Broadcast;DSTAR
+The Untouchables;Drama;0;2016-05-02 15:30:00;60;Broadcast;Decades
+Buying the Beach;Home;0;2016-05-02 15:30:00;30;Cable;DEST
+My Little Pony Friendship Is Magic;Children;0;2016-05-02 15:30:00;30;Cable;DFC
+Mickey Mouse Clubhouse;Children;0;2016-05-02 15:30:00;30;Cable;DISN
+Jake and the Never Land Pirates;Animated;0;2016-05-02 15:30:00;30;Cable;DISNJR
+The 7D;Animals;0;2016-05-02 15:30:00;30;Cable;DISNXD
+The Holy Rosary With Mother Angelica;Religious;0;2016-05-02 15:30:00;30;Cable;EWTN
+Barney Miller;Sitcom;0;2016-05-02 15:30:00;30;Broadcast;FAMN
+TMZ Sports;News Magazine;0;2016-05-02 15:30:00;30;Cable;FS1
+The Game 365;Sports, Miscellaneous;0;2016-05-02 15:30:00;30;Cable;FSM
+Last Man Standing;Sitcom;0;2016-05-02 15:30:00;30;Cable;FREE
+How I Met Your Mother;Sitcom;0;2016-05-02 15:30:00;30;Cable;FX
+Raising Hope;Sitcom;0;2016-05-02 15:30:00;30;Cable;FXX
+Food Factory;Food;0;2016-05-02 15:30:00;30;Cable;FYI
+Lingo;Game Shows;0;2016-05-02 15:30:00;30;Cable;GSN
+Tiny House Hunters;Home;0;2016-05-02 15:30:00;30;Cable;HGTV
+Bad Blood;Docu-Series;0;2016-05-02 15:30:00;30;Cable;ID
+Cook Yourself Thin;Food;0;2016-05-02 15:30:00;30;Cable;LIFERW
+The Brady Bunch;Sitcom;0;2016-05-02 15:30:00;30;Cable;LOGO
+Para ser anunciado;TBA;0;2016-05-02 15:30:00;30;Cable;MAR
+Movie;Movies, Drama;2;2016-05-02 15:30:00;105;Cable;HBO4
+The Garden's Defining Moments;Sports, Miscellaneous;0;2016-05-02 15:30:00;30;Cable;MSG
+MTV World Stage;Music;0;2016-05-02 15:30:00;30;Cable;MTVL
+Space Station Live;Science;0;2016-05-02 15:30:00;30;Broadcast;NASA1
+PAW Patrol;Animated;0;2016-05-02 15:30:00;30;Cable;NTOO
+PAW Patrol;Animated;0;2016-05-02 15:30:00;30;Cable;NICK
+Bella and the Bulldogs;Sitcom;0;2016-05-02 15:30:00;30;Cable;NICK
+Hunt Masters;Sports, Hunting;0;2016-05-02 15:30:00;30;Cable;OUT
+My Wife and Kids;Sitcom;0;2016-05-02 15:30:00;30;Cable;OXY
+Dinosaur Train;Children;0;2016-05-02 15:30:00;30;Broadcast;PBSHD
+Secret Lives of Americans;Documentary;0;2016-05-02 15:30:00;30;Cable;PIVOT
+Timothy Goes to School;Children;0;2016-05-02 15:30:00;30;Broadcast;QUBO
+Movie;Movies, Drama;0;2016-05-02 15:30:00;125;Cable;SHOFZ
+Movie;Movies, Western;0;2016-05-02 15:30:00;105;Cable;NEXT
+Jail;Reality TV;0;2016-05-02 15:30:00;30;Cable;SPIKE
+Movie;Movies, Comedy/Drama;3;2016-05-02 15:30:00;100;Cable;SRZK
+Movie;Movies, Action;0;2016-05-02 15:30:00;120;Cable;SYFY
+Kerry Shook;Religious;0;2016-05-02 15:30:00;30;Broadcast;TBN
+The Cleveland Show;Animated;0;2016-05-02 15:30:00;30;Cable;TBS
+Ned's Declassified School Survival Guide;Children;0;2016-05-02 15:30:00;30;Cable;TNICK
+Mexican Made Easy;Food;0;2016-05-02 15:30:00;30;Cable;COOK
+Sled Head 24/7;Sports, Winter Sports;0;2016-05-02 15:30:00;30;Cable;TWCS
+Movie;Movies, Biography;3;2016-05-02 15:30:00;120;Cable;TMC
+Fresh Prince of Bel Air;Sitcom;0;2016-05-02 15:30:00;30;Cable;VH1
+Los Pies Mgicos de Franny;Children;0;2016-05-02 15:30:00;30;Broadcast;V-ME
+Movie;Movies;2;2016-05-02 15:35:00;140;Cable;CINEL
+Movie;Movies, Comedy;2;2016-05-02 15:35:00;105;Cable;HBO3
+Saved by the Bell;Sitcom;0;2016-05-02 15:35:00;35;Cable;MTV2
+Circle Island;Business;0;2016-05-02 15:35:00;25;Cable;TEACH
+The Chica Show;Children;0;2016-05-02 15:37:00;23;Broadcast;SPRT
+Movie;Movies, Comedy;2;2016-05-02 15:40:00;105;Cable;HBOC
+Movie;Movies, Action;4;2016-05-02 15:40:00;105;Cable;HBO4
+Movie;Movies, Comedy;0;2016-05-02 15:45:00;105;Cable;HBO2
+Movie;Movies, Comedy;2;2016-05-02 15:45:00;95;Cable;MAX2
+227;Sitcom;0;2016-05-02 15:49:00;38;;CENT
+Winx Club;Children;0;2016-05-02 15:55:00;27;Cable;NICKJ
+Movie;Movies, Drama;3;2016-05-02 15:55:00;110;Cable;STZEBK
+Movie;Movies, Action;2;2016-05-02 15:55:00;125;Cable;STZESU
+Duck Dynasty;Reality TV;0;2016-05-02 16:00:00;30;Cable;A&E
+Local Programming;TBA;0;2016-05-02 16:00:00;60;Network;ABC
+Movie;Movies, Action;4;2016-05-02 16:00:00;90;Cable;MAX3
+Nazis: Evolution of Evil;Documentary;0;2016-05-02 16:00:00;60;Cable;AHC
+Pit Bulls and Parolees;Animals;0;2016-05-02 16:00:00;60;Cable;ANPL
+Bewitched;Sitcom;0;2016-05-02 16:00:00;30;Broadcast;Antenna
+Star Trek: The Next Generation;Sci-Fi;0;2016-05-02 16:00:00;60;Cable;BBC
+Global;News;0;2016-05-02 16:00:00;30;Cable;BBCW
+Movie;Movies, Action;2;2016-05-02 16:00:00;180;Cable;BET
+Football Classics;Sports, Football;0;2016-05-02 16:00:00;60;Cable;B10
+Bloomberg Markets;Business, News;0;2016-05-02 16:00:00;120;Cable;BLM-US
+Looney Tunes;Children;0;2016-05-02 16:00:00;30;Cable;BOOM
+The Real Housewives of Dallas;Reality TV;0;2016-05-02 16:00:00;60;Cable;BRAVO
+Tom & Jerry;Children, Animated;0;2016-05-02 16:00:00;30;Cable;TOON
+The Price Is Right;Game Shows;0;2016-05-02 16:00:00;60;Network;CBS
+The Twilight Zone;Sci-Fi;0;2016-05-02 16:00:00;30;Cable;CHL
+House;Drama;0;2016-05-02 16:00:00;60;Cable;CLOO
+Fast Money Halftime Report;Business;0;2016-05-02 16:00:00;60;Cable;CNBC
+Legal View With Ashleigh Banfield;Legal;0;2016-05-02 16:00:00;60;Cable;CNN
+Stargate: SG-1;Sci-Fi;0;2016-05-02 16:00:00;60;Broadcast;Comet
+Rules of Engagement;Sitcom;0;2016-05-02 16:00:00;30;Cable;COSMO
+Adam 12;Drama;0;2016-05-02 16:00:00;30;Broadcast;COZI
+Fons & Porter's Love of Quilting;Hobbies & Crafts;0;2016-05-02 16:00:00;30;Broadcast;CREATE
+Cajun Justice;Reality TV;0;2016-05-02 16:00:00;30;;CIN
+Paid Program;Paid Program;0;2016-05-02 16:00:00;30;Broadcast;CW+
+Washington: A Man of Prayer;Religious;0;2016-05-02 16:00:00;60;Broadcast;DSTAR
+A Haunting;New Age;0;2016-05-02 16:00:00;60;Cable;DEST
+Fast N' Loud;Automotive;0;2016-05-02 16:00:00;60;Cable;DISC
+Littlest Pet Shop;Children;0;2016-05-02 16:00:00;30;Cable;DFC
+Emergency Room: Life and Death at VGH;Documentary;0;2016-05-02 16:00:00;60;Cable;DFL
+PJ Masks;Animated;0;2016-05-02 16:00:00;30;Cable;DISN
+Jake and the Never Land Pirates;Animated;0;2016-05-02 16:00:00;30;Cable;DISNJR
+Marvel's Ultimate Spider-Man: Web Warriors;Animated;0;2016-05-02 16:00:00;30;Cable;DISNXD
+Texas Flip and Move;Home;0;2016-05-02 16:00:00;60;Cable;DIY
+Keeping Up With the Kardashians;Reality TV;0;2016-05-02 16:00:00;60;Cable;E!
+SportsCenter;Sports, News;0;2016-05-02 16:00:00;90;Cable;ESPN
+Redes;Regular;0;2016-05-02 16:00:00;60;Cable;ESPND
+His & Hers;Sports, Talk Show;0;2016-05-02 16:00:00;60;Cable;ESPN2
+CSI: Crime Scene Investigation;Drama;0;2016-05-02 16:00:00;60;Cable;ESQTV
+V. by Vanessa Williams Fashion;Shopping;0;2016-05-02 16:00:00;60;Cable;EVINE
+Daily Mass;Religious;0;2016-05-02 16:00:00;60;Cable;EWTN
+Crosswords;Game Shows;0;2016-05-02 16:00:00;30;Broadcast;FAMUSA
+Charlie's Angels;Drama;0;2016-05-02 16:00:00;60;Broadcast;FAMN
+Movie;Movies, Thriller;2;2016-05-02 16:00:00;120;Cable;FLIX
+Chopped;Food;0;2016-05-02 16:00:00;60;Cable;FOOD
+Cavuto: Coast to Coast;Business;0;2016-05-02 16:00:00;120;Cable;FOXB
+Central Fox;Sports, News;0;2016-05-02 16:00:00;60;Cable;FOXD
+Outnumbered;News Magazine;0;2016-05-02 16:00:00;60;Cable;FNC
+The Herd;Sports, Discussion, Miscellaneous;0;2016-05-02 16:00:00;120;Cable;FS1
+Blues Live Post-game;Sports, Hockey;0;2016-05-02 16:00:00;30;Cable;FSM
+Last Man Standing;Sitcom;0;2016-05-02 16:00:00;30;Cable;FREE
+Bondi Ink Tattoo Crew;Reality TV;0;2016-05-02 16:00:00;60;Cable;FUSE
+How I Met Your Mother;Sitcom;0;2016-05-02 16:00:00;30;Cable;FX
+Raising Hope;Sitcom;0;2016-05-02 16:00:00;30;Cable;FXX
+Food Factory;Food;0;2016-05-02 16:00:00;30;Cable;FYI
+Great American Playlist;Music;0;2016-05-02 16:00:00;60;Cable;GAC
+Recuerda y gana;Regular;0;2016-05-02 16:00:00;60;Broadcast;GALA
+Family Feud;Game Shows;0;2016-05-02 16:00:00;30;Cable;GSN
+Renegade;Drama;0;2016-05-02 16:00:00;60;Broadcast;H&I
+Home and Family;Talk Shows;0;2016-05-02 16:00:00;120;Cable;HALL
+Diagnosis Murder;Drama;0;2016-05-02 16:00:00;60;Cable;HMC
+Love It or List It;Home;0;2016-05-02 16:00:00;60;Cable;HGTV
+Bigfoot: The Definitive Guide;Documentary;0;2016-05-02 16:00:00;120;Cable;HIST
+The Daily Share;News;0;2016-05-02 16:00:00;120;Cable;HLN
+Michael Anthony Jewelry;Shopping;0;2016-05-02 16:00:00;60;Broadcast;HSN
+Bonanza;Drama;0;2016-05-02 16:00:00;60;Cable;INSP
+Bad Blood;Docu-Series;0;2016-05-02 16:00:00;30;Cable;ID
+Criminal Minds;Drama;0;2016-05-02 16:00:00;60;Broadcast;ION
+How I Met Your Mother;Sitcom, Christmas;0;2016-05-02 16:00:00;30;Cable;LIFE
+The Main Ingredient With Bobby Flay;Food;0;2016-05-02 16:00:00;30;Cable;LIFERW
+Movie;Movies, Drama;2;2016-05-02 16:00:00;120;Cable;LMN
+The Brady Bunch;Sitcom;0;2016-05-02 16:00:00;30;Cable;LOGO
+Cadena de amor;Religious;0;2016-05-02 16:00:00;60;Cable;MAR
+Modern Marvels;Science;0;2016-05-02 16:00:00;60;;MHC
+Local Programming;TBA;0;2016-05-02 16:00:00;360;Broadcast;MNT
+The Garden Transformed;Sports, Miscellaneous;0;2016-05-02 16:00:00;30;Cable;MSG
+Soccer;Sports, Soccer;0;2016-05-02 16:00:00;120;Cable;MSG+
+MSNBC Live;News;0;2016-05-02 16:00:00;60;Cable;MSNBC
+MTV World Stage;Music;0;2016-05-02 16:00:00;60;Cable;MTVL
+NASA Television Video File;Discussion;0;2016-05-02 16:00:00;60;Broadcast;NASA1
+Wild Justice;Documentary;0;2016-05-02 16:00:00;60;Cable;NGEO
+Caught in the Act;Animals;0;2016-05-02 16:00:00;60;Cable;NGW
+Playoff Playback;Sports, Basketball;0;2016-05-02 16:00:00;60;Cable;NBA
+Local Programming;TBA;0;2016-05-02 16:00:00;60;Network;NBC
+Premier League Match of the Week;Sports, Soccer;0;2016-05-02 16:00:00;120;Cable;NBCSN
+Larrymania;Reality TV;0;2016-05-02 16:00:00;60;Cable;NBCUN
+NFL HQ;Sports, Football;0;2016-05-02 16:00:00;120;Cable;NFLN
+Shimmer and Shine;Children;0;2016-05-02 16:00:00;30;Cable;NTOO
+Shimmer and Shine;Children;0;2016-05-02 16:00:00;30;Cable;NICK
+Max and Shred;Children;0;2016-05-02 16:00:00;30;Cable;NICK
+Dr. Phil;Talk Shows;0;2016-05-02 16:00:00;60;Cable;OWN
+Fear No Evil;Sports, Outdoors;0;2016-05-02 16:00:00;30;Cable;OUT
+Boston Legal;Drama;0;2016-05-02 16:00:00;60;Cable;OVA
+My Wife and Kids;Sitcom;0;2016-05-02 16:00:00;45;Cable;OXY
+Super WHY!;Children;0;2016-05-02 16:00:00;30;Broadcast;PBSHD
+Tavis Smiley;Talk Shows;0;2016-05-02 16:00:00;30;Broadcast;World
+Hot Bench;Legal;0;2016-05-02 16:00:00;30;Broadcast;WPCH
+Off Air;Regular;0;2016-05-02 16:00:00;360;Cable;PET
+Veronica Mars;Drama;0;2016-05-02 16:00:00;60;Cable;PIVOT
+Beverly Hills 90210;Drama;0;2016-05-02 16:00:00;60;Cable;POP
+Harry and His Bucket Full of Dinosaurs;Children;0;2016-05-02 16:00:00;30;Broadcast;QUBO
+Snapped;Biography;0;2016-05-02 16:00:00;60;Cable;REELZ
+The Unexplained Files;Sci-Fi;0;2016-05-02 16:00:00;60;Cable;SCI
+Movie;Movies, Thriller;0;2016-05-02 16:00:00;90;Cable;BYND
+Dragnet;Drama;0;2016-05-02 16:00:00;30;Cable;SILVSC
+Jail;Reality TV;0;2016-05-02 16:00:00;30;Cable;SPIKE
+Caillou;Children, Animated;0;2016-05-02 16:00:00;30;Broadcast;SPRT
+Movie;Movies, Sci-Fi;3;2016-05-02 16:00:00;140;Cable;STZEAC
+Steven Furtick;Religious;0;2016-05-02 16:00:00;30;Broadcast;TBN
+Seinfeld;Sitcom;0;2016-05-02 16:00:00;30;Cable;TBS
+NASA Aerospace Week;Science;0;2016-05-02 16:00:00;60;Cable;TEACH
+Ned's Declassified School Survival Guide;Children;0;2016-05-02 16:00:00;30;Cable;TNICK
+Secretos peligrosos;Regular;0;2016-05-02 16:00:00;60;Broadcast;MUN
+Not My Mama's Meals;Food;0;2016-05-02 16:00:00;30;Cable;COOK
+Weather Center Live;Environmental, News;0;2016-05-02 16:00:00;180;Cable;WEA
+Poker;Sports, Cards;0;2016-05-02 16:00:00;60;Cable;TWCS
+48 Hours: Hard Evidence;Docu-Series;0;2016-05-02 16:00:00;60;Cable;TLC
+Supernatural;Sci-Fi;0;2016-05-02 16:00:00;60;Cable;TNT
+Bizarre Foods America;Food;0;2016-05-02 16:00:00;60;Cable;TRAVEL
+World's Dumbest...;Reality TV;0;2016-05-02 16:00:00;60;Cable;TRUTV-HD
+Bonanza;Drama;0;2016-05-02 16:00:00;60;Cable;TVLAND
+Fatal Attraction;Documentary;0;2016-05-02 16:00:00;60;Cable;TV1
+Laura;Talk Shows;0;2016-05-02 16:00:00;60;Broadcast;UniME
+Amores Verdaderos;Drama;0;2016-05-02 16:00:00;60;Broadcast;UNI
+NCIS;Drama;0;2016-05-02 16:00:00;60;Cable;USA
+Overhaulin';Automotive;0;2016-05-02 16:00:00;60;Cable;VELO
+Love and Hip-Hop: Atlanta;Reality TV;0;2016-05-02 16:00:00;60;Cable;VH1
+NOISEY;Music;0;2016-05-02 16:00:00;60;Cable;VICE
+Exploradores Espaciales;Regular;0;2016-05-02 16:00:00;15;Broadcast;V-ME
+Law & Order: Criminal Intent;Drama;0;2016-05-02 16:00:00;60;Cable;WE
+The Joe Girardi Show;Sports, Baseball;0;2016-05-02 16:00:00;30;Cable;YES
+The Balancing Act;Talk Shows;0;2016-05-02 16:00:00;30;Broadcast;YOUTOO
+Saved by the Bell;Sitcom;0;2016-05-02 16:10:00;35;Cable;MTV2
+Teen Mom OG;Reality TV;0;2016-05-02 16:10:00;70;Cable;MTV
+Movie;Movies, Western;3;2016-05-02 16:10:00;110;Cable;STZEWS
+Movie;Movies, Musical;2;2016-05-02 16:15:00;150;;MGMHD
+Movie;Movies, Comedy;3;2016-05-02 16:15:00;105;Cable;SHO3
+Kambu;Regular;0;2016-05-02 16:15:00;15;Broadcast;V-ME
+Movie;Movies, Comedy;0;2016-05-02 16:20:00;100;Cable;INDI
+Movie;Movies, Drama;0;2016-05-02 16:20:00;125;Cable;SHO
+Movie;Movies, Comedy/Drama;2;2016-05-02 16:20:00;130;Cable;CINEMA
+Zack and Quack;Children;0;2016-05-02 16:22:00;27;Cable;NICKJ
+227;Sitcom;0;2016-05-02 16:27:00;38;;CENT
+Movie;Movies, Animated;3;2016-05-02 16:29:00;76;Cable;STZEFM
+Duck Dynasty;Reality TV;0;2016-05-02 16:30:00;30;Cable;A&E
+Bewitched;Sitcom;0;2016-05-02 16:30:00;30;Broadcast;Antenna
+World Business Report;Business;0;2016-05-02 16:30:00;15;Cable;BBCW
+Looney Tunes;Children;0;2016-05-02 16:30:00;30;Cable;BOOM
+Teen Titans Go!;Animated;0;2016-05-02 16:30:00;30;Cable;TOON
+The Twilight Zone;Sci-Fi;0;2016-05-02 16:30:00;30;Cable;CHL
+Rules of Engagement;Sitcom;0;2016-05-02 16:30:00;30;Cable;COSMO
+Adam 12;Drama;0;2016-05-02 16:30:00;30;Broadcast;COZI
+Paint This With Jerry Yarnell;Hobbies & Crafts;0;2016-05-02 16:30:00;30;Broadcast;CREATE
+Cajun Justice;Reality TV;0;2016-05-02 16:30:00;30;;CIN
+Paid Program;Paid Program;0;2016-05-02 16:30:00;30;Broadcast;CW+
+Branded;Drama;0;2016-05-02 16:30:00;30;Broadcast;Decades
+Littlest Pet Shop;Children;0;2016-05-02 16:30:00;30;Cable;DFC
+Mickey Mouse Clubhouse;Children;0;2016-05-02 16:30:00;30;Cable;DISN
+Doc McStuffins;Animated, Children;0;2016-05-02 16:30:00;30;Cable;DISNJR
+Marvel's Ultimate Spider-Man: Web Warriors;Animated;0;2016-05-02 16:30:00;30;Cable;DISNXD
+Eye for An Eye;Reality TV;0;2016-05-02 16:30:00;30;Broadcast;FAMUSA
+Blues Live Post-game;Sports, Hockey;0;2016-05-02 16:30:00;30;Cable;FSM
+Last Man Standing;Sitcom;0;2016-05-02 16:30:00;30;Cable;FREE
+How I Met Your Mother;Sitcom;0;2016-05-02 16:30:00;30;Cable;FX
+Raising Hope;Sitcom;0;2016-05-02 16:30:00;30;Cable;FXX
+Food Factory;Food;0;2016-05-02 16:30:00;30;Cable;FYI
+Family Feud;Game Shows;0;2016-05-02 16:30:00;30;Cable;GSN
+Bad Blood;Docu-Series;0;2016-05-02 16:30:00;30;Cable;ID
+How I Met Your Mother;Sitcom;0;2016-05-02 16:30:00;30;Cable;LIFE
+The Main Ingredient With Bobby Flay;Food;0;2016-05-02 16:30:00;30;Cable;LIFERW
+The Brady Bunch;Sitcom;0;2016-05-02 16:30:00;30;Cable;LOGO
+The Garden Transformed;Sports, Miscellaneous;0;2016-05-02 16:30:00;30;Cable;MSG
+PAW Patrol;Animated;0;2016-05-02 16:30:00;30;Cable;NTOO
+PAW Patrol;Animated;0;2016-05-02 16:30:00;30;Cable;NICK
+Max and Shred;Children;0;2016-05-02 16:30:00;30;Cable;NICK
+Addicted to the Outdoors;Sports, Hunting;0;2016-05-02 16:30:00;30;Cable;OUT
+Movie;Movies, Action;3;2016-05-02 16:30:00;115;Cable;MAX7
+Thomas & Friends;Children;0;2016-05-02 16:30:00;30;Broadcast;PBSHD
+Tavis Smiley;Talk Shows;0;2016-05-02 16:30:00;30;Broadcast;World
+Hot Bench;Legal;0;2016-05-02 16:30:00;30;Broadcast;WPCH
+Harry and His Bucket Full of Dinosaurs;Children;0;2016-05-02 16:30:00;30;Broadcast;QUBO
+True North Classics;Short Film;0;2016-05-02 16:30:00;60;Cable;SILVSC
+Cops;Reality TV;0;2016-05-02 16:30:00;30;Cable;SPIKE
+Caillou;Children, Animated;0;2016-05-02 16:30:00;30;Broadcast;SPRT
+Movie;Movies, Comedy;2;2016-05-02 16:30:00;95;Cable;STZENC
+Robert Morris: The Blessed Life;Religious;0;2016-05-02 16:30:00;30;Broadcast;TBN
+Seinfeld;Sitcom;0;2016-05-02 16:30:00;30;Cable;TBS
+Ned's Declassified School Survival Guide;Children;0;2016-05-02 16:30:00;30;Cable;TNICK
+Kelsey's Essentials;Food;0;2016-05-02 16:30:00;30;Cable;COOK
+Movie;Movies, Musical;3;2016-05-02 16:30:00;105;Cable;TCM
+Plaza Ssamo;Children;0;2016-05-02 16:30:00;30;Broadcast;V-ME
+Inside Israeli Basketball;Sports, Basketball;0;2016-05-02 16:30:00;30;Cable;YES
+The Chef's Kitchen;Food;0;2016-05-02 16:30:00;30;Broadcast;YOUTOO
+Archer;Animated, Comedy;0;2016-05-02 16:33:00;33;Cable;COMC
+Movie;Movies, Animated;1;2016-05-02 16:35:00;75;Cable;HBOF
+Outlander;Drama;0;2016-05-02 16:35:00;60;Cable;EDGE
+Movie;Movies, Drama;0;2016-05-02 16:40:00;105;Cable;ZONE
+Movie;Movies, Drama;0;2016-05-02 16:40:00;125;Cable;PLEX
+Sport Today;Sports, Miscellaneous;0;2016-05-02 16:45:00;15;Cable;BBCW
+Movie;Movies, Suspense;1;2016-05-02 16:45:00;135;Cable;FXM
+Saved by the Bell;Sitcom;0;2016-05-02 16:45:00;35;Cable;MTV2
+My Wife and Kids;Sitcom;0;2016-05-02 16:45:00;45;Cable;OXY
+Movie;Movies, Western;2;2016-05-02 16:45:00;135;Cable;SHOWEX
+Movie;Movies, Drama;2;2016-05-02 16:45:00;130;Cable;STARZ
+Movie;Movies, Comedy;2;2016-05-02 16:45:00;105;Cable;BSTZ
+Movie;Movies, Psycho-Drama;2;2016-05-02 16:45:00;135;Cable;TMCX
+Peter Rabbit;Children;0;2016-05-02 16:49:00;27;Cable;NICKJ
+Movie;Movies, Comedy;2;2016-05-02 16:50:00;100;Cable;SRZC
+Soccer;Sports, Soccer;0;2016-05-02 16:55:00;120;Cable;beINS
+Dog the Bounty Hunter;Reality TV;0;2016-05-02 17:00:00;30;Cable;A&E
+The Chew;Talk Shows;0;2016-05-02 17:00:00;60;Network;ABC
+Nazis: Evolution of Evil;Documentary;0;2016-05-02 17:00:00;60;Cable;AHC
+Pit Bulls and Parolees;Animals;0;2016-05-02 17:00:00;60;Cable;ANPL
+I Dream of Jeannie;Sitcom;0;2016-05-02 17:00:00;30;Broadcast;Antenna
+Star Trek: The Next Generation;Sci-Fi;0;2016-05-02 17:00:00;60;Cable;BBC
+Outside Source;News;0;2016-05-02 17:00:00;30;Cable;BBCW
+Lacrosse;Sports, Lacrosse;0;2016-05-02 17:00:00;120;Cable;B10
+The Tom and Jerry Show;Children;0;2016-05-02 17:00:00;30;Cable;BOOM
+Southern Charm;Reality TV;0;2016-05-02 17:00:00;60;Cable;BRAVO
+Uncle Grandpa;Animated;0;2016-05-02 17:00:00;30;Cable;TOON
+Local Programming;TBA;0;2016-05-02 17:00:00;30;Network;CBS
+The Twilight Zone;Sci-Fi;0;2016-05-02 17:00:00;30;Cable;CHL
+House;Drama;0;2016-05-02 17:00:00;60;Cable;CLOO
+Power Lunch;Business;0;2016-05-02 17:00:00;120;Cable;CNBC
+Wolf;News;0;2016-05-02 17:00:00;60;Cable;CNN
+Stargate: SG-1;Sci-Fi;0;2016-05-02 17:00:00;60;Broadcast;Comet
+Rules of Engagement;Sitcom;0;2016-05-02 17:00:00;30;Cable;COSMO
+Charlie's Angels;Drama;0;2016-05-02 17:00:00;60;Broadcast;COZI
+Sara's Weeknight Meals;Food;0;2016-05-02 17:00:00;30;Broadcast;CREATE
+Cajun Justice;Reality TV;0;2016-05-02 17:00:00;30;;CIN
+Paid Program;Paid Program;0;2016-05-02 17:00:00;30;Broadcast;CW+
+Casa de Dios;Religious;0;2016-05-02 17:00:00;30;Broadcast;DSTAR
+Through the Decades;News Magazine;0;2016-05-02 17:00:00;60;Broadcast;Decades
+A Haunting;New Age;0;2016-05-02 17:00:00;60;Cable;DEST
+Fast N' Loud;Automotive;0;2016-05-02 17:00:00;60;Cable;DISC
+My Little Pony Friendship Is Magic;Children;0;2016-05-02 17:00:00;30;Cable;DFC
+Untold Stories of the E.R.;Health;0;2016-05-02 17:00:00;60;Cable;DFL
+Sofia the First;Children;0;2016-05-02 17:00:00;30;Cable;DISN
+Doc McStuffins;Animated, Children;0;2016-05-02 17:00:00;30;Cable;DISNJR
+Phineas and Ferb;Children;0;2016-05-02 17:00:00;30;Cable;DISNXD
+Texas Flip and Move;Home;0;2016-05-02 17:00:00;60;Cable;DIY
+Keeping Up With the Kardashians;Reality TV;0;2016-05-02 17:00:00;60;Cable;E!
+Football Classics;Sports, Football;0;2016-05-02 17:00:00;120;Cable;ESPNC
+Fuera de juego;Sports, Soccer;0;2016-05-02 17:00:00;60;Cable;ESPND
+Russillo and Kanell;Sports, Talk Show;0;2016-05-02 17:00:00;180;Cable;ESPNN
+SportsCenter Special;Sports, Miscellaneous;0;2016-05-02 17:00:00;30;Cable;ESPNU
+First Take;Sports, Talk Show;0;2016-05-02 17:00:00;120;Cable;ESPN2
+CSI: Crime Scene Investigation;Drama;0;2016-05-02 17:00:00;60;Cable;ESQTV
+Fashion Must Haves;Paid Program;0;2016-05-02 17:00:00;60;Cable;EVINE
+The Best of The Journey Home;Religious;0;2016-05-02 17:00:00;60;Cable;EWTN
+Balancing Act;Documentary;0;2016-05-02 17:00:00;30;Broadcast;FAMUSA
+The Rookies;Drama;0;2016-05-02 17:00:00;60;Broadcast;FAMN
+The Pioneer Woman;Food;0;2016-05-02 17:00:00;30;Cable;FOOD
+Fox Gol Mexico;Sports, Miscellaneous;0;2016-05-02 17:00:00;60;Cable;FOXD
+Happening Now;News;0;2016-05-02 17:00:00;60;Cable;FNC
+Best of WEC;Sports, Martial Arts;0;2016-05-02 17:00:00;60;Cable;FSM
+Reba;Sitcom;0;2016-05-02 17:00:00;30;Cable;FREE
+The PJs;Animated;0;2016-05-02 17:00:00;30;Cable;FUSE
+How I Met Your Mother;Sitcom;0;2016-05-02 17:00:00;30;Cable;FX
+Parks and Recreation;Sitcom;0;2016-05-02 17:00:00;30;Cable;FXX
+Food Porn;Food;0;2016-05-02 17:00:00;30;Cable;FYI
+Time Capsule;Music;0;2016-05-02 17:00:00;60;Cable;GAC
+Llena de Amor;Soaps;0;2016-05-02 17:00:00;60;Broadcast;GALA
+Family Feud;Game Shows;0;2016-05-02 17:00:00;30;Cable;GSN
+The Clubland;Sports, Soccer;0;2016-05-02 17:00:00;30;Cable;GOLTV
+Kung Fu;Drama;0;2016-05-02 17:00:00;60;Broadcast;H&I
+Movie;Movies, Drama;0;2016-05-02 17:00:00;120;Cable;HMC
+Love It or List It;Home;0;2016-05-02 17:00:00;60;Cable;HGTV
+PureSole Footwear;Shopping;0;2016-05-02 17:00:00;60;Broadcast;HSN
+Matlock;Drama;0;2016-05-02 17:00:00;60;Cable;INSP
+Evil Kin;Documentary;0;2016-05-02 17:00:00;60;Cable;ID
+Criminal Minds;Drama;0;2016-05-02 17:00:00;60;Broadcast;ION
+Grey's Anatomy;Drama, Hallowe'en;0;2016-05-02 17:00:00;60;Cable;LIFE
+Next Door With Katie Brown;Home;0;2016-05-02 17:00:00;30;Cable;LIFERW
+Roseanne;Sitcom;0;2016-05-02 17:00:00;30;Cable;LOGO
+Santa misa;Religious;0;2016-05-02 17:00:00;60;Cable;MAR
+Modern Marvels;Science;0;2016-05-02 17:00:00;60;;MHC
+High Heat;Sports, Baseball;0;2016-05-02 17:00:00;60;Cable;MLB
+Knick #;Sports, Biography, Basketball;0;2016-05-02 17:00:00;30;Cable;MSG
+MSNBC Live;News;0;2016-05-02 17:00:00;60;Cable;MSNBC
+MTV World Stage;Music;0;2016-05-02 17:00:00;60;Cable;MTVL
+This Week at NASA;News;0;2016-05-02 17:00:00;30;Broadcast;NASA1
+Southern Justice;Documentary;0;2016-05-02 17:00:00;60;Cable;NGEO
+Built for the Kill;Animals;0;2016-05-02 17:00:00;60;Cable;NGW
+Playoff Playback;Sports, Basketball;0;2016-05-02 17:00:00;60;Cable;NBA
+Days of Our Lives;Soaps;0;2016-05-02 17:00:00;60;Network;NBC
+El seor de los cielos;Drama;0;2016-05-02 17:00:00;60;Cable;NBCUN
+PAW Patrol;Animated;0;2016-05-02 17:00:00;30;Cable;NTOO
+PAW Patrol;Animated;0;2016-05-02 17:00:00;30;Cable;NICK
+Rabbids Invasion;Children, Animated;0;2016-05-02 17:00:00;30;Cable;NICK
+Dr. Phil;Talk Shows;0;2016-05-02 17:00:00;60;Cable;OWN
+Gridiron Outdoors;Sports, Outdoors;0;2016-05-02 17:00:00;30;Cable;OUT
+Johnny Cash in San Quentin;Music;0;2016-05-02 17:00:00;60;Cable;OVA
+Golf;Sports, Golf;0;2016-05-02 17:00:00;60;Cable;PAC12
+Sesame Street;Children;0;2016-05-02 17:00:00;30;Broadcast;PBSHD
+Overheard With Evan Smith;Discussion;0;2016-05-02 17:00:00;30;Broadcast;World
+Justice With Judge Mablean;Legal;0;2016-05-02 17:00:00;30;Broadcast;WPCH
+Veronica Mars;Drama;0;2016-05-02 17:00:00;60;Cable;PIVOT
+Beverly Hills 90210;Drama;0;2016-05-02 17:00:00;60;Cable;POP
+ToddWorld;Children;0;2016-05-02 17:00:00;30;Broadcast;QUBO
+Snapped;Biography;0;2016-05-02 17:00:00;60;Cable;REELZ
+Movie;Movies, Suspense;3;2016-05-02 17:00:00;90;Cable;RETRO
+The Unexplained Files;Sci-Fi;0;2016-05-02 17:00:00;60;Cable;SCI
+Movie;Movies, Documentary;0;2016-05-02 17:00:00;120;Cable;SHO2
+Cops;Reality TV;0;2016-05-02 17:00:00;30;Cable;SPIKE
+The Berenstain Bears;Children, Animated;0;2016-05-02 17:00:00;30;Broadcast;SPRT
+Marriage Today;Religious;0;2016-05-02 17:00:00;30;Broadcast;TBN
+Friends;Sitcom;0;2016-05-02 17:00:00;30;Cable;TBS
+100 Years 100 Events;Documentary;0;2016-05-02 17:00:00;10;Cable;TEACH
+Big Time Rush;Sitcom;0;2016-05-02 17:00:00;30;Cable;TNICK
+Quien es quien?;Regular;0;2016-05-02 17:00:00;60;Broadcast;MUN
+Extra Virgin;Food;0;2016-05-02 17:00:00;30;Cable;COOK
+College Tennis Report;Sports, Talk Show;0;2016-05-02 17:00:00;30;Cable;TWCS
+Dateline NBC;News Magazine;0;2016-05-02 17:00:00;60;Cable;TLC
+Bones;Drama;0;2016-05-02 17:00:00;60;Cable;TNT
+Bizarre Foods America;Food;0;2016-05-02 17:00:00;60;Cable;TRAVEL
+World's Dumbest...;Reality TV;0;2016-05-02 17:00:00;60;Cable;TRUTV-HD
+Gunsmoke;Drama;0;2016-05-02 17:00:00;60;Cable;TVLAND
+Fatal Attraction;Documentary;0;2016-05-02 17:00:00;60;Cable;TV1
+Sortilegio;Soaps;0;2016-05-02 17:00:00;120;Broadcast;UniME
+Hoy;News Magazine;0;2016-05-02 17:00:00;60;Broadcast;UNI
+NCIS;Drama;0;2016-05-02 17:00:00;60;Cable;USA
+American Hot Rod;Hobbies & Crafts;0;2016-05-02 17:00:00;60;Cable;VELO
+Black Ink Crew;Reality TV;0;2016-05-02 17:00:00;60;Cable;VH1
+That Metal Show;Music;0;2016-05-02 17:00:00;60;Cable;VH1-C
+NOISEY;Music;0;2016-05-02 17:00:00;60;Cable;VICE
+Luli Wonderworld;Children;0;2016-05-02 17:00:00;30;Broadcast;V-ME
+Law & Order: Criminal Intent;Drama;0;2016-05-02 17:00:00;60;Cable;WE
+Swing Clinic;Sports, Golf;0;2016-05-02 17:00:00;30;Cable;YES
+Paid Program;Paid Program;0;2016-05-02 17:00:00;30;Broadcast;YOUTOO
+227;Sitcom;0;2016-05-02 17:05:00;38;;CENT
+Archer;Animated, Comedy;0;2016-05-02 17:06:00;32;Cable;COMC
+Movie;Movies, Romance;3;2016-05-02 17:10:00;115;Cable;STZECL
+Movie;Movies, Family;3;2016-05-02 17:10:00;107;Cable;SRZK
+100 Years 100 Events;Documentary;0;2016-05-02 17:10:00;10;Cable;TEACH
+Movie;Movies, Comedy;3;2016-05-02 17:15:00;100;Cable;HBO
+Movie;Movies, Comedy;0;2016-05-02 17:15:00;100;Cable;HBOL
+El Adios;Short Film;0;2016-05-02 17:15:00;15;Cable;HBO4
+Movie;Movies, Drama;0;2016-05-02 17:15:00;105;Cable;NEXT
+Max and Ruby;Children;0;2016-05-02 17:16:00;28;Cable;NICKJ
+Movie;Movies, Thriller;3;2016-05-02 17:20:00;110;Cable;MAX1
+Movie;Movies, Comedy;2;2016-05-02 17:20:00;115;Cable;HBO3
+Movie;Movies, Suspense;4;2016-05-02 17:20:00;120;Cable;MAX2
+Saved by the Bell;Sitcom;0;2016-05-02 17:20:00;35;Cable;MTV2
+16 and Pregnant;Reality TV;0;2016-05-02 17:20:00;70;Cable;MTV
+100 Years 100 Events;Documentary;0;2016-05-02 17:20:00;10;Cable;TEACH
+Movie;Movies, Comedy/Drama;3;2016-05-02 17:25:00;95;Cable;HBOC
+Movie;Movies, Mystery;0;2016-05-02 17:25:00;150;Cable;HBO4
+Dog the Bounty Hunter;Reality TV;0;2016-05-02 17:30:00;30;Cable;A&E
+Movie;Movies, Action;0;2016-05-02 17:30:00;135;Cable;MAX3
+I Dream of Jeannie;Sitcom;0;2016-05-02 17:30:00;30;Broadcast;Antenna
+Focus on Africa;News;0;2016-05-02 17:30:00;30;Cable;BBCW
+The Tom and Jerry Show;Children;0;2016-05-02 17:30:00;30;Cable;BOOM
+Uncle Grandpa;Animated;0;2016-05-02 17:30:00;30;Cable;TOON
+The Young and the Restless;Soaps;0;2016-05-02 17:30:00;60;Network;CBS
+The Twilight Zone;Sci-Fi;0;2016-05-02 17:30:00;30;Cable;CHL
+Last Man Standing;Sitcom;0;2016-05-02 17:30:00;30;Cable;CMTUS
+Rules of Engagement;Sitcom;0;2016-05-02 17:30:00;30;Cable;COSMO
+Project Smoke;Food, Thanksgiving;0;2016-05-02 17:30:00;30;Broadcast;CREATE
+Cajun Justice;Reality TV;0;2016-05-02 17:30:00;30;;CIN
+Paid Program;Paid Program;0;2016-05-02 17:30:00;30;Broadcast;CW+
+Jack Van Impe;Religious;0;2016-05-02 17:30:00;30;Broadcast;DSTAR
+My Little Pony Friendship Is Magic;Children;0;2016-05-02 17:30:00;30;Cable;DFC
+Sofia the First;Children;0;2016-05-02 17:30:00;30;Cable;DISN
+Mickey Mouse Clubhouse;Children;0;2016-05-02 17:30:00;30;Cable;DISNJR
+Phineas and Ferb;Children;0;2016-05-02 17:30:00;30;Cable;DISNXD
+Outside the Lines;Sports, Discussion, Miscellaneous;0;2016-05-02 17:30:00;30;Cable;ESPN
+Football;Sports, Football;0;2016-05-02 17:30:00;180;Cable;ESPNU
+Lifestyle Magazine;News Magazine, Religious;0;2016-05-02 17:30:00;30;Broadcast;FAMUSA
+Barefoot Contessa;Food;0;2016-05-02 17:30:00;30;Cable;FOOD
+Reba;Sitcom;0;2016-05-02 17:30:00;30;Cable;FREE
+The PJs;Animated;0;2016-05-02 17:30:00;30;Cable;FUSE
+How I Met Your Mother;Sitcom;0;2016-05-02 17:30:00;30;Cable;FX
+Parks and Recreation;Sitcom;0;2016-05-02 17:30:00;30;Cable;FXX
+Food Porn;Food;0;2016-05-02 17:30:00;30;Cable;FYI
+Family Feud;Game Shows;0;2016-05-02 17:30:00;30;Cable;GSN
+The Football Review;Sports, News, Soccer;0;2016-05-02 17:30:00;30;Cable;GOLTV
+Golf;Sports, Golf;0;2016-05-02 17:30:00;270;Cable;GOLF
+Movie;Movies, Comedy;2;2016-05-02 17:30:00;100;Cable;HBO2
+Movie;Movies, Horror;3;2016-05-02 17:30:00;150;Cable;IFC
+Next Door With Katie Brown;Home;0;2016-05-02 17:30:00;30;Cable;LIFERW
+Roseanne;Sitcom;0;2016-05-02 17:30:00;30;Cable;LOGO
+Movie;Movies, Drama;3;2016-05-02 17:30:00;145;Cable;HBO4
+Knick #;Sports, Biography, Basketball;0;2016-05-02 17:30:00;30;Cable;MSG
+NASA X;Science;0;2016-05-02 17:30:00;30;Broadcast;NASA1
+Blaze and the Monster Machines;Children;0;2016-05-02 17:30:00;30;Cable;NTOO
+Blaze and the Monster Machines;Children;0;2016-05-02 17:30:00;30;Cable;NICK
+Rabbids Invasion;Children, Animated;0;2016-05-02 17:30:00;30;Cable;NICK
+Whitetail Freaks;Sports, Hunting;0;2016-05-02 17:30:00;30;Cable;OUT
+My Wife and Kids;Sitcom;0;2016-05-02 17:30:00;45;Cable;OXY
+The Cat in the Hat Knows a Lot About That;Children;0;2016-05-02 17:30:00;30;Broadcast;PBSHD
+Religion and Ethics Newsweekly;Religious;0;2016-05-02 17:30:00;30;Broadcast;World
+Justice With Judge Mablean;Legal;0;2016-05-02 17:30:00;30;Broadcast;WPCH
+ToddWorld;Children;0;2016-05-02 17:30:00;30;Broadcast;QUBO
+Movie;Movies, Action;0;2016-05-02 17:30:00;90;Cable;BYND
+Movie;Movies, Drama;3;2016-05-02 17:30:00;180;Cable;SHO-WE
+Movie;Movies, Drama;4;2016-05-02 17:30:00;150;Cable;SILVSC
+Cops;Reality TV;0;2016-05-02 17:30:00;30;Cable;SPIKE
+Zou;Children;0;2016-05-02 17:30:00;30;Broadcast;SPRT
+Movie;Movies, Adventure;4;2016-05-02 17:30:00;150;Cable;SUND
+Movie;Movies, Action;0;2016-05-02 17:30:00;120;Cable;SYFY
+Jewish Voice With Jonathan Bernis;Religious;0;2016-05-02 17:30:00;30;Broadcast;TBN
+Friends;Sitcom;0;2016-05-02 17:30:00;30;Cable;TBS
+100 Years 100 Events;Documentary;0;2016-05-02 17:30:00;10;Cable;TEACH
+Big Time Rush;Sitcom;0;2016-05-02 17:30:00;30;Cable;TNICK
+Extra Virgin;Food;0;2016-05-02 17:30:00;30;Cable;COOK
+Lacrosse;Sports, Lacrosse;0;2016-05-02 17:30:00;120;Cable;TWCS
+Movie;Movies, Sci-Fi;2;2016-05-02 17:30:00;130;Cable;TMC
+TuBeb;Children;0;2016-05-02 17:30:00;30;Broadcast;V-ME
+18 Holes With Jimmy Hanlin;Sports, Golf;0;2016-05-02 17:30:00;30;Cable;YES
+Hometime;Home;0;2016-05-02 17:30:00;30;Broadcast;YOUTOO
+Movie;Movies, Comedy;2;2016-05-02 17:35:00;100;Cable;SHOFZ
+Movie;Movies, Comedy;1;2016-05-02 17:35:00;85;Cable;EDGE
+Archer;Animated, Comedy;0;2016-05-02 17:38:00;32;Cable;COMC
+100 Years 100 Events;Documentary;0;2016-05-02 17:40:00;10;Cable;TEACH
+227;Sitcom;0;2016-05-02 17:43:00;38;;CENT
+Max and Ruby;Children, Animated;0;2016-05-02 17:44:00;27;Cable;NICKJ
+Movie;Movies, Sport;0;2016-05-02 17:45:00;120;Cable;STZEBK
+Movie;Movies, Biography;0;2016-05-02 17:45:00;125;Cable;STZEFM
+El Perro y El Gato;Children;0;2016-05-02 17:50:00;5;Cable;HBOF
+100 Years 100 Events;Documentary;0;2016-05-02 17:50:00;11;Cable;TEACH
+Movie;Movies;2;2016-05-02 17:55:00;100;Cable;CINEL
+El Perro y El Gato;Children;0;2016-05-02 17:55:00;5;Cable;HBOF
+Saved by the Bell;Sitcom;0;2016-05-02 17:55:00;35;Cable;MTV2
+Dog the Bounty Hunter;Reality TV;0;2016-05-02 18:00:00;30;Cable;A&E
+General Hospital;Soaps;0;2016-05-02 18:00:00;60;Network;ABC
+Movie;Movies, Action;3;2016-05-02 18:00:00;150;Cable;AMC
+Nazis: Evolution of Evil;Documentary;0;2016-05-02 18:00:00;60;Cable;AHC
+American River Renegades;Animals;0;2016-05-02 18:00:00;60;Cable;ANPL
+Green Acres;Sitcom;0;2016-05-02 18:00:00;30;Broadcast;Antenna
+Man vs. Wild;Documentary;0;2016-05-02 18:00:00;60;Cable;BBC
+World News Today;News;0;2016-05-02 18:00:00;30;Cable;BBCW
+Bloomberg Markets;Business, News;0;2016-05-02 18:00:00;60;Cable;BLM-US
+The Tom and Jerry Show;Children;0;2016-05-02 18:00:00;30;Cable;BOOM
+Southern Charm;Reality TV;0;2016-05-02 18:00:00;58;Cable;BRAVO
+The Amazing World of Gumball;Animated;0;2016-05-02 18:00:00;30;Cable;TOON
+The Twilight Zone;Sci-Fi;0;2016-05-02 18:00:00;30;Cable;CHL
+House;Drama;0;2016-05-02 18:00:00;60;Cable;CLOO
+Dallas Cowboys Cheerleaders: Making the Team;Reality TV;0;2016-05-02 18:00:00;60;Cable;CMTUS
+CNN Newsroom;News Magazine;0;2016-05-02 18:00:00;60;Cable;CNN
+The Outer Limits;Sci-Fi;0;2016-05-02 18:00:00;60;Broadcast;Comet
+CSI: Miami;Drama;0;2016-05-02 18:00:00;60;Cable;COSMO
+Hart to Hart;Drama;0;2016-05-02 18:00:00;60;Broadcast;COZI
+Chef John Besh's New Orleans;Food;0;2016-05-02 18:00:00;30;Broadcast;CREATE
+Justice Files;Reality TV;0;2016-05-02 18:00:00;60;;CIN
+U.S. House of Representatives;Political;0;2016-05-02 18:00:00;420;Cable;CSPAN
+U.S. Senate;Political;0;2016-05-02 18:00:00;360;Cable;CSPAN2
+Rules of Engagement;Sitcom;0;2016-05-02 18:00:00;30;Broadcast;CW+
+The Jewish Jesus;Religious;0;2016-05-02 18:00:00;30;Broadcast;DSTAR
+The Dick Cavett Show;Talk Shows;0;2016-05-02 18:00:00;60;Broadcast;Decades
+A Haunting;New Age;0;2016-05-02 18:00:00;60;Cable;DEST
+Fast N' Loud;Automotive;0;2016-05-02 18:00:00;60;Cable;DISC
+Littlest Pet Shop;Children;0;2016-05-02 18:00:00;30;Cable;DFC
+Hoarding: Buried Alive;Documentary;0;2016-05-02 18:00:00;60;Cable;DFL
+Stuck in the Middle;Comedy;0;2016-05-02 18:00:00;30;Cable;DISN
+Mickey Mouse Clubhouse;Children;0;2016-05-02 18:00:00;30;Cable;DISNJR
+Phineas and Ferb;Children;0;2016-05-02 18:00:00;30;Cable;DISNXD
+Texas Flip and Move;Home;0;2016-05-02 18:00:00;60;Cable;DIY
+Keeping Up With the Kardashians;Reality TV;0;2016-05-02 18:00:00;60;Cable;E!
+NFL Insiders;Sports, Discussion, Football;0;2016-05-02 18:00:00;30;Cable;ESPN
+Ftbol Picante;Sports, Discussion, Soccer;0;2016-05-02 18:00:00;60;Cable;ESPND
+CSI: Crime Scene Investigation;Drama;0;2016-05-02 18:00:00;60;Cable;ESQTV
+Jambu Footwear;Shopping;0;2016-05-02 18:00:00;60;Cable;EVINE
+At Home With Jim and Joy;Religious;0;2016-05-02 18:00:00;60;Cable;EWTN
+Highway to Heaven;Drama;0;2016-05-02 18:00:00;60;Broadcast;FAMUSA
+Fantasy Island;Drama;0;2016-05-02 18:00:00;60;Broadcast;FAMN
+Movie;Movies, Suspense;2;2016-05-02 18:00:00;150;Cable;FLIX
+The Kitchen;Food;0;2016-05-02 18:00:00;60;Cable;FOOD
+The Intelligence Report With Trish Regan;Business;0;2016-05-02 18:00:00;60;Cable;FOXB
+Ftbol;Sports, Soccer;0;2016-05-02 18:00:00;120;Cable;FOXD
+The Real Story with Gretchen Carlson;News;0;2016-05-02 18:00:00;60;Cable;FNC
+Soccer;Sports, Soccer;0;2016-05-02 18:00:00;150;Cable;FS1
+UFC Ultimate Knockouts;Sports, Martial Arts;0;2016-05-02 18:00:00;30;Cable;FSM
+Reba;Sitcom;0;2016-05-02 18:00:00;30;Cable;FREE
+The PJs;Animated;0;2016-05-02 18:00:00;30;Cable;FUSE
+How I Met Your Mother;Sitcom;0;2016-05-02 18:00:00;30;Cable;FX
+Parks and Recreation;Sitcom;0;2016-05-02 18:00:00;30;Cable;FXX
+Kitchen Nightmares;Reality TV;0;2016-05-02 18:00:00;60;Cable;FYI
+GAC Music Videos;Music;0;2016-05-02 18:00:00;60;Cable;GAC
+La Guereja de mi vida;Comedy;0;2016-05-02 18:00:00;30;Broadcast;GALA
+Catch 21;Game Shows;0;2016-05-02 18:00:00;30;Cable;GSN
+Soccer;Sports, Soccer;0;2016-05-02 18:00:00;120;Cable;GOLTV
+The Commish;Drama;0;2016-05-02 18:00:00;60;Broadcast;H&I
+Little House on the Prairie;Drama;0;2016-05-02 18:00:00;60;Cable;HALL
+Movie;Movies, Christmas, Comedy;3;2016-05-02 18:00:00;120;Cable;HBOF
+Love It or List It;Home;0;2016-05-02 18:00:00;60;Cable;HGTV
+Iron and Fire;Docu-Series;0;2016-05-02 18:00:00;30;Cable;HIST
+CNN Special Report;News;0;2016-05-02 18:00:00;60;Cable;HLN
+Travel Solutions;Shopping;0;2016-05-02 18:00:00;60;Broadcast;HSN
+Movie;Movies, War;2;2016-05-02 18:00:00;120;Cable;INDI
+Matlock;Drama;0;2016-05-02 18:00:00;60;Cable;INSP
+Evil Kin;Documentary;0;2016-05-02 18:00:00;60;Cable;ID
+Criminal Minds;Drama;0;2016-05-02 18:00:00;60;Broadcast;ION
+Grey's Anatomy;Drama;0;2016-05-02 18:00:00;60;Cable;LIFE
+Next Door With Katie Brown;Home;0;2016-05-02 18:00:00;30;Cable;LIFERW
+Movie;Movies, Drama;0;2016-05-02 18:00:00;120;Cable;LMN
+Roseanne;Sitcom;0;2016-05-02 18:00:00;30;Cable;LOGO
+El santsimo sacramento;Religious;0;2016-05-02 18:00:00;60;Cable;MAR
+101 Weapons That Changed the World;Documentary;0;2016-05-02 18:00:00;120;;MHC
+The Rundown;Sports, Baseball;0;2016-05-02 18:00:00;120;Cable;MLB
+MSG Fight Night in 60;Sports, Boxing;0;2016-05-02 18:00:00;60;Cable;MSG
+UFC 172;Sports, Martial Arts;0;2016-05-02 18:00:00;180;Cable;MSG+
+MSNBC Live;News;0;2016-05-02 18:00:00;60;Cable;MSNBC
+Glastonbury 2005;Music;0;2016-05-02 18:00:00;60;Cable;MTVL
+NASA Edge;Science;0;2016-05-02 18:00:00;30;Broadcast;NASA1
+Southern Justice;Documentary;0;2016-05-02 18:00:00;60;Cable;NGEO
+Bandit Patrol;Animals;0;2016-05-02 18:00:00;60;Cable;NGW
+Playoff Playback;Sports, Basketball;0;2016-05-02 18:00:00;60;Cable;NBA
+Local Programming;TBA;0;2016-05-02 18:00:00;240;Network;NBC
+Premier League Live;Sports, Soccer;0;2016-05-02 18:00:00;55;Cable;NBCSN
+Fuerza Especial de Fugitivos;Regular;0;2016-05-02 18:00:00;30;Cable;NBCUN
+NFL HQ;Sports, Football;0;2016-05-02 18:00:00;120;Cable;NFLN
+ALVINNN!!! and The Chipmunks;Animated;0;2016-05-02 18:00:00;30;Cable;NTOO
+ALVINNN!!! and The Chipmunks;Animated;0;2016-05-02 18:00:00;30;Cable;NICK
+Miraculous: Tales of Ladybug and Cat Noir;Children;0;2016-05-02 18:00:00;30;Cable;NICK
+Our America With Lisa Ling;Documentary;0;2016-05-02 18:00:00;60;Cable;OWN
+The Adventure Series;Sports, Hunting;0;2016-05-02 18:00:00;60;Cable;OUT
+Movie;Movies, Comedy/Drama;3;2016-05-02 18:00:00;150;Cable;OVA
+Beach Volleyball;Sports, Volleyball;0;2016-05-02 18:00:00;90;Cable;PAC12
+Curious George;Children;0;2016-05-02 18:00:00;30;Broadcast;PBSHD
+Nature;Documentary;0;2016-05-02 18:00:00;60;Broadcast;World
+Divorce Court;Legal;0;2016-05-02 18:00:00;30;Broadcast;WPCH
+Veronica Mars;Drama;0;2016-05-02 18:00:00;60;Cable;PIVOT
+The O.C.;Drama;0;2016-05-02 18:00:00;60;Cable;POP
+Raggs;Children;0;2016-05-02 18:00:00;30;Broadcast;QUBO
+Cold Case Files;Documentary;0;2016-05-02 18:00:00;60;Cable;REELZ
+Horse Master With Julie Goodnight;Sports, Equestrian;0;2016-05-02 18:00:00;30;Cable;RFD
+The Unexplained Files;Sci-Fi;0;2016-05-02 18:00:00;60;Cable;SCI
+Movie;Movies, Drama;3;2016-05-02 18:00:00;120;Cable;SHO3
+Cops;Reality TV;0;2016-05-02 18:00:00;30;Cable;SPIKE
+Noodle and Doodle;Children;0;2016-05-02 18:00:00;30;Broadcast;SPRT
+Movie;Movies, Comedy;3;2016-05-02 18:00:00;85;Cable;STZESU
+Maverick;Drama;0;2016-05-02 18:00:00;51;Cable;STZEWS
+Life Today With James Robison;Religious;0;2016-05-02 18:00:00;30;Broadcast;TBN
+Friends;Sitcom;0;2016-05-02 18:00:00;30;Cable;TBS
+Big Time Rush;Sitcom;0;2016-05-02 18:00:00;30;Cable;TNICK
+Suelta la sopa;News Magazine;0;2016-05-02 18:00:00;60;Broadcast;MUN
+Everyday Italian;Food;0;2016-05-02 18:00:00;30;Cable;COOK
+Dateline NBC;News Magazine;0;2016-05-02 18:00:00;60;Cable;TLC
+Bones;Drama;0;2016-05-02 18:00:00;60;Cable;TNT
+Bizarre Foods America;Food;0;2016-05-02 18:00:00;60;Cable;TRAVEL
+World's Dumbest...;Reality TV;0;2016-05-02 18:00:00;60;Cable;TRUTV-HD
+Gunsmoke;Drama;0;2016-05-02 18:00:00;60;Cable;TVLAND
+Fatal Attraction;Documentary;0;2016-05-02 18:00:00;60;Cable;TV1
+Amor de barrio;Telenovel;0;2016-05-02 18:00:00;60;Broadcast;UNI
+NCIS;Drama;0;2016-05-02 18:00:00;60;Cable;USA
+American Hot Rod;Hobbies & Crafts;0;2016-05-02 18:00:00;60;Cable;VELO
+The Fabulous Life Of...;Biography;0;2016-05-02 18:00:00;60;Cable;VH1
+2014 Golden Gods Awards;Awards;0;2016-05-02 18:00:00;90;Cable;VH1-C
+NOISEY;Music;0;2016-05-02 18:00:00;60;Cable;VICE
+Hola Maytte;Regular;0;2016-05-02 18:00:00;30;Broadcast;V-ME
+Law & Order: Criminal Intent;Drama;0;2016-05-02 18:00:00;60;Cable;WE
+Forbes SportsMoney;Sports, Talk Show;0;2016-05-02 18:00:00;30;Cable;YES
+House Smarts;Home;0;2016-05-02 18:00:00;30;Broadcast;YOUTOO
+AP Calculus;Instructional;0;2016-05-02 18:01:00;44;Cable;TEACH
+Movie;Movies, Action;2;2016-05-02 18:05:00;145;Cable;STZENC
+Archer;Animated, Comedy;0;2016-05-02 18:10:00;32;Cable;COMC
+Peppa Pig;Children;0;2016-05-02 18:11:00;27;Cable;NICKJ
+My Wife and Kids;Sitcom;0;2016-05-02 18:15:00;30;Cable;OXY
+Movie;Movies, Musical;4;2016-05-02 18:15:00;105;Cable;TCM
+Movie;Movies, Crime Story;2;2016-05-02 18:20:00;125;Cable;STZEAC
+227;Sitcom;0;2016-05-02 18:21:00;39;;CENT
+Movie;Movies, Comedy;3;2016-05-02 18:25:00;100;Cable;ZONE
+Movie;Movies, Drama;2;2016-05-02 18:25:00;145;Cable;MAX7
+Movie;Movies, Western;0;2016-05-02 18:25:00;95;Cable;SHO
+Dog the Bounty Hunter;Reality TV;0;2016-05-02 18:30:00;30;Cable;A&E
+Green Acres;Sitcom;0;2016-05-02 18:30:00;30;Broadcast;Antenna
+Sport Today;Sports, Miscellaneous;0;2016-05-02 18:30:00;30;Cable;BBCW
+Courage the Cowardly Dog;Children, Animated;0;2016-05-02 18:30:00;30;Cable;BOOM
+Teen Titans Go!;Animated;0;2016-05-02 18:30:00;30;Cable;TOON
+The Bold and the Beautiful;Soaps;0;2016-05-02 18:30:00;30;Network;CBS
+The Twilight Zone;Sci-Fi;0;2016-05-02 18:30:00;30;Cable;CHL
+New Scandinavian Cooking;Food;0;2016-05-02 18:30:00;30;Broadcast;CREATE
+Rules of Engagement;Sitcom;0;2016-05-02 18:30:00;30;Broadcast;CW+
+Today With Marilyn and Sarah;Religious;0;2016-05-02 18:30:00;30;Broadcast;DSTAR
+Littlest Pet Shop;Children;0;2016-05-02 18:30:00;30;Cable;DFC
+Liv and Maddie;Children;0;2016-05-02 18:30:00;30;Cable;DISN
+Mickey Mouse Clubhouse;Children;0;2016-05-02 18:30:00;30;Cable;DISNJR
+Phineas and Ferb;Children;0;2016-05-02 18:30:00;30;Cable;DISNXD
+NFL Live;Sports, Football;0;2016-05-02 18:30:00;60;Cable;ESPN
+N'Side Nebraska;Sports, Miscellaneous;0;2016-05-02 18:30:00;30;Cable;FSM
+Reba;Sitcom;0;2016-05-02 18:30:00;30;Cable;FREE
+The PJs;Animated;0;2016-05-02 18:30:00;30;Cable;FUSE
+Anger Management;Sitcom;0;2016-05-02 18:30:00;30;Cable;FX
+Parks and Recreation;Sitcom;0;2016-05-02 18:30:00;30;Cable;FXX
+La Guereja de mi vida;Comedy;0;2016-05-02 18:30:00;30;Broadcast;GALA
+The Pyramid;Game Shows;0;2016-05-02 18:30:00;30;Cable;GSN
+Iron and Fire;Docu-Series;0;2016-05-02 18:30:00;30;Cable;HIST
+Next Door With Katie Brown;Home;0;2016-05-02 18:30:00;30;Cable;LIFERW
+Roseanne;Sitcom;0;2016-05-02 18:30:00;30;Cable;LOGO
+Everybody Hates Chris;Sitcom;0;2016-05-02 18:30:00;35;Cable;MTV2
+16 and Pregnant;Reality TV;0;2016-05-02 18:30:00;70;Cable;MTV
+Inside the ISS;Science;0;2016-05-02 18:30:00;30;Broadcast;NASA1
+BPL World;Regular;0;2016-05-02 18:30:00;25;Cable;NBCUN
+ALVINNN!!! and The Chipmunks;Animated;0;2016-05-02 18:30:00;30;Cable;NTOO
+ALVINNN!!! and The Chipmunks;Animated;0;2016-05-02 18:30:00;30;Cable;NICK
+Miraculous: Tales of Ladybug and Cat Noir;Children;0;2016-05-02 18:30:00;30;Cable;NICK
+Curious George;Children;0;2016-05-02 18:30:00;30;Broadcast;PBSHD
+Divorce Court;Legal;0;2016-05-02 18:30:00;30;Broadcast;WPCH
+Raggs;Children;0;2016-05-02 18:30:00;30;Broadcast;QUBO
+Movie;Movies, Adventure;4;2016-05-02 18:30:00;120;Cable;RETRO
+Inside Reining;Sports, Equestrian;0;2016-05-02 18:30:00;30;Cable;RFD
+Cops;Reality TV;0;2016-05-02 18:30:00;30;Cable;SPIKE
+Astroblast;Children;0;2016-05-02 18:30:00;30;Broadcast;SPRT
+Movie;Movies, Comedy;2;2016-05-02 18:30:00;90;Cable;CINEMA
+Movie;Movies, Comedy;3;2016-05-02 18:30:00;120;Cable;SRZC
+Movie;Movies, War;2;2016-05-02 18:30:00;185;Cable;BSTZ
+The Potter's Touch With Bishop T.D. Jakes;Religious;0;2016-05-02 18:30:00;30;Broadcast;TBN
+Friends;Sitcom;0;2016-05-02 18:30:00;30;Cable;TBS
+Big Time Rush;Sitcom;0;2016-05-02 18:30:00;30;Cable;TNICK
+Everyday Italian;Food;0;2016-05-02 18:30:00;30;Cable;COOK
+Decora tu Interior;Home;0;2016-05-02 18:30:00;60;Broadcast;V-ME
+The Joe Girardi Show;Sports, Baseball;0;2016-05-02 18:30:00;30;Cable;YES
+Paid Program;Paid Program;0;2016-05-02 18:30:00;30;Broadcast;YOUTOO
+Peppa Pig;Children;0;2016-05-02 18:38:00;27;Cable;NICKJ
